@@ -1,0 +1,1399 @@
+genre,age,nationalite,niveauEtudes,sessionId,textId,associationType,personAType,valueOneA,valueTwoA,forceA,personBType,valueOneB,valueTwoB,forceB
+homme,23,HRV,bac+4,420008aa-5136-48fb-9a6f-4347673fce87,67a243ea6d8e29a001947946,risk-reward,Robot,8,5,8,Personne âgée,2,5,3
+homme,23,HRV,bac+4,420008aa-5136-48fb-9a6f-4347673fce87,67a243ea6d8e29a001947945,risk-reward,Femme petite taille,4,7,5,Robot,6,3,8
+homme,23,HRV,bac+4,420008aa-5136-48fb-9a6f-4347673fce87,67a51efa18a0dfe14aac016b,risk-effort,Enfant,5,3,3,Femme petite taille,5,7,5
+homme,23,HRV,bac+4,420008aa-5136-48fb-9a6f-4347673fce87,67a243ea6d8e29a001947947,effort-reward,Enfant,3,3,3,Femme petite taille,7,7,5
+homme,23,HRV,bac+4,420008aa-5136-48fb-9a6f-4347673fce87,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,5,5,7,Homme petite taille,5,5,6
+homme,23,HRV,bac+4,420008aa-5136-48fb-9a6f-4347673fce87,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,8,8,6,Personne âgée,2,2,3
+homme,23,HRV,bac+4,420008aa-5136-48fb-9a6f-4347673fce87,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,6,6,9,Homme petite taille,4,4,6
+homme,23,HRV,bac+4,420008aa-5136-48fb-9a6f-4347673fce87,67a243ea6d8e29a001947949,effort-reward,Personne âgée,3,3,3,Femme grande taille,7,7,7
+homme,23,HRV,bac+4,420008aa-5136-48fb-9a6f-4347673fce87,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,7,8,6,Enfant,3,2,3
+homme,23,HRV,bac+4,420008aa-5136-48fb-9a6f-4347673fce87,67a243ea6d8e29a001947944,risk-reward,Personne âgée,3,3,3,Homme petite taille,7,7,6
+homme,23,HRV,bac+4,420008aa-5136-48fb-9a6f-4347673fce87,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,7,3,3,Femme petite taille,3,7,5
+homme,23,HRV,bac+4,420008aa-5136-48fb-9a6f-4347673fce87,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,4,5,7,Homme grande taille,6,5,9
+homme,23,HRV,bac+4,420008aa-5136-48fb-9a6f-4347673fce87,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,8,9,9,Personne âgée,2,1,3
+homme,23,HRV,bac+4,420008aa-5136-48fb-9a6f-4347673fce87,67a243ea6d8e29a001947948,effort-reward,Personne âgée,3,5,3,Femme grande taille,7,5,7
+homme,23,HRV,bac+4,420008aa-5136-48fb-9a6f-4347673fce87,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,2,10,5,Robot,8,0,8
+homme,23,HRV,bac+4,420008aa-5136-48fb-9a6f-4347673fce87,67a51eb49d8894e943d3ff93,risk-effort,Enfant,1,1,3,Robot,9,9,8
+homme,23,HRV,bac+4,420008aa-5136-48fb-9a6f-4347673fce87,67a243ea6d8e29a001947945,risk-reward,Robot,6,0,8,Femme grande taille,4,10,7
+homme,23,HRV,bac+4,420008aa-5136-48fb-9a6f-4347673fce87,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,7,5,7,Enfant,3,5,3
+homme,21,FRA,bac+3,a4237e0c-4bc0-48d7-8a6a-3155792d9cc5,67a51eb49d8894e943d3ff93,risk-effort,Femme petite taille,6,2,6,Homme petite taille,4,8,7
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,7,5,5,Personne âgée,3,5,1
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947946,risk-reward,Enfant,1,3,2,Homme grande taille,9,7,8
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947944,risk-reward,Robot,7,0,10,Femme grande taille,3,10,6
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,0,10,8,Personne âgée,10,0,1
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,8,5,8,Femme petite taille,2,5,4
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,7,8,4,Enfant,3,2,2
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,10,5,6,Femme grande taille,0,5,6
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,2,10,4,Personne âgée,8,0,1
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947948,effort-reward,Enfant,0,3,2,Homme grande taille,10,7,8
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,10,5,6,Personne âgée,0,5,1
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,0,0,1,Homme grande taille,10,10,8
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947947,effort-reward,Enfant,4,1,2,Personne âgée,6,9,1
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,0,0,1,Homme petite taille,10,10,6
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,1,10,6,Robot,9,0,10
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947944,risk-reward,Robot,10,0,10,Enfant,0,10,2
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,10,9,8,Enfant,0,1,2
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,0,10,4,Robot,10,0,10
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a51efa18a0dfe14aac016b,risk-effort,Enfant,3,0,2,Femme grande taille,7,10,6
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a51efa18a0dfe14aac016b,risk-effort,Enfant,5,5,2,Femme grande taille,5,5,6
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a51efa18a0dfe14aac016b,risk-effort,Enfant,5,5,2,Femme grande taille,5,5,6
+homme,23,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a51efa18a0dfe14aac016b,risk-effort,Enfant,5,5,2,Femme grande taille,5,5,6
+homme,24,FRA,employe,32bb87b1-0fea-45f8-a052-11eee481457b,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,4,5,6,Femme grande taille,6,5,7
+homme,24,FRA,employe,32bb87b1-0fea-45f8-a052-11eee481457b,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,7,7,7,Femme petite taille,3,3,3
+homme,24,FRA,employe,32bb87b1-0fea-45f8-a052-11eee481457b,67a243ea6d8e29a001947944,risk-reward,Enfant,0,10,1,Robot,10,0,10
+homme,24,FRA,employe,32bb87b1-0fea-45f8-a052-11eee481457b,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,7,7,6,Personne âgée,3,3,2
+homme,24,FRA,employe,32bb87b1-0fea-45f8-a052-11eee481457b,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,4,4,3,Homme grande taille,6,6,8
+homme,24,FRA,employe,32bb87b1-0fea-45f8-a052-11eee481457b,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,0,0,6,Robot,10,10,10
+homme,24,FRA,employe,32bb87b1-0fea-45f8-a052-11eee481457b,67a51e546623f6ccab523c27,risk-effort,Enfant,4,4,1,Femme petite taille,6,6,3
+homme,24,FRA,employe,32bb87b1-0fea-45f8-a052-11eee481457b,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,5,5,8,Personne âgée,5,5,2
+homme,24,FRA,employe,32bb87b1-0fea-45f8-a052-11eee481457b,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,7,7,6,Femme petite taille,3,3,3
+homme,24,FRA,employe,32bb87b1-0fea-45f8-a052-11eee481457b,67a243ea6d8e29a001947946,risk-reward,Homme grande taille,7,5,8,Homme petite taille,3,5,6
+homme,24,FRA,employe,32bb87b1-0fea-45f8-a052-11eee481457b,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,6,6,6,Personne âgée,4,4,2
+homme,24,FRA,employe,32bb87b1-0fea-45f8-a052-11eee481457b,67a243ea6d8e29a001947945,risk-reward,Robot,10,0,10,Femme petite taille,0,10,3
+homme,24,FRA,employe,32bb87b1-0fea-45f8-a052-11eee481457b,67a243ea6d8e29a001947948,effort-reward,Personne âgée,5,5,2,Femme grande taille,5,5,7
+homme,24,FRA,employe,32bb87b1-0fea-45f8-a052-11eee481457b,67a51efa18a0dfe14aac016b,risk-effort,Robot,10,10,10,Personne âgée,0,0,2
+homme,24,FRA,employe,32bb87b1-0fea-45f8-a052-11eee481457b,67a243ea6d8e29a001947948,effort-reward,Robot,10,0,10,Personne âgée,0,10,2
+homme,24,FRA,employe,32bb87b1-0fea-45f8-a052-11eee481457b,67a51efa18a0dfe14aac016b,risk-effort,Robot,10,10,10,Femme petite taille,0,0,3
+homme,24,FRA,employe,32bb87b1-0fea-45f8-a052-11eee481457b,67a243ea6d8e29a001947946,risk-reward,Personne âgée,3,4,2,Homme grande taille,7,6,8
+homme,24,FRA,employe,32bb87b1-0fea-45f8-a052-11eee481457b,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,0,10,7,Robot,10,0,10
+femme,21,PER,bac+2,733a8073-5e8a-4463-9bb2-5f09d76ff8db,67a243ea6d8e29a001947944,risk-reward,Enfant,3,4,2,Robot,7,6,7
+femme,21,PER,bac+2,733a8073-5e8a-4463-9bb2-5f09d76ff8db,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,4,4,4,Femme grande taille,6,6,8
+femme,21,PER,bac+2,733a8073-5e8a-4463-9bb2-5f09d76ff8db,67a243ea6d8e29a001947946,risk-reward,Enfant,5,5,2,Personne âgée,5,5,2
+femme,21,PER,bac+2,733a8073-5e8a-4463-9bb2-5f09d76ff8db,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,5,5,9,Enfant,5,5,2
+femme,21,PER,bac+2,733a8073-5e8a-4463-9bb2-5f09d76ff8db,67a243ea6d8e29a001947947,effort-reward,Robot,6,6,7,Homme grande taille,4,4,9
+femme,21,PER,bac+2,733a8073-5e8a-4463-9bb2-5f09d76ff8db,67a243ea6d8e29a001947948,effort-reward,Enfant,3,5,2,Femme petite taille,7,5,4
+femme,21,PER,bac+2,733a8073-5e8a-4463-9bb2-5f09d76ff8db,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,5,5,4,Femme grande taille,5,5,8
+femme,21,PER,bac+2,733a8073-5e8a-4463-9bb2-5f09d76ff8db,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,7,5,4,Enfant,3,5,2
+femme,21,PER,bac+2,733a8073-5e8a-4463-9bb2-5f09d76ff8db,67a243ea6d8e29a001947947,effort-reward,Robot,7,5,7,Femme petite taille,3,5,4
+femme,21,PER,bac+2,733a8073-5e8a-4463-9bb2-5f09d76ff8db,67a243ea6d8e29a001947944,risk-reward,Personne âgée,5,5,2,Enfant,5,5,2
+femme,21,PER,bac+2,733a8073-5e8a-4463-9bb2-5f09d76ff8db,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,7,5,4,Personne âgée,3,5,2
+femme,21,PER,bac+2,733a8073-5e8a-4463-9bb2-5f09d76ff8db,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,2,5,4,Robot,8,5,7
+femme,21,PER,bac+2,733a8073-5e8a-4463-9bb2-5f09d76ff8db,67a51efa18a0dfe14aac016b,risk-effort,Enfant,5,4,2,Homme petite taille,5,6,4
+femme,21,PER,bac+2,733a8073-5e8a-4463-9bb2-5f09d76ff8db,67a51e546623f6ccab523c27,risk-effort,Robot,2,7,7,Femme grande taille,8,3,8
+femme,21,PER,bac+2,733a8073-5e8a-4463-9bb2-5f09d76ff8db,67a243ea6d8e29a001947945,risk-reward,Enfant,5,5,2,Robot,5,5,7
+femme,21,PER,bac+2,733a8073-5e8a-4463-9bb2-5f09d76ff8db,67a51eb49d8894e943d3ff93,risk-effort,Robot,9,3,7,Enfant,1,7,2
+femme,21,PER,bac+2,733a8073-5e8a-4463-9bb2-5f09d76ff8db,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,5,2,4,Robot,5,8,7
+femme,21,PER,bac+2,733a8073-5e8a-4463-9bb2-5f09d76ff8db,67a243ea6d8e29a001947946,risk-reward,Enfant,2,5,2,Homme grande taille,8,5,9
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a243ea6d8e29a001947948,effort-reward,Femme petite taille,3,8,4,Enfant,7,2,5
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a51efa18a0dfe14aac016b,risk-effort,Homme petite taille,2,8,5,Femme grande taille,8,2,6
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a243ea6d8e29a001947946,risk-reward,Enfant,5,4,5,Femme grande taille,5,6,6
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,9,2,9,Femme grande taille,1,8,6
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,5,5,4,Personne âgée,5,5,4
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,0,3,4,Homme grande taille,10,7,9
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a243ea6d8e29a001947949,effort-reward,Personne âgée,5,5,4,Femme petite taille,5,5,4
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,7,5,6,Personne âgée,3,5,4
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,8,3,4,Femme grande taille,2,7,6
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,0,10,6,Homme grande taille,10,0,9
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,5,5,6,Personne âgée,5,5,4
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,5,5,6,Personne âgée,5,5,4
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,5,5,5,Femme petite taille,5,5,4
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,5,5,5,Femme petite taille,5,5,4
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a243ea6d8e29a001947945,risk-reward,Robot,5,5,9,Homme petite taille,5,5,5
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a243ea6d8e29a001947945,risk-reward,Robot,5,5,9,Homme petite taille,5,5,5
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a243ea6d8e29a001947945,risk-reward,Robot,5,5,9,Homme petite taille,5,5,5
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a243ea6d8e29a001947948,effort-reward,Personne âgée,5,5,4,Femme petite taille,5,5,4
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a243ea6d8e29a001947948,effort-reward,Personne âgée,5,5,4,Femme petite taille,5,5,4
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a51eb49d8894e943d3ff93,risk-effort,Robot,5,5,9,Femme grande taille,5,5,6
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a51eb49d8894e943d3ff93,risk-effort,Robot,5,5,9,Femme grande taille,5,5,6
+homme,25,DZA,employe,8b9d5e09-90da-4d33-b5b7-16994667641b,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,5,5,5,Homme grande taille,5,5,9
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a51e546623f6ccab523c27,risk-effort,Personne âgée,5,0,1,Homme grande taille,5,10,6
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947948,effort-reward,Robot,0,5,1,Femme grande taille,10,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947945,risk-reward,Personne âgée,5,4,1,Femme grande taille,5,6,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,5,5,1,Personne âgée,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947946,risk-reward,Homme grande taille,5,5,6,Homme petite taille,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a51eb49d8894e943d3ff93,risk-effort,Enfant,5,5,1,Femme grande taille,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947949,effort-reward,Enfant,5,5,1,Femme grande taille,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a51eb49d8894e943d3ff93,risk-effort,Femme petite taille,5,5,1,Femme grande taille,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,1,Robot,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947947,effort-reward,Enfant,5,5,1,Homme grande taille,5,5,6
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,5,5,1,Robot,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,5,5,1,Robot,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,5,5,1,Enfant,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,5,5,1,Enfant,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,5,5,1,Femme petite taille,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947948,effort-reward,Personne âgée,5,5,1,Enfant,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,5,5,6,Femme grande taille,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,5,5,1,Homme grande taille,5,5,6
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,5,5,8,Homme grande taille,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,5,5,8,Homme grande taille,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,5,5,1,Homme grande taille,5,5,1
+femme,12,DZA,college,6771a1e9-1e23-4528-9363-f8f48ee2e483,67a51efa18a0dfe14aac016b,risk-effort,Homme petite taille,7,7,6,Enfant,3,3,4
+femme,12,DZA,college,6771a1e9-1e23-4528-9363-f8f48ee2e483,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,2,2,5,Homme grande taille,8,8,8
+femme,12,DZA,college,6771a1e9-1e23-4528-9363-f8f48ee2e483,67a51efa18a0dfe14aac016b,risk-effort,Robot,7,3,10,Femme grande taille,3,7,6
+femme,12,DZA,college,6771a1e9-1e23-4528-9363-f8f48ee2e483,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,4,4,6,Femme petite taille,6,6,5
+femme,12,DZA,college,6771a1e9-1e23-4528-9363-f8f48ee2e483,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,7,6,8,Femme petite taille,3,4,5
+femme,12,DZA,college,6771a1e9-1e23-4528-9363-f8f48ee2e483,67a243ea6d8e29a001947945,risk-reward,Robot,8,4,10,Femme grande taille,2,6,6
+femme,12,DZA,college,6771a1e9-1e23-4528-9363-f8f48ee2e483,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,2,6,6,Robot,8,4,10
+femme,12,DZA,college,6771a1e9-1e23-4528-9363-f8f48ee2e483,67a243ea6d8e29a001947947,effort-reward,Enfant,6,6,4,Personne âgée,4,4,4
+femme,12,DZA,college,6771a1e9-1e23-4528-9363-f8f48ee2e483,67a243ea6d8e29a001947947,effort-reward,Personne âgée,3,4,4,Homme petite taille,7,6,6
+femme,12,DZA,college,6771a1e9-1e23-4528-9363-f8f48ee2e483,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,7,6,6,Enfant,3,4,4
+femme,12,DZA,college,6771a1e9-1e23-4528-9363-f8f48ee2e483,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,6,6,6,Personne âgée,4,4,4
+femme,12,DZA,college,6771a1e9-1e23-4528-9363-f8f48ee2e483,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,6,6,6,Enfant,4,4,4
+femme,12,DZA,college,6771a1e9-1e23-4528-9363-f8f48ee2e483,67a243ea6d8e29a001947949,effort-reward,Enfant,3,2,4,Femme petite taille,7,8,5
+femme,12,DZA,college,6771a1e9-1e23-4528-9363-f8f48ee2e483,67a243ea6d8e29a001947945,risk-reward,Personne âgée,4,4,4,Enfant,6,6,4
+femme,12,DZA,college,6771a1e9-1e23-4528-9363-f8f48ee2e483,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,6,7,6,Homme petite taille,4,3,6
+femme,12,DZA,college,6771a1e9-1e23-4528-9363-f8f48ee2e483,67a243ea6d8e29a001947944,risk-reward,Robot,8,4,10,Homme petite taille,2,6,6
+femme,12,DZA,college,6771a1e9-1e23-4528-9363-f8f48ee2e483,67a51e546623f6ccab523c27,risk-effort,Personne âgée,4,4,4,Enfant,6,6,4
+femme,12,DZA,college,6771a1e9-1e23-4528-9363-f8f48ee2e483,67a243ea6d8e29a001947944,risk-reward,Femme grande taille,8,6,6,Enfant,2,4,4
+femme,47,DZA,employe,fc31d427-7c43-4064-98f5-be9523044deb,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,8,9,6,Robot,2,1,9
+femme,47,DZA,employe,fc31d427-7c43-4064-98f5-be9523044deb,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,5,5,4,Homme petite taille,5,5,6
+femme,47,DZA,employe,fc31d427-7c43-4064-98f5-be9523044deb,67a51efa18a0dfe14aac016b,risk-effort,Robot,9,8,9,Enfant,1,2,3
+femme,47,DZA,employe,fc31d427-7c43-4064-98f5-be9523044deb,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,5,5,6,Homme petite taille,5,5,6
+femme,47,DZA,employe,fc31d427-7c43-4064-98f5-be9523044deb,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,5,5,8,Enfant,5,5,3
+femme,47,DZA,employe,fc31d427-7c43-4064-98f5-be9523044deb,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,5,5,4,Enfant,5,5,3
+femme,47,DZA,employe,fc31d427-7c43-4064-98f5-be9523044deb,67a51eb49d8894e943d3ff93,risk-effort,Femme petite taille,3,6,4,Personne âgée,7,4,2
+femme,47,DZA,employe,fc31d427-7c43-4064-98f5-be9523044deb,67a243ea6d8e29a001947945,risk-reward,Femme petite taille,1,0,4,Personne âgée,9,10,2
+femme,47,DZA,employe,fc31d427-7c43-4064-98f5-be9523044deb,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,5,5,4,Enfant,5,5,3
+femme,47,DZA,employe,fc31d427-7c43-4064-98f5-be9523044deb,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,2,1,6,Personne âgée,8,9,2
+femme,47,DZA,employe,fc31d427-7c43-4064-98f5-be9523044deb,67a243ea6d8e29a001947944,risk-reward,Robot,7,6,9,Femme grande taille,3,4,6
+femme,47,DZA,employe,fc31d427-7c43-4064-98f5-be9523044deb,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,2,6,6,Enfant,8,4,3
+femme,47,DZA,employe,fc31d427-7c43-4064-98f5-be9523044deb,67a243ea6d8e29a001947944,risk-reward,Femme grande taille,2,7,6,Enfant,8,3,3
+femme,47,DZA,employe,fc31d427-7c43-4064-98f5-be9523044deb,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,4,4,6,Femme petite taille,6,6,4
+femme,47,DZA,employe,fc31d427-7c43-4064-98f5-be9523044deb,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,2,1,6,Enfant,8,9,3
+femme,47,DZA,employe,fc31d427-7c43-4064-98f5-be9523044deb,67a243ea6d8e29a001947948,effort-reward,Femme petite taille,7,0,4,Homme grande taille,3,10,8
+femme,47,DZA,employe,fc31d427-7c43-4064-98f5-be9523044deb,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,5,5,4,Femme grande taille,5,5,6
+femme,47,DZA,employe,fc31d427-7c43-4064-98f5-be9523044deb,67a243ea6d8e29a001947945,risk-reward,Enfant,5,5,3,Personne âgée,5,5,2
+homme,47,DZA,employe,fdd23f8a-1a41-4875-990a-22467811ce02,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,3,3,2,Homme petite taille,7,7,3
+homme,47,DZA,employe,fdd23f8a-1a41-4875-990a-22467811ce02,67a243ea6d8e29a001947946,risk-reward,Personne âgée,3,4,2,Homme grande taille,7,6,4
+homme,47,DZA,employe,fdd23f8a-1a41-4875-990a-22467811ce02,67a51eb49d8894e943d3ff93,risk-effort,Enfant,5,5,1,Homme grande taille,5,5,4
+homme,47,DZA,employe,fdd23f8a-1a41-4875-990a-22467811ce02,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,3,4,4,Enfant,7,6,1
+homme,47,DZA,employe,fdd23f8a-1a41-4875-990a-22467811ce02,67a243ea6d8e29a001947946,risk-reward,Homme grande taille,2,4,4,Enfant,8,6,1
+homme,47,DZA,employe,fdd23f8a-1a41-4875-990a-22467811ce02,67a243ea6d8e29a001947945,risk-reward,Enfant,5,5,1,Personne âgée,5,5,2
+homme,47,DZA,employe,fdd23f8a-1a41-4875-990a-22467811ce02,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,4,5,3,Homme grande taille,6,5,4
+homme,47,DZA,employe,fdd23f8a-1a41-4875-990a-22467811ce02,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,5,5,4,Robot,5,5,3
+homme,47,DZA,employe,fdd23f8a-1a41-4875-990a-22467811ce02,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,5,5,2,Personne âgée,5,5,2
+homme,47,DZA,employe,fdd23f8a-1a41-4875-990a-22467811ce02,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,3,4,2,Enfant,7,6,1
+homme,47,DZA,employe,fdd23f8a-1a41-4875-990a-22467811ce02,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,3,4,3,Personne âgée,7,6,2
+homme,47,DZA,employe,fdd23f8a-1a41-4875-990a-22467811ce02,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,4,5,3,Robot,6,5,3
+homme,47,DZA,employe,fdd23f8a-1a41-4875-990a-22467811ce02,67a51efa18a0dfe14aac016b,risk-effort,Robot,5,5,3,Homme petite taille,5,5,3
+homme,47,DZA,employe,fdd23f8a-1a41-4875-990a-22467811ce02,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,3,4,4,Personne âgée,7,6,2
+homme,47,DZA,employe,fdd23f8a-1a41-4875-990a-22467811ce02,67a243ea6d8e29a001947949,effort-reward,Personne âgée,3,4,2,Enfant,7,6,1
+homme,47,DZA,employe,fdd23f8a-1a41-4875-990a-22467811ce02,67a243ea6d8e29a001947945,risk-reward,Femme petite taille,4,4,2,Robot,6,6,3
+homme,47,DZA,employe,fdd23f8a-1a41-4875-990a-22467811ce02,67a243ea6d8e29a001947948,effort-reward,Enfant,3,4,1,Femme grande taille,7,6,2
+homme,47,DZA,employe,fdd23f8a-1a41-4875-990a-22467811ce02,67a51efa18a0dfe14aac016b,risk-effort,Enfant,3,4,1,Homme grande taille,7,6,4
+femme,23,PER,bac+4,145ac55b-3b81-42b1-aa64-063c2bc3aa65,67a51efa18a0dfe14aac016b,risk-effort,Enfant,4,2,10,Homme grande taille,6,8,9
+femme,23,PER,bac+4,145ac55b-3b81-42b1-aa64-063c2bc3aa65,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,2,6,9,Enfant,8,4,10
+femme,23,PER,bac+4,145ac55b-3b81-42b1-aa64-063c2bc3aa65,67a51efa18a0dfe14aac016b,risk-effort,Robot,8,8,8,Enfant,2,2,10
+femme,23,PER,bac+4,145ac55b-3b81-42b1-aa64-063c2bc3aa65,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,3,8,8,Femme petite taille,7,2,4
+femme,23,PER,bac+4,145ac55b-3b81-42b1-aa64-063c2bc3aa65,67a243ea6d8e29a001947948,effort-reward,Robot,6,8,8,Femme grande taille,4,2,8
+femme,23,PER,bac+4,145ac55b-3b81-42b1-aa64-063c2bc3aa65,67a243ea6d8e29a001947948,effort-reward,Homme grande taille,8,7,9,Femme petite taille,2,3,4
+femme,23,PER,bac+4,145ac55b-3b81-42b1-aa64-063c2bc3aa65,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,10,0,9,Homme petite taille,0,10,7
+femme,23,PER,bac+4,145ac55b-3b81-42b1-aa64-063c2bc3aa65,67a51e546623f6ccab523c27,risk-effort,Femme grande taille,5,10,8,Enfant,5,0,10
+femme,23,PER,bac+4,145ac55b-3b81-42b1-aa64-063c2bc3aa65,67a243ea6d8e29a001947949,effort-reward,Enfant,8,5,10,Personne âgée,2,5,3
+femme,23,PER,bac+4,145ac55b-3b81-42b1-aa64-063c2bc3aa65,67a51e546623f6ccab523c27,risk-effort,Personne âgée,10,1,3,Homme petite taille,0,9,7
+femme,23,PER,bac+4,145ac55b-3b81-42b1-aa64-063c2bc3aa65,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,5,5,4,Enfant,5,5,10
+femme,23,PER,bac+4,145ac55b-3b81-42b1-aa64-063c2bc3aa65,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,2,10,9,Robot,8,0,8
+femme,23,PER,bac+4,145ac55b-3b81-42b1-aa64-063c2bc3aa65,67a243ea6d8e29a001947945,risk-reward,Robot,10,4,8,Femme grande taille,0,6,8
+femme,23,PER,bac+4,145ac55b-3b81-42b1-aa64-063c2bc3aa65,67a243ea6d8e29a001947944,risk-reward,Robot,10,1,8,Femme grande taille,0,9,8
+femme,23,PER,bac+4,145ac55b-3b81-42b1-aa64-063c2bc3aa65,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,5,5,9,Robot,5,5,8
+femme,23,PER,bac+4,145ac55b-3b81-42b1-aa64-063c2bc3aa65,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,5,5,8,Homme petite taille,5,5,7
+femme,23,PER,bac+4,145ac55b-3b81-42b1-aa64-063c2bc3aa65,67a243ea6d8e29a001947949,effort-reward,Enfant,5,4,10,Personne âgée,5,6,3
+femme,23,PER,bac+4,145ac55b-3b81-42b1-aa64-063c2bc3aa65,67a243ea6d8e29a001947946,risk-reward,Homme grande taille,8,6,9,Homme petite taille,2,4,7
+homme,43,DZA,employe,086b8af2-bfe6-4638-a1ca-bca6e0bd626c,67a243ea6d8e29a001947945,risk-reward,Robot,7,7,6,Enfant,3,3,2
+homme,43,DZA,employe,086b8af2-bfe6-4638-a1ca-bca6e0bd626c,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,2,4,2,Enfant,8,6,2
+homme,43,DZA,employe,086b8af2-bfe6-4638-a1ca-bca6e0bd626c,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,5,0,5,Enfant,5,10,2
+homme,43,DZA,employe,086b8af2-bfe6-4638-a1ca-bca6e0bd626c,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,10,10,8,Personne âgée,0,0,2
+homme,43,DZA,employe,086b8af2-bfe6-4638-a1ca-bca6e0bd626c,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,10,10,8,Femme petite taille,0,0,6
+homme,43,DZA,employe,086b8af2-bfe6-4638-a1ca-bca6e0bd626c,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,4,4,5,Femme petite taille,6,6,6
+homme,43,DZA,employe,086b8af2-bfe6-4638-a1ca-bca6e0bd626c,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,7,8,6,Enfant,3,2,2
+homme,43,DZA,employe,086b8af2-bfe6-4638-a1ca-bca6e0bd626c,67a51e546623f6ccab523c27,risk-effort,Robot,2,0,6,Femme petite taille,8,10,6
+homme,43,DZA,employe,086b8af2-bfe6-4638-a1ca-bca6e0bd626c,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,0,0,5,Robot,10,10,6
+homme,43,DZA,employe,086b8af2-bfe6-4638-a1ca-bca6e0bd626c,67a243ea6d8e29a001947945,risk-reward,Personne âgée,2,1,2,Femme grande taille,8,9,5
+homme,43,DZA,employe,086b8af2-bfe6-4638-a1ca-bca6e0bd626c,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,5,5,5,Femme petite taille,5,5,6
+homme,43,DZA,employe,086b8af2-bfe6-4638-a1ca-bca6e0bd626c,67a243ea6d8e29a001947947,effort-reward,Enfant,5,5,2,Robot,5,5,6
+homme,43,DZA,employe,086b8af2-bfe6-4638-a1ca-bca6e0bd626c,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,2,Homme grande taille,5,5,2
+homme,43,DZA,employe,086b8af2-bfe6-4638-a1ca-bca6e0bd626c,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,5,5,6,Femme grande taille,5,5,5
+femme,23,FRA,bac+3,f316910e-2955-48d2-88fe-2a5299ce5ac0,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,3,5,3,Femme grande taille,7,5,6
+femme,23,FRA,bac+3,f316910e-2955-48d2-88fe-2a5299ce5ac0,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,8,5,10,Homme petite taille,2,5,3
+femme,23,FRA,bac+3,f316910e-2955-48d2-88fe-2a5299ce5ac0,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,9,10,6,Robot,1,0,1
+femme,23,FRA,bac+3,f316910e-2955-48d2-88fe-2a5299ce5ac0,67a243ea6d8e29a001947944,risk-reward,Personne âgée,2,9,8,Homme grande taille,8,1,7
+femme,23,FRA,bac+3,f316910e-2955-48d2-88fe-2a5299ce5ac0,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,1,8,10,Enfant,9,2,4
+femme,23,FRA,bac+3,f316910e-2955-48d2-88fe-2a5299ce5ac0,67a51efa18a0dfe14aac016b,risk-effort,Homme petite taille,8,2,3,Femme grande taille,2,8,6
+femme,23,FRA,bac+3,f316910e-2955-48d2-88fe-2a5299ce5ac0,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,10,6,7,Enfant,0,4,4
+femme,23,FRA,bac+3,f316910e-2955-48d2-88fe-2a5299ce5ac0,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,3,10,7,Robot,7,0,1
+femme,23,FRA,bac+3,f316910e-2955-48d2-88fe-2a5299ce5ac0,67a243ea6d8e29a001947946,risk-reward,Enfant,5,5,4,Homme petite taille,5,5,3
+femme,23,FRA,bac+3,f316910e-2955-48d2-88fe-2a5299ce5ac0,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,5,5,7,Personne âgée,5,5,8
+femme,23,FRA,bac+3,f316910e-2955-48d2-88fe-2a5299ce5ac0,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,1,2,6,Homme petite taille,9,8,3
+femme,23,FRA,bac+3,f316910e-2955-48d2-88fe-2a5299ce5ac0,67a51e546623f6ccab523c27,risk-effort,Femme grande taille,2,9,6,Homme petite taille,8,1,3
+femme,23,FRA,bac+3,f316910e-2955-48d2-88fe-2a5299ce5ac0,67a51eb49d8894e943d3ff93,risk-effort,Femme petite taille,10,0,10,Robot,0,10,1
+femme,23,FRA,bac+3,f316910e-2955-48d2-88fe-2a5299ce5ac0,67a51e546623f6ccab523c27,risk-effort,Enfant,10,2,4,Femme petite taille,0,8,10
+femme,23,FRA,bac+3,f316910e-2955-48d2-88fe-2a5299ce5ac0,67a243ea6d8e29a001947949,effort-reward,Robot,2,0,1,Femme petite taille,8,10,10
+femme,23,FRA,bac+3,f316910e-2955-48d2-88fe-2a5299ce5ac0,67a243ea6d8e29a001947946,risk-reward,Personne âgée,8,7,8,Femme grande taille,2,3,6
+femme,23,FRA,bac+3,f316910e-2955-48d2-88fe-2a5299ce5ac0,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,1,4,6,Femme petite taille,9,6,10
+femme,23,FRA,bac+3,f316910e-2955-48d2-88fe-2a5299ce5ac0,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,5,6,3,Enfant,5,4,4
+homme,22,FRA,bac+4,f5dad460-66a4-48b7-ab81-5d42500ee3f1,67a243ea6d8e29a001947944,risk-reward,Robot,10,5,8,Enfant,0,5,2
+homme,22,FRA,bac+4,f5dad460-66a4-48b7-ab81-5d42500ee3f1,67a51e546623f6ccab523c27,risk-effort,Personne âgée,10,0,4,Homme petite taille,0,10,10
+homme,22,FRA,bac+4,f5dad460-66a4-48b7-ab81-5d42500ee3f1,67a51efa18a0dfe14aac016b,risk-effort,Robot,0,10,8,Femme grande taille,10,0,5
+homme,22,FRA,bac+4,f5dad460-66a4-48b7-ab81-5d42500ee3f1,67a243ea6d8e29a001947949,effort-reward,Personne âgée,3,5,4,Homme grande taille,7,5,7
+homme,22,FRA,bac+4,f5dad460-66a4-48b7-ab81-5d42500ee3f1,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,8,5,10,Femme grande taille,2,5,5
+homme,22,FRA,bac+4,f5dad460-66a4-48b7-ab81-5d42500ee3f1,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,3,3,5,Femme petite taille,7,7,4
+homme,22,FRA,bac+4,f5dad460-66a4-48b7-ab81-5d42500ee3f1,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,5,5,10,Homme grande taille,5,5,7
+homme,22,FRA,bac+4,f5dad460-66a4-48b7-ab81-5d42500ee3f1,67a243ea6d8e29a001947947,effort-reward,Personne âgée,8,8,4,Enfant,2,2,2
+homme,22,FRA,bac+4,f5dad460-66a4-48b7-ab81-5d42500ee3f1,67a243ea6d8e29a001947944,risk-reward,Robot,10,0,8,Homme grande taille,0,10,7
+homme,22,FRA,bac+4,f5dad460-66a4-48b7-ab81-5d42500ee3f1,67a243ea6d8e29a001947948,effort-reward,Homme grande taille,8,5,7,Femme petite taille,2,5,4
+homme,22,FRA,bac+4,f5dad460-66a4-48b7-ab81-5d42500ee3f1,67a51e546623f6ccab523c27,risk-effort,Femme grande taille,8,2,5,Personne âgée,2,8,4
+homme,22,FRA,bac+4,f5dad460-66a4-48b7-ab81-5d42500ee3f1,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,10,0,10,Robot,0,10,8
+homme,22,FRA,bac+4,f5dad460-66a4-48b7-ab81-5d42500ee3f1,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,7,5,5,Femme petite taille,3,5,4
+homme,22,FRA,bac+4,f5dad460-66a4-48b7-ab81-5d42500ee3f1,67a243ea6d8e29a001947949,effort-reward,Personne âgée,7,5,4,Enfant,3,5,2
+homme,22,FRA,bac+4,f5dad460-66a4-48b7-ab81-5d42500ee3f1,67a243ea6d8e29a001947947,effort-reward,Personne âgée,2,3,4,Homme grande taille,8,7,7
+homme,22,FRA,bac+4,f5dad460-66a4-48b7-ab81-5d42500ee3f1,67a51eb49d8894e943d3ff93,risk-effort,Enfant,10,0,2,Femme petite taille,0,10,4
+homme,22,FRA,bac+4,f5dad460-66a4-48b7-ab81-5d42500ee3f1,67a243ea6d8e29a001947946,risk-reward,Personne âgée,7,10,4,Robot,3,0,8
+homme,22,FRA,bac+4,f5dad460-66a4-48b7-ab81-5d42500ee3f1,67a51efa18a0dfe14aac016b,risk-effort,Homme petite taille,8,2,10,Femme petite taille,2,8,4
+homme,22,GBR,bac+1,186e2c28-993e-4d15-a99c-ac5eff9c7b42,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,3,5,5,Femme petite taille,7,5,4
+homme,22,GBR,bac+1,186e2c28-993e-4d15-a99c-ac5eff9c7b42,67a243ea6d8e29a001947946,risk-reward,Robot,10,0,10,Enfant,0,10,1
+homme,22,GBR,bac+1,186e2c28-993e-4d15-a99c-ac5eff9c7b42,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,3,10,8,Enfant,7,0,1
+homme,22,GBR,bac+1,186e2c28-993e-4d15-a99c-ac5eff9c7b42,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,0,10,5,Robot,10,0,10
+homme,22,GBR,bac+1,186e2c28-993e-4d15-a99c-ac5eff9c7b42,67a51eb49d8894e943d3ff93,risk-effort,Robot,10,2,10,Femme petite taille,0,8,4
+homme,22,GBR,bac+1,186e2c28-993e-4d15-a99c-ac5eff9c7b42,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,5,5,5,Femme petite taille,5,5,4
+homme,22,GBR,bac+1,186e2c28-993e-4d15-a99c-ac5eff9c7b42,67a51efa18a0dfe14aac016b,risk-effort,Homme petite taille,3,7,6,Femme grande taille,7,3,5
+homme,22,GBR,bac+1,186e2c28-993e-4d15-a99c-ac5eff9c7b42,67a51efa18a0dfe14aac016b,risk-effort,Homme petite taille,2,10,6,Personne âgée,8,0,2
+homme,22,GBR,bac+1,186e2c28-993e-4d15-a99c-ac5eff9c7b42,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,8,9,6,Enfant,2,1,1
+homme,22,GBR,bac+1,186e2c28-993e-4d15-a99c-ac5eff9c7b42,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,6,6,6,Femme grande taille,4,4,5
+homme,22,GBR,bac+1,186e2c28-993e-4d15-a99c-ac5eff9c7b42,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,8,9,6,Personne âgée,2,1,2
+homme,22,GBR,bac+1,186e2c28-993e-4d15-a99c-ac5eff9c7b42,67a243ea6d8e29a001947944,risk-reward,Personne âgée,1,1,2,Femme petite taille,9,9,4
+homme,22,GBR,bac+1,186e2c28-993e-4d15-a99c-ac5eff9c7b42,67a243ea6d8e29a001947948,effort-reward,Homme grande taille,8,6,8,Femme petite taille,2,4,4
+homme,22,GBR,bac+1,186e2c28-993e-4d15-a99c-ac5eff9c7b42,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,8,8,6,Personne âgée,2,2,2
+homme,22,GBR,bac+1,186e2c28-993e-4d15-a99c-ac5eff9c7b42,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,1,10,6,Femme petite taille,9,0,4
+homme,22,GBR,bac+1,186e2c28-993e-4d15-a99c-ac5eff9c7b42,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,8,8,8,Femme petite taille,2,2,4
+homme,22,GBR,bac+1,186e2c28-993e-4d15-a99c-ac5eff9c7b42,67a51eb49d8894e943d3ff93,risk-effort,Femme petite taille,1,7,4,Homme grande taille,9,3,8
+homme,22,GBR,bac+1,186e2c28-993e-4d15-a99c-ac5eff9c7b42,67a243ea6d8e29a001947944,risk-reward,Robot,9,0,10,Homme grande taille,1,10,8
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,7,5,5,Personne âgée,3,5,1
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947946,risk-reward,Enfant,1,3,2,Homme grande taille,9,7,8
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947944,risk-reward,Robot,7,0,10,Femme grande taille,3,10,6
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,0,10,8,Personne âgée,10,0,1
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,8,5,8,Femme petite taille,2,5,4
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,7,8,4,Enfant,3,2,2
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,10,5,6,Femme grande taille,0,5,6
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,2,10,4,Personne âgée,8,0,1
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947948,effort-reward,Enfant,0,3,2,Homme grande taille,10,7,8
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,10,5,6,Personne âgée,0,5,1
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,0,0,1,Homme grande taille,10,10,8
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947947,effort-reward,Enfant,4,1,2,Personne âgée,6,9,1
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,0,0,1,Homme petite taille,10,10,6
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,1,10,6,Robot,9,0,10
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947944,risk-reward,Robot,10,0,10,Enfant,0,10,2
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,10,9,8,Enfant,0,1,2
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,0,10,4,Robot,10,0,10
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a51efa18a0dfe14aac016b,risk-effort,Enfant,3,0,2,Femme grande taille,7,10,6
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a51efa18a0dfe14aac016b,risk-effort,Enfant,5,5,2,Femme grande taille,5,5,6
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a51efa18a0dfe14aac016b,risk-effort,Enfant,5,5,2,Femme grande taille,5,5,6
+homme,24,ITA,bac+3,d2d3d9a9-2f34-4b29-b08c-8d7dbf0bb543,67a51efa18a0dfe14aac016b,risk-effort,Enfant,5,5,2,Femme grande taille,5,5,6
+femme,21,FRA,bac+4,b7c61570-e6a0-432f-91e8-42bccd42f73f,67a243ea6d8e29a001947949,effort-reward,Personne âgée,3,5,2,Femme grande taille,7,5,6
+femme,21,FRA,bac+4,b7c61570-e6a0-432f-91e8-42bccd42f73f,67a51eb49d8894e943d3ff93,risk-effort,Femme petite taille,6,10,5,Enfant,4,0,3
+femme,21,FRA,bac+4,b7c61570-e6a0-432f-91e8-42bccd42f73f,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,5,5,7,Enfant,5,5,3
+femme,21,FRA,bac+4,b7c61570-e6a0-432f-91e8-42bccd42f73f,67a51e546623f6ccab523c27,risk-effort,Robot,10,8,10,Femme petite taille,0,2,5
+femme,21,FRA,bac+4,b7c61570-e6a0-432f-91e8-42bccd42f73f,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,5,5,5,Homme grande taille,5,5,8
+femme,21,FRA,bac+4,b7c61570-e6a0-432f-91e8-42bccd42f73f,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,5,5,8,Homme petite taille,5,5,7
+femme,21,FRA,bac+4,b7c61570-e6a0-432f-91e8-42bccd42f73f,67a51e546623f6ccab523c27,risk-effort,Femme grande taille,5,6,6,Femme petite taille,5,4,5
+femme,21,FRA,bac+4,b7c61570-e6a0-432f-91e8-42bccd42f73f,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,4,4,7,Homme grande taille,6,6,8
+femme,21,FRA,bac+4,b7c61570-e6a0-432f-91e8-42bccd42f73f,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,0,10,6,Robot,10,0,10
+femme,21,FRA,bac+4,b7c61570-e6a0-432f-91e8-42bccd42f73f,67a243ea6d8e29a001947945,risk-reward,Femme petite taille,10,8,5,Enfant,0,2,3
+femme,21,FRA,bac+4,b7c61570-e6a0-432f-91e8-42bccd42f73f,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,10,0,2,Homme petite taille,0,10,7
+femme,21,FRA,bac+4,b7c61570-e6a0-432f-91e8-42bccd42f73f,67a243ea6d8e29a001947949,effort-reward,Robot,7,0,10,Homme grande taille,3,10,8
+femme,21,FRA,bac+4,b7c61570-e6a0-432f-91e8-42bccd42f73f,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,8,6,7,Personne âgée,2,4,2
+femme,21,FRA,bac+4,b7c61570-e6a0-432f-91e8-42bccd42f73f,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,0,10,7,Robot,10,0,10
+femme,21,FRA,bac+4,b7c61570-e6a0-432f-91e8-42bccd42f73f,67a51eb49d8894e943d3ff93,risk-effort,Femme petite taille,2,0,5,Robot,8,10,10
+femme,21,FRA,bac+4,b7c61570-e6a0-432f-91e8-42bccd42f73f,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,4,4,6,Homme petite taille,6,6,7
+femme,21,FRA,bac+4,b7c61570-e6a0-432f-91e8-42bccd42f73f,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,10,0,2,Homme petite taille,0,10,7
+femme,21,FRA,bac+4,b7c61570-e6a0-432f-91e8-42bccd42f73f,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,8,8,8,Personne âgée,2,2,2
+homme,21,FRA,bac+3,a1d9df0b-cd60-442a-ac47-d672da51d9a6,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,6,5,7,Femme petite taille,4,5,4
+homme,21,FRA,bac+3,a1d9df0b-cd60-442a-ac47-d672da51d9a6,67a243ea6d8e29a001947949,effort-reward,Personne âgée,3,5,2,Femme grande taille,7,5,7
+homme,21,FRA,bac+3,a1d9df0b-cd60-442a-ac47-d672da51d9a6,67a51eb49d8894e943d3ff93,risk-effort,Enfant,2,3,3,Robot,8,7,9
+homme,21,FRA,bac+3,a1d9df0b-cd60-442a-ac47-d672da51d9a6,67a243ea6d8e29a001947948,effort-reward,Robot,5,0,9,Homme grande taille,5,10,8
+homme,21,FRA,bac+3,a1d9df0b-cd60-442a-ac47-d672da51d9a6,67a243ea6d8e29a001947946,risk-reward,Homme grande taille,6,5,8,Femme petite taille,4,5,4
+homme,21,FRA,bac+3,a1d9df0b-cd60-442a-ac47-d672da51d9a6,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,5,5,7,Homme grande taille,5,5,8
+homme,21,FRA,bac+3,a1d9df0b-cd60-442a-ac47-d672da51d9a6,67a51e546623f6ccab523c27,risk-effort,Personne âgée,6,2,2,Homme grande taille,4,8,8
+homme,21,FRA,bac+3,a1d9df0b-cd60-442a-ac47-d672da51d9a6,67a51e546623f6ccab523c27,risk-effort,Robot,8,8,9,Homme petite taille,2,2,7
+homme,21,FRA,bac+3,a1d9df0b-cd60-442a-ac47-d672da51d9a6,67a243ea6d8e29a001947948,effort-reward,Enfant,3,5,3,Femme grande taille,7,5,7
+homme,21,FRA,bac+3,a1d9df0b-cd60-442a-ac47-d672da51d9a6,67a51efa18a0dfe14aac016b,risk-effort,Robot,10,8,9,Personne âgée,0,2,2
+homme,21,FRA,bac+3,a1d9df0b-cd60-442a-ac47-d672da51d9a6,67a243ea6d8e29a001947947,effort-reward,Enfant,3,3,3,Femme grande taille,7,7,7
+homme,21,FRA,bac+3,a1d9df0b-cd60-442a-ac47-d672da51d9a6,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,7,7,7,Personne âgée,3,3,2
+homme,21,FRA,bac+3,a1d9df0b-cd60-442a-ac47-d672da51d9a6,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,5,5,8,Enfant,5,5,3
+homme,21,FRA,bac+3,a1d9df0b-cd60-442a-ac47-d672da51d9a6,67a51eb49d8894e943d3ff93,risk-effort,Femme petite taille,4,5,4,Homme petite taille,6,5,7
+homme,21,FRA,bac+3,a1d9df0b-cd60-442a-ac47-d672da51d9a6,67a51efa18a0dfe14aac016b,risk-effort,Enfant,2,7,3,Personne âgée,8,3,2
+homme,21,FRA,bac+3,a1d9df0b-cd60-442a-ac47-d672da51d9a6,67a243ea6d8e29a001947944,risk-reward,Robot,8,5,9,Enfant,2,5,3
+homme,21,FRA,bac+3,a1d9df0b-cd60-442a-ac47-d672da51d9a6,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,7,7,7,Femme petite taille,3,3,4
+homme,21,FRA,bac+3,a1d9df0b-cd60-442a-ac47-d672da51d9a6,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,7,7,4,Enfant,3,3,3
+homme,20,FRA,bac+3,30cfdfae-6884-49aa-a9a9-bf5bed6a99ba,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,5,3,7,Homme grande taille,5,7,10
+homme,20,FRA,bac+3,30cfdfae-6884-49aa-a9a9-bf5bed6a99ba,67a243ea6d8e29a001947948,effort-reward,Personne âgée,8,5,3,Enfant,2,5,2
+homme,20,FRA,bac+3,30cfdfae-6884-49aa-a9a9-bf5bed6a99ba,67a51e546623f6ccab523c27,risk-effort,Enfant,0,0,2,Homme grande taille,10,10,10
+homme,20,FRA,bac+3,30cfdfae-6884-49aa-a9a9-bf5bed6a99ba,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,10,8,7,Enfant,0,2,2
+homme,20,FRA,bac+3,30cfdfae-6884-49aa-a9a9-bf5bed6a99ba,67a243ea6d8e29a001947945,risk-reward,Femme petite taille,10,9,6,Enfant,0,1,2
+homme,20,FRA,bac+3,30cfdfae-6884-49aa-a9a9-bf5bed6a99ba,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,9,5,9,Femme petite taille,1,5,6
+homme,20,FRA,bac+3,30cfdfae-6884-49aa-a9a9-bf5bed6a99ba,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,7,10,7,Personne âgée,3,0,3
+homme,20,FRA,bac+3,30cfdfae-6884-49aa-a9a9-bf5bed6a99ba,67a243ea6d8e29a001947946,risk-reward,Homme grande taille,10,5,10,Personne âgée,0,5,3
+homme,20,FRA,bac+3,30cfdfae-6884-49aa-a9a9-bf5bed6a99ba,67a243ea6d8e29a001947948,effort-reward,Robot,10,0,6,Homme petite taille,0,10,9
+homme,20,FRA,bac+3,30cfdfae-6884-49aa-a9a9-bf5bed6a99ba,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,10,9,9,Enfant,0,1,2
+homme,20,FRA,bac+3,30cfdfae-6884-49aa-a9a9-bf5bed6a99ba,67a51efa18a0dfe14aac016b,risk-effort,Robot,10,10,6,Homme petite taille,0,0,9
+homme,20,FRA,bac+3,30cfdfae-6884-49aa-a9a9-bf5bed6a99ba,67a243ea6d8e29a001947949,effort-reward,Personne âgée,0,10,3,Robot,10,0,6
+homme,20,FRA,bac+3,30cfdfae-6884-49aa-a9a9-bf5bed6a99ba,67a243ea6d8e29a001947949,effort-reward,Robot,10,0,6,Femme grande taille,0,10,7
+homme,20,FRA,bac+3,30cfdfae-6884-49aa-a9a9-bf5bed6a99ba,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,10,5,9,Personne âgée,0,5,3
+homme,20,FRA,bac+3,30cfdfae-6884-49aa-a9a9-bf5bed6a99ba,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,10,9,7,Personne âgée,0,1,3
+homme,20,FRA,bac+3,30cfdfae-6884-49aa-a9a9-bf5bed6a99ba,67a51e546623f6ccab523c27,risk-effort,Femme grande taille,10,10,7,Personne âgée,0,0,3
+homme,20,FRA,bac+3,30cfdfae-6884-49aa-a9a9-bf5bed6a99ba,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,10,5,9,Femme petite taille,0,5,6
+homme,20,FRA,bac+3,30cfdfae-6884-49aa-a9a9-bf5bed6a99ba,67a51eb49d8894e943d3ff93,risk-effort,Robot,10,10,6,Personne âgée,0,0,3
+femme,20,FRA,bac+3,931eaab2-18b8-4570-9794-3b8770f2784f,67a243ea6d8e29a001947946,risk-reward,Robot,6,5,5,Femme petite taille,4,5,5
+femme,20,FRA,bac+3,931eaab2-18b8-4570-9794-3b8770f2784f,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,7,5,9,Homme petite taille,3,5,5
+femme,20,FRA,bac+3,931eaab2-18b8-4570-9794-3b8770f2784f,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,5,5,5,Robot,5,5,5
+femme,20,FRA,bac+3,931eaab2-18b8-4570-9794-3b8770f2784f,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,5,5,9,Robot,5,5,5
+femme,20,FRA,bac+3,931eaab2-18b8-4570-9794-3b8770f2784f,67a243ea6d8e29a001947948,effort-reward,Personne âgée,2,4,3,Robot,8,6,5
+femme,20,FRA,bac+3,931eaab2-18b8-4570-9794-3b8770f2784f,67a243ea6d8e29a001947944,risk-reward,Enfant,5,5,7,Homme petite taille,5,5,5
+femme,20,FRA,bac+3,931eaab2-18b8-4570-9794-3b8770f2784f,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,5,5,5,Robot,5,5,5
+femme,20,FRA,bac+3,931eaab2-18b8-4570-9794-3b8770f2784f,67a243ea6d8e29a001947945,risk-reward,Femme petite taille,3,3,5,Homme grande taille,7,7,9
+femme,20,FRA,bac+3,931eaab2-18b8-4570-9794-3b8770f2784f,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,7,6,9,Femme petite taille,3,4,5
+femme,20,FRA,bac+3,931eaab2-18b8-4570-9794-3b8770f2784f,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,5,5,9,Femme grande taille,5,5,9
+femme,20,FRA,bac+3,931eaab2-18b8-4570-9794-3b8770f2784f,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,3,3,5,Femme grande taille,7,7,9
+femme,20,FRA,bac+3,931eaab2-18b8-4570-9794-3b8770f2784f,67a51e546623f6ccab523c27,risk-effort,Personne âgée,2,4,3,Enfant,8,6,7
+femme,20,FRA,bac+3,931eaab2-18b8-4570-9794-3b8770f2784f,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,5,5,5,Femme petite taille,5,5,5
+femme,20,FRA,bac+3,931eaab2-18b8-4570-9794-3b8770f2784f,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,6,6,9,Femme petite taille,4,4,5
+femme,20,FRA,bac+3,931eaab2-18b8-4570-9794-3b8770f2784f,67a243ea6d8e29a001947949,effort-reward,Personne âgée,2,4,3,Femme grande taille,8,6,9
+femme,20,FRA,bac+3,931eaab2-18b8-4570-9794-3b8770f2784f,67a243ea6d8e29a001947947,effort-reward,Enfant,7,7,7,Femme petite taille,3,3,5
+femme,20,FRA,bac+3,931eaab2-18b8-4570-9794-3b8770f2784f,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,7,8,9,Personne âgée,3,2,3
+femme,20,FRA,bac+3,931eaab2-18b8-4570-9794-3b8770f2784f,67a243ea6d8e29a001947945,risk-reward,Personne âgée,2,4,3,Homme grande taille,8,6,9
+femme,20,FRA,bac+3,ce7f686a-7858-478f-abcf-80d46ca63c7e,67a243ea6d8e29a001947945,risk-reward,Enfant,2,5,2,Homme grande taille,8,5,7
+femme,20,FRA,bac+3,ce7f686a-7858-478f-abcf-80d46ca63c7e,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,5,5,6,Femme grande taille,5,5,6
+femme,20,FRA,bac+3,ce7f686a-7858-478f-abcf-80d46ca63c7e,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,6,6,6,Femme petite taille,4,4,5
+femme,20,FRA,bac+3,ce7f686a-7858-478f-abcf-80d46ca63c7e,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,2,2,5,Robot,8,8,8
+femme,20,FRA,bac+3,ce7f686a-7858-478f-abcf-80d46ca63c7e,67a243ea6d8e29a001947949,effort-reward,Personne âgée,0,2,2,Homme petite taille,10,8,6
+femme,20,FRA,bac+3,ce7f686a-7858-478f-abcf-80d46ca63c7e,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,5,5,6,Femme grande taille,5,5,6
+femme,20,FRA,bac+3,ce7f686a-7858-478f-abcf-80d46ca63c7e,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,10,0,2,Femme grande taille,0,10,6
+femme,20,FRA,bac+3,ce7f686a-7858-478f-abcf-80d46ca63c7e,67a51e546623f6ccab523c27,risk-effort,Femme grande taille,10,0,6,Robot,0,10,8
+femme,20,FRA,bac+3,ce7f686a-7858-478f-abcf-80d46ca63c7e,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,5,5,6,Femme grande taille,5,5,6
+femme,20,FRA,bac+3,ce7f686a-7858-478f-abcf-80d46ca63c7e,67a51efa18a0dfe14aac016b,risk-effort,Enfant,10,0,2,Homme grande taille,0,10,7
+femme,20,FRA,bac+3,ce7f686a-7858-478f-abcf-80d46ca63c7e,67a243ea6d8e29a001947948,effort-reward,Enfant,5,5,2,Personne âgée,5,5,2
+femme,20,FRA,bac+3,ce7f686a-7858-478f-abcf-80d46ca63c7e,67a243ea6d8e29a001947946,risk-reward,Homme grande taille,6,6,7,Femme grande taille,4,4,6
+femme,20,FRA,bac+3,ce7f686a-7858-478f-abcf-80d46ca63c7e,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,5,5,6,Homme petite taille,5,5,6
+femme,20,FRA,bac+3,ce7f686a-7858-478f-abcf-80d46ca63c7e,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,1,2,5,Robot,9,8,8
+femme,20,FRA,bac+3,ce7f686a-7858-478f-abcf-80d46ca63c7e,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,8,6,5,Personne âgée,2,4,2
+femme,20,FRA,bac+3,ce7f686a-7858-478f-abcf-80d46ca63c7e,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,8,2,5,Homme grande taille,2,8,7
+femme,20,FRA,bac+3,ce7f686a-7858-478f-abcf-80d46ca63c7e,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,5,5,6,Homme grande taille,5,5,7
+femme,20,FRA,bac+3,ce7f686a-7858-478f-abcf-80d46ca63c7e,67a243ea6d8e29a001947944,risk-reward,Femme grande taille,5,5,6,Homme petite taille,5,5,6
+homme,20,ITA,bac+3,1dbcaa52-7a16-4ff4-afe6-4d0d61afd9c5,67a243ea6d8e29a001947949,effort-reward,Personne âgée,3,3,3,Femme grande taille,7,7,6
+homme,20,ITA,bac+3,1dbcaa52-7a16-4ff4-afe6-4d0d61afd9c5,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,5,0,6,Robot,5,10,9
+homme,20,ITA,bac+3,1dbcaa52-7a16-4ff4-afe6-4d0d61afd9c5,67a243ea6d8e29a001947944,risk-reward,Femme grande taille,4,7,6,Robot,6,3,9
+homme,20,ITA,bac+3,1dbcaa52-7a16-4ff4-afe6-4d0d61afd9c5,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,3,7,4,Femme grande taille,7,3,6
+homme,20,ITA,bac+3,1dbcaa52-7a16-4ff4-afe6-4d0d61afd9c5,67a243ea6d8e29a001947949,effort-reward,Robot,8,3,9,Homme grande taille,2,7,8
+homme,20,ITA,bac+3,1dbcaa52-7a16-4ff4-afe6-4d0d61afd9c5,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,4,5,6,Homme grande taille,6,5,8
+homme,20,ITA,bac+3,1dbcaa52-7a16-4ff4-afe6-4d0d61afd9c5,67a243ea6d8e29a001947947,effort-reward,Robot,7,3,9,Homme petite taille,3,7,6
+homme,20,ITA,bac+3,1dbcaa52-7a16-4ff4-afe6-4d0d61afd9c5,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,2,7,4,Robot,8,3,9
+homme,20,ITA,bac+3,1dbcaa52-7a16-4ff4-afe6-4d0d61afd9c5,67a243ea6d8e29a001947948,effort-reward,Robot,8,2,9,Femme petite taille,2,8,4
+homme,20,ITA,bac+3,1dbcaa52-7a16-4ff4-afe6-4d0d61afd9c5,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,9,9,6,Enfant,1,1,2
+homme,20,ITA,bac+3,1dbcaa52-7a16-4ff4-afe6-4d0d61afd9c5,67a51efa18a0dfe14aac016b,risk-effort,Enfant,1,3,2,Femme grande taille,9,7,6
+homme,20,ITA,bac+3,1dbcaa52-7a16-4ff4-afe6-4d0d61afd9c5,67a51e546623f6ccab523c27,risk-effort,Femme grande taille,7,1,6,Homme grande taille,3,9,8
+homme,20,ITA,bac+3,1dbcaa52-7a16-4ff4-afe6-4d0d61afd9c5,67a243ea6d8e29a001947946,risk-reward,Personne âgée,1,7,3,Robot,9,3,9
+homme,20,ITA,bac+3,1dbcaa52-7a16-4ff4-afe6-4d0d61afd9c5,67a243ea6d8e29a001947945,risk-reward,Femme petite taille,5,5,4,Femme grande taille,5,5,6
+homme,20,ITA,bac+3,1dbcaa52-7a16-4ff4-afe6-4d0d61afd9c5,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,9,0,4,Robot,1,10,9
+homme,20,ITA,bac+3,1dbcaa52-7a16-4ff4-afe6-4d0d61afd9c5,67a243ea6d8e29a001947948,effort-reward,Homme grande taille,9,6,8,Enfant,1,4,2
+homme,20,ITA,bac+3,1dbcaa52-7a16-4ff4-afe6-4d0d61afd9c5,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,5,5,6,Femme grande taille,5,5,6
+homme,20,ITA,bac+3,1dbcaa52-7a16-4ff4-afe6-4d0d61afd9c5,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,5,5,6,Homme petite taille,5,5,6
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,4,5,6,Homme petite taille,6,5,7
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,5,5,6,Homme grande taille,5,5,8
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,4,4,6,Homme grande taille,6,6,8
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a243ea6d8e29a001947947,effort-reward,Enfant,1,3,1,Homme petite taille,9,7,7
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a243ea6d8e29a001947944,risk-reward,Personne âgée,4,4,4,Femme grande taille,6,6,6
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,7,7,4,Enfant,3,3,1
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,5,5,8,Homme petite taille,5,5,7
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,8,7,7,Enfant,2,3,1
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a243ea6d8e29a001947946,risk-reward,Homme grande taille,6,5,8,Femme petite taille,4,5,4
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a243ea6d8e29a001947947,effort-reward,Personne âgée,5,5,4,Femme petite taille,5,5,4
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a243ea6d8e29a001947946,risk-reward,Personne âgée,4,5,4,Femme petite taille,6,5,4
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a51e546623f6ccab523c27,risk-effort,Personne âgée,3,3,4,Homme petite taille,7,7,7
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a243ea6d8e29a001947945,risk-reward,Robot,9,0,10,Homme petite taille,1,10,7
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a243ea6d8e29a001947949,effort-reward,Personne âgée,1,10,4,Robot,9,0,10
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a51e546623f6ccab523c27,risk-effort,Robot,10,10,10,Personne âgée,0,0,4
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a243ea6d8e29a001947948,effort-reward,Enfant,1,4,1,Femme petite taille,9,6,4
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,4,8,8,Personne âgée,6,2,4
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,7,6,7,Personne âgée,3,4,4
+homme,21,FRA,bac+4,c015db3a-b0cd-4311-9a48-7d6d62a6f499,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,5,5,7,Homme grande taille,5,5,8
+homme,18,FRA,bac+1,c1477e55-b1fa-4c3e-b7f8-a812b0d54105,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,6,5,9,Robot,4,5,8
+homme,18,FRA,bac+1,c1477e55-b1fa-4c3e-b7f8-a812b0d54105,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,8,7,9,Personne âgée,2,3,3
+homme,18,FRA,bac+1,c1477e55-b1fa-4c3e-b7f8-a812b0d54105,67a51efa18a0dfe14aac016b,risk-effort,Enfant,3,3,3,Femme petite taille,7,7,9
+homme,18,FRA,bac+1,c1477e55-b1fa-4c3e-b7f8-a812b0d54105,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,5,5,10,Homme petite taille,5,5,9
+homme,18,FRA,bac+1,c1477e55-b1fa-4c3e-b7f8-a812b0d54105,67a51eb49d8894e943d3ff93,risk-effort,Enfant,6,3,3,Femme grande taille,4,7,10
+homme,18,FRA,bac+1,c1477e55-b1fa-4c3e-b7f8-a812b0d54105,67a243ea6d8e29a001947948,effort-reward,Personne âgée,7,5,3,Enfant,3,5,3
+homme,18,FRA,bac+1,c1477e55-b1fa-4c3e-b7f8-a812b0d54105,67a243ea6d8e29a001947946,risk-reward,Robot,4,0,8,Homme grande taille,6,10,10
+homme,18,FRA,bac+1,c1477e55-b1fa-4c3e-b7f8-a812b0d54105,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,9,6,9,Personne âgée,1,4,3
+homme,18,FRA,bac+1,c1477e55-b1fa-4c3e-b7f8-a812b0d54105,67a51e546623f6ccab523c27,risk-effort,Robot,8,6,8,Femme petite taille,2,4,9
+homme,18,FRA,bac+1,c1477e55-b1fa-4c3e-b7f8-a812b0d54105,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,8,7,10,Personne âgée,2,3,3
+homme,18,FRA,bac+1,c1477e55-b1fa-4c3e-b7f8-a812b0d54105,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,5,5,10,Femme petite taille,5,5,9
+homme,18,FRA,bac+1,c1477e55-b1fa-4c3e-b7f8-a812b0d54105,67a243ea6d8e29a001947947,effort-reward,Personne âgée,7,7,3,Enfant,3,3,3
+homme,18,FRA,bac+1,c1477e55-b1fa-4c3e-b7f8-a812b0d54105,67a243ea6d8e29a001947948,effort-reward,Homme grande taille,5,5,10,Femme petite taille,5,5,9
+homme,18,FRA,bac+1,c1477e55-b1fa-4c3e-b7f8-a812b0d54105,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,2,3,10,Enfant,8,7,3
+homme,18,FRA,bac+1,c1477e55-b1fa-4c3e-b7f8-a812b0d54105,67a243ea6d8e29a001947949,effort-reward,Robot,10,0,8,Personne âgée,0,10,3
+homme,18,FRA,bac+1,c1477e55-b1fa-4c3e-b7f8-a812b0d54105,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,4,4,10,Homme petite taille,6,6,9
+homme,18,FRA,bac+1,c1477e55-b1fa-4c3e-b7f8-a812b0d54105,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,5,5,9,Femme grande taille,5,5,10
+homme,18,FRA,bac+1,c1477e55-b1fa-4c3e-b7f8-a812b0d54105,67a51e546623f6ccab523c27,risk-effort,Personne âgée,6,2,3,Femme grande taille,4,8,10
+femme,20,FRA,bac+3,840374b6-a740-435f-982e-8c3a9031c8a7,67a243ea6d8e29a001947946,risk-reward,Enfant,5,5,5,Homme petite taille,5,5,8
+femme,20,FRA,bac+3,840374b6-a740-435f-982e-8c3a9031c8a7,67a243ea6d8e29a001947948,effort-reward,Personne âgée,5,5,6,Homme petite taille,5,5,8
+femme,20,FRA,bac+3,840374b6-a740-435f-982e-8c3a9031c8a7,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,5,5,8,Personne âgée,5,5,6
+femme,20,FRA,bac+3,840374b6-a740-435f-982e-8c3a9031c8a7,67a51eb49d8894e943d3ff93,risk-effort,Robot,5,5,9,Enfant,5,5,5
+femme,20,FRA,bac+3,840374b6-a740-435f-982e-8c3a9031c8a7,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,5,5,8,Personne âgée,5,5,6
+femme,20,FRA,bac+3,840374b6-a740-435f-982e-8c3a9031c8a7,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,5,5,8,Personne âgée,5,5,6
+femme,20,FRA,bac+3,840374b6-a740-435f-982e-8c3a9031c8a7,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,8,5,8,Femme petite taille,2,5,7
+femme,20,FRA,bac+3,840374b6-a740-435f-982e-8c3a9031c8a7,67a243ea6d8e29a001947948,effort-reward,Femme petite taille,7,5,7,Enfant,3,5,5
+femme,20,FRA,bac+3,840374b6-a740-435f-982e-8c3a9031c8a7,67a243ea6d8e29a001947947,effort-reward,Robot,8,5,9,Femme grande taille,2,5,7
+femme,20,FRA,bac+3,840374b6-a740-435f-982e-8c3a9031c8a7,67a243ea6d8e29a001947946,risk-reward,Enfant,4,5,5,Femme petite taille,6,5,7
+femme,20,FRA,bac+3,840374b6-a740-435f-982e-8c3a9031c8a7,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,3,5,8,Robot,7,5,9
+femme,20,FRA,bac+3,840374b6-a740-435f-982e-8c3a9031c8a7,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,3,5,6,Robot,7,5,9
+femme,20,FRA,bac+3,840374b6-a740-435f-982e-8c3a9031c8a7,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,4,5,7,Homme petite taille,6,5,8
+femme,20,FRA,bac+3,840374b6-a740-435f-982e-8c3a9031c8a7,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,7,5,8,Femme grande taille,3,5,7
+femme,20,FRA,bac+3,840374b6-a740-435f-982e-8c3a9031c8a7,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,8,5,7,Enfant,2,5,5
+femme,20,FRA,bac+3,840374b6-a740-435f-982e-8c3a9031c8a7,67a243ea6d8e29a001947944,risk-reward,Robot,5,5,9,Homme grande taille,5,5,8
+femme,20,FRA,bac+3,840374b6-a740-435f-982e-8c3a9031c8a7,67a243ea6d8e29a001947944,risk-reward,Robot,5,5,9,Homme grande taille,5,5,8
+femme,20,FRA,bac+3,840374b6-a740-435f-982e-8c3a9031c8a7,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,7,5,8,Personne âgée,3,5,6
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,6,5,6,Femme petite taille,4,5,5
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,3,7,5,Femme grande taille,7,3,7
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,3,3,6,Robot,7,7,10
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,7,3,5,Homme petite taille,3,7,6
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,5,5,5,Enfant,5,5,4
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,8,2,6,Robot,2,8,10
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,3,3,5,Homme petite taille,7,7,6
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947945,risk-reward,Robot,5,5,10,Homme grande taille,5,5,8
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,6,6,7,Femme petite taille,4,4,5
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,2,8,7,Homme grande taille,8,2,8
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,3,3,5,Femme grande taille,7,7,7
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947944,risk-reward,Enfant,4,4,4,Homme petite taille,6,6,6
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947945,risk-reward,Femme petite taille,5,5,5,Homme petite taille,5,5,6
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947948,effort-reward,Homme grande taille,5,5,8,Robot,5,5,10
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947948,effort-reward,Robot,6,6,10,Femme petite taille,4,4,5
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,2,8,8,Homme petite taille,8,2,6
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a51e546623f6ccab523c27,risk-effort,Enfant,8,2,4,Robot,2,8,10
+femme,23,MAR,bac+4,b194358a-8a8f-4056-abcc-b42067f8edbe,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,8,9,6,Enfant,2,1,4
+femme,23,MAR,bac+4,b194358a-8a8f-4056-abcc-b42067f8edbe,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,8,8,6,Personne âgée,2,2,4
+femme,23,MAR,bac+4,b194358a-8a8f-4056-abcc-b42067f8edbe,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,4,1,8,Homme petite taille,6,9,6
+femme,23,MAR,bac+4,b194358a-8a8f-4056-abcc-b42067f8edbe,67a243ea6d8e29a001947945,risk-reward,Enfant,1,1,4,Femme petite taille,9,9,6
+femme,23,MAR,bac+4,b194358a-8a8f-4056-abcc-b42067f8edbe,67a243ea6d8e29a001947944,risk-reward,Robot,5,5,6,Homme grande taille,5,5,8
+femme,23,MAR,bac+4,b194358a-8a8f-4056-abcc-b42067f8edbe,67a243ea6d8e29a001947947,effort-reward,Robot,10,10,6,Personne âgée,0,0,4
+femme,23,MAR,bac+4,b194358a-8a8f-4056-abcc-b42067f8edbe,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,7,8,8,Robot,3,2,6
+femme,23,MAR,bac+4,b194358a-8a8f-4056-abcc-b42067f8edbe,67a51eb49d8894e943d3ff93,risk-effort,Enfant,1,1,4,Femme grande taille,9,9,7
+femme,23,MAR,bac+4,b194358a-8a8f-4056-abcc-b42067f8edbe,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,3,3,6,Femme grande taille,7,7,7
+femme,23,MAR,bac+4,b194358a-8a8f-4056-abcc-b42067f8edbe,67a243ea6d8e29a001947946,risk-reward,Enfant,3,1,4,Femme petite taille,7,9,6
+femme,23,MAR,bac+4,b194358a-8a8f-4056-abcc-b42067f8edbe,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,0,2,6,Homme grande taille,10,8,8
+femme,23,MAR,bac+4,b194358a-8a8f-4056-abcc-b42067f8edbe,67a51e546623f6ccab523c27,risk-effort,Robot,6,1,6,Enfant,4,9,4
+femme,23,MAR,bac+4,b194358a-8a8f-4056-abcc-b42067f8edbe,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,9,7,6,Enfant,1,3,4
+femme,23,MAR,bac+4,b194358a-8a8f-4056-abcc-b42067f8edbe,67a51eb49d8894e943d3ff93,risk-effort,Enfant,1,3,4,Homme petite taille,9,7,6
+femme,23,MAR,bac+4,b194358a-8a8f-4056-abcc-b42067f8edbe,67a243ea6d8e29a001947949,effort-reward,Personne âgée,2,3,4,Femme grande taille,8,7,7
+femme,23,MAR,bac+4,b194358a-8a8f-4056-abcc-b42067f8edbe,67a51e546623f6ccab523c27,risk-effort,Robot,9,8,6,Enfant,1,2,4
+femme,23,MAR,bac+4,b194358a-8a8f-4056-abcc-b42067f8edbe,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,9,8,7,Personne âgée,1,2,4
+femme,23,MAR,bac+4,b194358a-8a8f-4056-abcc-b42067f8edbe,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,8,9,6,Robot,2,1,6
+femme,21,LBN,bac+4,b7f3aa1e-fa8c-4eb1-8341-9f3eb1597e00,67a243ea6d8e29a001947948,effort-reward,Enfant,3,10,4,Robot,7,0,8
+femme,21,LBN,bac+4,b7f3aa1e-fa8c-4eb1-8341-9f3eb1597e00,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,10,10,8,Robot,0,0,8
+femme,21,LBN,bac+4,b7f3aa1e-fa8c-4eb1-8341-9f3eb1597e00,67a51e546623f6ccab523c27,risk-effort,Personne âgée,5,1,3,Robot,5,9,8
+femme,21,LBN,bac+4,b7f3aa1e-fa8c-4eb1-8341-9f3eb1597e00,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,4,7,9,Homme petite taille,6,3,8
+femme,21,LBN,bac+4,b7f3aa1e-fa8c-4eb1-8341-9f3eb1597e00,67a243ea6d8e29a001947949,effort-reward,Enfant,3,3,4,Homme petite taille,7,7,8
+femme,21,LBN,bac+4,b7f3aa1e-fa8c-4eb1-8341-9f3eb1597e00,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,8,8,8,Personne âgée,2,2,3
+femme,21,LBN,bac+4,b7f3aa1e-fa8c-4eb1-8341-9f3eb1597e00,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,10,10,9,Enfant,0,0,4
+femme,21,LBN,bac+4,b7f3aa1e-fa8c-4eb1-8341-9f3eb1597e00,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,8,8,8,Personne âgée,2,2,3
+femme,21,LBN,bac+4,b7f3aa1e-fa8c-4eb1-8341-9f3eb1597e00,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,7,7,8,Enfant,3,3,4
+femme,21,LBN,bac+4,b7f3aa1e-fa8c-4eb1-8341-9f3eb1597e00,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,4,10,8,Enfant,6,0,4
+femme,21,LBN,bac+4,b7f3aa1e-fa8c-4eb1-8341-9f3eb1597e00,67a243ea6d8e29a001947946,risk-reward,Homme grande taille,5,5,9,Femme grande taille,5,5,8
+femme,21,LBN,bac+4,b7f3aa1e-fa8c-4eb1-8341-9f3eb1597e00,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,3,Homme grande taille,5,5,9
+femme,21,LBN,bac+4,b7f3aa1e-fa8c-4eb1-8341-9f3eb1597e00,67a243ea6d8e29a001947948,effort-reward,Femme petite taille,8,5,7,Enfant,2,5,4
+femme,21,LBN,bac+4,b7f3aa1e-fa8c-4eb1-8341-9f3eb1597e00,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,0,5,3,Homme petite taille,10,5,8
+femme,21,LBN,bac+4,b7f3aa1e-fa8c-4eb1-8341-9f3eb1597e00,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,10,10,9,Robot,0,0,8
+femme,21,LBN,bac+4,b7f3aa1e-fa8c-4eb1-8341-9f3eb1597e00,67a51e546623f6ccab523c27,risk-effort,Personne âgée,8,8,3,Enfant,2,2,4
+femme,21,LBN,bac+4,b7f3aa1e-fa8c-4eb1-8341-9f3eb1597e00,67a243ea6d8e29a001947945,risk-reward,Enfant,2,2,4,Femme grande taille,8,8,8
+femme,21,LBN,bac+4,b7f3aa1e-fa8c-4eb1-8341-9f3eb1597e00,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,3,3,8,Robot,7,7,8
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,6,5,6,Femme petite taille,4,5,5
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,3,7,5,Femme grande taille,7,3,7
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,3,3,6,Robot,7,7,10
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,7,3,5,Homme petite taille,3,7,6
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,5,5,5,Enfant,5,5,4
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,8,2,6,Robot,2,8,10
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,3,3,5,Homme petite taille,7,7,6
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947945,risk-reward,Robot,5,5,10,Homme grande taille,5,5,8
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,6,6,7,Femme petite taille,4,4,5
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,2,8,7,Homme grande taille,8,2,8
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,3,3,5,Femme grande taille,7,7,7
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947944,risk-reward,Enfant,4,4,4,Homme petite taille,6,6,6
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947945,risk-reward,Femme petite taille,5,5,5,Homme petite taille,5,5,6
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947948,effort-reward,Homme grande taille,5,5,8,Robot,5,5,10
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a243ea6d8e29a001947948,effort-reward,Robot,6,6,10,Femme petite taille,4,4,5
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,2,8,8,Homme petite taille,8,2,6
+homme,21,FRA,bac+3,07ee76b8-854e-431c-8225-5515137ec684,67a51e546623f6ccab523c27,risk-effort,Enfant,8,2,4,Robot,2,8,10
+femme,20,FRA,lycee,39c03ef1-c778-4b94-8739-09e8f8bcdaa5,67a243ea6d8e29a001947944,risk-reward,Personne âgée,4,4,2,Femme petite taille,6,6,3
+femme,20,FRA,lycee,39c03ef1-c778-4b94-8739-09e8f8bcdaa5,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,6,6,6,Femme grande taille,4,4,5
+femme,20,FRA,lycee,39c03ef1-c778-4b94-8739-09e8f8bcdaa5,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,7,7,6,Femme petite taille,3,3,3
+femme,20,FRA,lycee,39c03ef1-c778-4b94-8739-09e8f8bcdaa5,67a243ea6d8e29a001947945,risk-reward,Personne âgée,1,1,2,Homme grande taille,9,9,8
+femme,20,FRA,lycee,39c03ef1-c778-4b94-8739-09e8f8bcdaa5,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,7,3,8,Robot,3,7,10
+femme,20,FRA,lycee,39c03ef1-c778-4b94-8739-09e8f8bcdaa5,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,4,5,8,Robot,6,5,10
+femme,20,FRA,lycee,39c03ef1-c778-4b94-8739-09e8f8bcdaa5,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,0,10,8,Personne âgée,10,0,2
+femme,20,FRA,lycee,39c03ef1-c778-4b94-8739-09e8f8bcdaa5,67a243ea6d8e29a001947946,risk-reward,Enfant,1,1,1,Homme grande taille,9,9,8
+femme,20,FRA,lycee,39c03ef1-c778-4b94-8739-09e8f8bcdaa5,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,7,7,8,Femme grande taille,3,3,5
+femme,20,FRA,lycee,39c03ef1-c778-4b94-8739-09e8f8bcdaa5,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,0,0,6,Robot,10,10,10
+femme,20,FRA,lycee,39c03ef1-c778-4b94-8739-09e8f8bcdaa5,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,7,7,5,Personne âgée,3,3,2
+femme,20,FRA,lycee,39c03ef1-c778-4b94-8739-09e8f8bcdaa5,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,10,0,6,Robot,0,10,10
+femme,20,FRA,lycee,39c03ef1-c778-4b94-8739-09e8f8bcdaa5,67a243ea6d8e29a001947948,effort-reward,Homme grande taille,6,6,8,Femme grande taille,4,4,5
+femme,20,FRA,lycee,39c03ef1-c778-4b94-8739-09e8f8bcdaa5,67a51e546623f6ccab523c27,risk-effort,Personne âgée,0,0,2,Robot,10,10,10
+femme,20,FRA,lycee,39c03ef1-c778-4b94-8739-09e8f8bcdaa5,67a243ea6d8e29a001947947,effort-reward,Personne âgée,4,4,2,Femme petite taille,6,6,3
+femme,20,FRA,lycee,39c03ef1-c778-4b94-8739-09e8f8bcdaa5,67a243ea6d8e29a001947946,risk-reward,Enfant,2,2,1,Homme petite taille,8,8,6
+femme,20,FRA,lycee,39c03ef1-c778-4b94-8739-09e8f8bcdaa5,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,5,5,5,Homme petite taille,5,5,6
+femme,20,FRA,lycee,39c03ef1-c778-4b94-8739-09e8f8bcdaa5,67a243ea6d8e29a001947949,effort-reward,Robot,10,5,10,Enfant,0,5,1
+homme,25,DZA,bac+5,67ff8073-90cc-4383-85da-73daf4dbf6d1,67a243ea6d8e29a001947949,effort-reward,Enfant,5,5,2,Homme petite taille,5,5,8
+homme,25,DZA,bac+5,67ff8073-90cc-4383-85da-73daf4dbf6d1,67a51efa18a0dfe14aac016b,risk-effort,Homme petite taille,5,8,8,Enfant,5,2,2
+homme,25,DZA,bac+5,67ff8073-90cc-4383-85da-73daf4dbf6d1,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,5,5,10,Personne âgée,5,5,4
+homme,25,DZA,bac+5,67ff8073-90cc-4383-85da-73daf4dbf6d1,67a243ea6d8e29a001947948,effort-reward,Homme grande taille,8,8,10,Femme petite taille,2,2,7
+homme,25,DZA,bac+5,67ff8073-90cc-4383-85da-73daf4dbf6d1,67a243ea6d8e29a001947945,risk-reward,Femme petite taille,5,5,7,Femme grande taille,5,5,7
+homme,25,DZA,bac+5,67ff8073-90cc-4383-85da-73daf4dbf6d1,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,5,5,8,Homme grande taille,5,5,10
+homme,25,DZA,bac+5,67ff8073-90cc-4383-85da-73daf4dbf6d1,67a243ea6d8e29a001947946,risk-reward,Personne âgée,3,5,4,Femme grande taille,7,5,7
+homme,25,DZA,bac+5,67ff8073-90cc-4383-85da-73daf4dbf6d1,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,8,9,7,Enfant,2,1,2
+homme,25,DZA,bac+5,67ff8073-90cc-4383-85da-73daf4dbf6d1,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,2,8,4,Femme grande taille,8,2,7
+homme,25,DZA,bac+5,67ff8073-90cc-4383-85da-73daf4dbf6d1,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,8,9,7,Enfant,2,1,2
+homme,25,DZA,bac+5,67ff8073-90cc-4383-85da-73daf4dbf6d1,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,0,7,7,Robot,10,3,5
+homme,25,DZA,bac+5,67ff8073-90cc-4383-85da-73daf4dbf6d1,67a243ea6d8e29a001947948,effort-reward,Homme grande taille,8,8,10,Femme grande taille,2,2,7
+homme,25,DZA,bac+5,67ff8073-90cc-4383-85da-73daf4dbf6d1,67a243ea6d8e29a001947945,risk-reward,Enfant,5,5,2,Robot,5,5,5
+homme,25,DZA,bac+5,67ff8073-90cc-4383-85da-73daf4dbf6d1,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,7,2,10,Homme petite taille,3,8,8
+homme,25,DZA,bac+5,67ff8073-90cc-4383-85da-73daf4dbf6d1,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,2,8,10,Robot,8,2,5
+homme,25,DZA,bac+5,67ff8073-90cc-4383-85da-73daf4dbf6d1,67a51efa18a0dfe14aac016b,risk-effort,Homme petite taille,5,8,8,Enfant,5,2,2
+homme,25,DZA,bac+5,67ff8073-90cc-4383-85da-73daf4dbf6d1,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,7,7,10,Homme petite taille,3,3,8
+homme,25,DZA,bac+5,67ff8073-90cc-4383-85da-73daf4dbf6d1,67a243ea6d8e29a001947944,risk-reward,Enfant,2,2,2,Homme grande taille,8,8,10
+homme,26,FRA,bac+4,dc30a550-7754-467c-8dd0-bc7cb09156e6,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,5,5,4,Homme grande taille,5,5,8
+homme,26,FRA,bac+4,dc30a550-7754-467c-8dd0-bc7cb09156e6,67a243ea6d8e29a001947949,effort-reward,Enfant,5,5,3,Personne âgée,5,5,1
+femme,20,FRA,bac+2,6ab64e80-54db-4288-80e5-3ae4c64f4c0d,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,3,8,7,Femme petite taille,7,2,6
+femme,20,FRA,bac+2,6ab64e80-54db-4288-80e5-3ae4c64f4c0d,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,5,Femme grande taille,5,5,7
+femme,20,FRA,bac+2,6ab64e80-54db-4288-80e5-3ae4c64f4c0d,67a243ea6d8e29a001947944,risk-reward,Robot,7,5,7,Homme grande taille,3,5,7
+femme,20,FRA,bac+2,6ab64e80-54db-4288-80e5-3ae4c64f4c0d,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,5,Enfant,5,5,4
+femme,20,FRA,bac+2,6ab64e80-54db-4288-80e5-3ae4c64f4c0d,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,4,6,7,Robot,6,4,7
+femme,20,FRA,bac+2,6ab64e80-54db-4288-80e5-3ae4c64f4c0d,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,3,5,6,Homme grande taille,7,5,7
+femme,20,FRA,bac+2,6ab64e80-54db-4288-80e5-3ae4c64f4c0d,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,6,5,6,Enfant,4,5,4
+femme,20,FRA,bac+2,6ab64e80-54db-4288-80e5-3ae4c64f4c0d,67a243ea6d8e29a001947945,risk-reward,Robot,5,5,7,Enfant,5,5,4
+femme,21,FRA,bac+3,0d38b957-c255-4b0b-8810-6d53ce531685,67a51efa18a0dfe14aac016b,risk-effort,Robot,7,8,10,Enfant,3,2,1
+femme,21,FRA,bac+3,0d38b957-c255-4b0b-8810-6d53ce531685,67a243ea6d8e29a001947948,effort-reward,Robot,6,4,10,Femme petite taille,4,6,5
+homme,21,FRA,lycee,f99861a1-52a5-4012-8442-e945c21011bf,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,3,3,1,Homme grande taille,7,7,1
+homme,21,FRA,lycee,f99861a1-52a5-4012-8442-e945c21011bf,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,6,5,1,Homme grande taille,4,5,1
+homme,19,FRA,bac+1,1b56c12d-f2d1-45cc-9bed-d7661f8edfb3,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,6,10,7,Enfant,4,0,2
+homme,19,FRA,bac+1,1b56c12d-f2d1-45cc-9bed-d7661f8edfb3,67a243ea6d8e29a001947949,effort-reward,Personne âgée,3,5,4,Femme grande taille,7,5,7
+homme,19,FRA,bac+1,1b56c12d-f2d1-45cc-9bed-d7661f8edfb3,67a243ea6d8e29a001947944,risk-reward,Femme grande taille,5,5,7,Homme petite taille,5,5,7
+homme,19,FRA,bac+1,1b56c12d-f2d1-45cc-9bed-d7661f8edfb3,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,6,5,6,Personne âgée,4,5,4
+homme,19,FRA,bac+1,1b56c12d-f2d1-45cc-9bed-d7661f8edfb3,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,10,0,6,Homme grande taille,0,10,8
+homme,19,FRA,bac+1,1b56c12d-f2d1-45cc-9bed-d7661f8edfb3,67a243ea6d8e29a001947945,risk-reward,Personne âgée,3,4,4,Homme petite taille,7,6,7
+homme,19,FRA,bac+1,1b56c12d-f2d1-45cc-9bed-d7661f8edfb3,67a51e546623f6ccab523c27,risk-effort,Enfant,3,0,2,Femme petite taille,7,10,6
+homme,19,FRA,bac+1,1b56c12d-f2d1-45cc-9bed-d7661f8edfb3,67a243ea6d8e29a001947947,effort-reward,Personne âgée,4,4,4,Homme petite taille,6,6,7
+homme,19,FRA,bac+1,1b56c12d-f2d1-45cc-9bed-d7661f8edfb3,67a243ea6d8e29a001947948,effort-reward,Enfant,0,4,2,Homme grande taille,10,6,8
+homme,19,FRA,bac+1,1b56c12d-f2d1-45cc-9bed-d7661f8edfb3,67a243ea6d8e29a001947946,risk-reward,Enfant,0,10,2,Robot,10,0,9
+homme,19,FRA,bac+1,1b56c12d-f2d1-45cc-9bed-d7661f8edfb3,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,5,5,8,Femme grande taille,5,5,7
+homme,19,FRA,bac+1,1b56c12d-f2d1-45cc-9bed-d7661f8edfb3,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,6,6,8,Personne âgée,4,4,4
+homme,19,FRA,bac+1,1b56c12d-f2d1-45cc-9bed-d7661f8edfb3,67a51eb49d8894e943d3ff93,risk-effort,Robot,0,10,9,Femme grande taille,10,0,7
+homme,19,FRA,bac+1,1b56c12d-f2d1-45cc-9bed-d7661f8edfb3,67a51efa18a0dfe14aac016b,risk-effort,Enfant,10,0,2,Femme petite taille,0,10,6
+homme,19,FRA,bac+1,1b56c12d-f2d1-45cc-9bed-d7661f8edfb3,67a243ea6d8e29a001947948,effort-reward,Enfant,2,4,2,Personne âgée,8,6,4
+homme,19,FRA,bac+1,1b56c12d-f2d1-45cc-9bed-d7661f8edfb3,67a243ea6d8e29a001947949,effort-reward,Robot,10,0,9,Femme petite taille,0,10,6
+homme,19,FRA,bac+1,1b56c12d-f2d1-45cc-9bed-d7661f8edfb3,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,5,5,7,Personne âgée,5,5,4
+homme,19,FRA,bac+1,1b56c12d-f2d1-45cc-9bed-d7661f8edfb3,67a51efa18a0dfe14aac016b,risk-effort,Robot,0,10,9,Femme petite taille,10,0,6
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a51e546623f6ccab523c27,risk-effort,Personne âgée,5,0,1,Homme grande taille,5,10,6
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947948,effort-reward,Robot,0,5,1,Femme grande taille,10,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947945,risk-reward,Personne âgée,5,4,1,Femme grande taille,5,6,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,5,5,1,Personne âgée,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947946,risk-reward,Homme grande taille,5,5,6,Homme petite taille,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a51eb49d8894e943d3ff93,risk-effort,Enfant,5,5,1,Femme grande taille,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947949,effort-reward,Enfant,5,5,1,Femme grande taille,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a51eb49d8894e943d3ff93,risk-effort,Femme petite taille,5,5,1,Femme grande taille,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,1,Robot,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947947,effort-reward,Enfant,5,5,1,Homme grande taille,5,5,6
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,5,5,1,Robot,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,5,5,1,Robot,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,5,5,1,Enfant,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,5,5,1,Enfant,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,5,5,1,Femme petite taille,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947948,effort-reward,Personne âgée,5,5,1,Enfant,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,5,5,6,Femme grande taille,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,5,5,1,Homme grande taille,5,5,6
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,5,5,8,Homme grande taille,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,5,5,8,Homme grande taille,5,5,1
+homme,52,DZA,employe,383490d1-14b0-421f-a401-abcdacd82a51,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,5,5,1,Homme grande taille,5,5,1
+femme,21,DZA,bac+4,acab858f-d75d-480a-a9d8-7a7790e82bda,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,5,5,9,Femme grande taille,5,5,7
+femme,21,DZA,bac+4,acab858f-d75d-480a-a9d8-7a7790e82bda,67a51efa18a0dfe14aac016b,risk-effort,Homme petite taille,3,5,8,Robot,7,5,8
+femme,21,DZA,bac+4,acab858f-d75d-480a-a9d8-7a7790e82bda,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,5,5,6,Personne âgée,5,5,2
+femme,21,DZA,bac+4,acab858f-d75d-480a-a9d8-7a7790e82bda,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,5,5,7,Homme petite taille,5,5,8
+femme,21,DZA,bac+4,acab858f-d75d-480a-a9d8-7a7790e82bda,67a243ea6d8e29a001947944,risk-reward,Femme grande taille,5,5,7,Femme petite taille,5,5,6
+femme,21,DZA,bac+4,acab858f-d75d-480a-a9d8-7a7790e82bda,67a243ea6d8e29a001947948,effort-reward,Robot,5,5,8,Femme grande taille,5,5,7
+femme,21,DZA,bac+4,acab858f-d75d-480a-a9d8-7a7790e82bda,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,5,5,8,Robot,5,5,8
+femme,21,DZA,bac+4,acab858f-d75d-480a-a9d8-7a7790e82bda,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,8,7,7,Enfant,2,3,2
+femme,21,DZA,bac+4,acab858f-d75d-480a-a9d8-7a7790e82bda,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,9,3,8,Personne âgée,1,7,2
+femme,21,DZA,bac+4,acab858f-d75d-480a-a9d8-7a7790e82bda,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,10,10,9,Personne âgée,0,0,2
+femme,21,DZA,bac+4,acab858f-d75d-480a-a9d8-7a7790e82bda,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,10,10,9,Femme petite taille,0,0,6
+femme,21,DZA,bac+4,acab858f-d75d-480a-a9d8-7a7790e82bda,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,6,7,8,Femme petite taille,4,3,6
+femme,21,DZA,bac+4,acab858f-d75d-480a-a9d8-7a7790e82bda,67a243ea6d8e29a001947945,risk-reward,Robot,5,5,8,Femme grande taille,5,5,7
+femme,21,DZA,bac+4,acab858f-d75d-480a-a9d8-7a7790e82bda,67a243ea6d8e29a001947949,effort-reward,Personne âgée,0,1,2,Homme grande taille,10,9,9
+femme,21,DZA,bac+4,acab858f-d75d-480a-a9d8-7a7790e82bda,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,10,7,7,Enfant,0,3,2
+femme,21,DZA,bac+4,acab858f-d75d-480a-a9d8-7a7790e82bda,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,0,10,9,Femme grande taille,10,0,7
+femme,21,DZA,bac+4,acab858f-d75d-480a-a9d8-7a7790e82bda,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,3,9,7,Homme petite taille,7,1,8
+femme,21,DZA,bac+4,acab858f-d75d-480a-a9d8-7a7790e82bda,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,8,3,8,Femme grande taille,2,7,7
+homme,22,MAR,bac+4,3901c244-3fb7-4c80-9761-9760fbd60e24,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,3,7,9,Femme grande taille,7,3,7
+homme,23,DZA,bac+3,e4fcf5bf-43e2-49c1-af1b-af00653bf6d8,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,3,5,9,Enfant,7,5,8
+homme,23,DZA,bac+3,e4fcf5bf-43e2-49c1-af1b-af00653bf6d8,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,2,5,4,Robot,8,5,9
+homme,23,DZA,bac+3,e4fcf5bf-43e2-49c1-af1b-af00653bf6d8,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,5,5,7,Homme petite taille,5,5,9
+homme,23,DZA,bac+3,e4fcf5bf-43e2-49c1-af1b-af00653bf6d8,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,5,5,7,Homme grande taille,5,5,7
+homme,23,DZA,bac+3,e4fcf5bf-43e2-49c1-af1b-af00653bf6d8,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,10,2,1,Enfant,0,8,8
+homme,23,DZA,bac+3,e4fcf5bf-43e2-49c1-af1b-af00653bf6d8,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,5,5,4,Enfant,5,5,8
+homme,23,DZA,bac+3,e4fcf5bf-43e2-49c1-af1b-af00653bf6d8,67a243ea6d8e29a001947944,risk-reward,Personne âgée,2,2,1,Homme petite taille,8,8,9
+homme,23,DZA,bac+3,e4fcf5bf-43e2-49c1-af1b-af00653bf6d8,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,3,5,4,Homme grande taille,7,5,7
+homme,23,DZA,bac+3,e4fcf5bf-43e2-49c1-af1b-af00653bf6d8,67a243ea6d8e29a001947948,effort-reward,Robot,8,0,9,Homme grande taille,2,10,7
+homme,23,DZA,bac+3,e4fcf5bf-43e2-49c1-af1b-af00653bf6d8,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,5,5,4,Homme grande taille,5,5,7
+homme,23,DZA,bac+3,e4fcf5bf-43e2-49c1-af1b-af00653bf6d8,67a243ea6d8e29a001947946,risk-reward,Robot,5,5,9,Femme petite taille,5,5,7
+homme,23,DZA,bac+3,e4fcf5bf-43e2-49c1-af1b-af00653bf6d8,67a51e546623f6ccab523c27,risk-effort,Robot,5,5,9,Personne âgée,5,5,1
+homme,23,DZA,bac+3,e4fcf5bf-43e2-49c1-af1b-af00653bf6d8,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,5,5,4,Personne âgée,5,5,1
+homme,23,DZA,bac+3,e4fcf5bf-43e2-49c1-af1b-af00653bf6d8,67a51eb49d8894e943d3ff93,risk-effort,Robot,7,5,9,Homme petite taille,3,5,9
+homme,23,DZA,bac+3,e4fcf5bf-43e2-49c1-af1b-af00653bf6d8,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,1,6,4,Homme grande taille,9,4,7
+homme,23,DZA,bac+3,e4fcf5bf-43e2-49c1-af1b-af00653bf6d8,67a243ea6d8e29a001947945,risk-reward,Enfant,7,4,8,Homme grande taille,3,6,7
+homme,23,DZA,bac+3,e4fcf5bf-43e2-49c1-af1b-af00653bf6d8,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,7,7,7,Personne âgée,3,3,1
+homme,23,DZA,bac+3,e4fcf5bf-43e2-49c1-af1b-af00653bf6d8,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,2,10,4,Robot,8,0,9
+femme,22,MAR,bac+4,8113a2cc-ff7d-4862-8b15-f2c7194e7712,67a51eb49d8894e943d3ff93,risk-effort,Robot,7,3,5,Femme grande taille,3,7,5
+femme,22,MAR,bac+4,8113a2cc-ff7d-4862-8b15-f2c7194e7712,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,8,2,4,Enfant,2,8,3
+femme,22,TUN,bac+3,12d2d777-5210-4eff-ba21-a13d4914db24,67a51e546623f6ccab523c27,risk-effort,Femme grande taille,5,5,1,Enfant,5,5,3
+femme,22,TUN,bac+3,12d2d777-5210-4eff-ba21-a13d4914db24,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,5,5,1,Personne âgée,5,5,3
+femme,22,TUN,bac+3,12d2d777-5210-4eff-ba21-a13d4914db24,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,5,3,1,Robot,5,7,5
+femme,22,TUN,bac+3,12d2d777-5210-4eff-ba21-a13d4914db24,67a243ea6d8e29a001947946,risk-reward,Robot,4,5,5,Personne âgée,6,5,3
+femme,22,TUN,bac+3,12d2d777-5210-4eff-ba21-a13d4914db24,67a243ea6d8e29a001947947,effort-reward,Robot,5,3,5,Femme grande taille,5,7,1
+femme,22,TUN,bac+3,12d2d777-5210-4eff-ba21-a13d4914db24,67a243ea6d8e29a001947944,risk-reward,Enfant,5,5,3,Homme grande taille,5,5,1
+femme,22,TUN,bac+3,12d2d777-5210-4eff-ba21-a13d4914db24,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,7,5,1,Robot,3,5,5
+femme,22,TUN,bac+3,12d2d777-5210-4eff-ba21-a13d4914db24,67a243ea6d8e29a001947948,effort-reward,Robot,5,8,5,Femme petite taille,5,2,1
+femme,22,TUN,bac+3,12d2d777-5210-4eff-ba21-a13d4914db24,67a243ea6d8e29a001947945,risk-reward,Robot,4,5,5,Homme grande taille,6,5,1
+femme,22,TUN,bac+3,12d2d777-5210-4eff-ba21-a13d4914db24,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,5,5,1,Enfant,5,5,3
+femme,22,TUN,bac+3,12d2d777-5210-4eff-ba21-a13d4914db24,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,7,5,1,Homme grande taille,3,5,1
+femme,22,TUN,bac+3,12d2d777-5210-4eff-ba21-a13d4914db24,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,4,5,1,Femme petite taille,6,5,1
+femme,22,TUN,bac+3,12d2d777-5210-4eff-ba21-a13d4914db24,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,8,5,1,Enfant,2,5,3
+femme,22,TUN,bac+3,12d2d777-5210-4eff-ba21-a13d4914db24,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,5,2,3,Homme grande taille,5,8,1
+femme,22,TUN,bac+3,12d2d777-5210-4eff-ba21-a13d4914db24,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,2,5,3,Enfant,8,5,3
+femme,22,TUN,bac+3,12d2d777-5210-4eff-ba21-a13d4914db24,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,5,2,1,Femme petite taille,5,8,1
+femme,22,TUN,bac+3,12d2d777-5210-4eff-ba21-a13d4914db24,67a243ea6d8e29a001947946,risk-reward,Robot,8,2,5,Enfant,2,8,3
+femme,22,TUN,bac+3,12d2d777-5210-4eff-ba21-a13d4914db24,67a243ea6d8e29a001947945,risk-reward,Femme petite taille,5,8,1,Robot,5,2,5
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,0,0,8,Homme grande taille,10,10,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947948,effort-reward,Robot,5,5,1,Homme petite taille,5,5,8
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,8,2,1,Femme petite taille,2,8,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,1,7,1,Femme petite taille,9,3,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,8,1,1,Femme petite taille,2,9,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,0,7,1,Femme petite taille,10,3,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,1,7,1,Femme petite taille,9,3,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,1,5,1,Femme petite taille,9,5,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,10,8,1,Femme petite taille,0,2,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,0,9,1,Femme petite taille,10,1,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,5,0,1,Femme petite taille,5,10,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,10,5,1,Femme petite taille,0,5,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,10,0,1,Femme petite taille,0,10,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,8,6,1,Femme petite taille,2,4,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,0,1,1,Femme petite taille,10,9,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,5,5,1,Femme petite taille,5,5,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,5,5,1,Femme petite taille,5,5,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,5,5,1,Femme petite taille,5,5,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,3,10,1,Femme petite taille,7,0,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,5,5,1,Femme petite taille,5,5,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,5,2,1,Femme petite taille,5,8,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,5,5,1,Femme petite taille,5,5,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,10,0,1,Femme petite taille,0,10,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,2,8,1,Femme petite taille,8,2,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,5,5,1,Femme petite taille,5,5,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,5,5,1,Femme petite taille,5,5,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,5,5,1,Femme petite taille,5,5,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,5,5,1,Femme petite taille,5,5,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,5,5,1,Femme petite taille,5,5,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,5,5,1,Femme petite taille,5,5,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,5,5,1,Femme petite taille,5,5,1
+homme,25,DZA,bac+1,f0d5aea0-c455-4268-a4e5-0fb3b00eb7f3,67a243ea6d8e29a001947949,effort-reward,Robot,5,5,1,Femme petite taille,5,5,1
+femme,22,DZA,bac+3,3114d0e5-2819-4d01-b199-ec46df54a649,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,0,5,1,Homme petite taille,10,5,1
+femme,21,DZA,bac+2,4e646978-0638-4e15-977e-4a788728215e,67a243ea6d8e29a001947944,risk-reward,Robot,7,0,6,Homme grande taille,3,10,8
+femme,21,DZA,bac+2,4e646978-0638-4e15-977e-4a788728215e,67a243ea6d8e29a001947948,effort-reward,Personne âgée,2,6,2,Robot,8,4,6
+femme,21,DZA,bac+2,4e646978-0638-4e15-977e-4a788728215e,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,6,3,8,Robot,4,7,6
+femme,21,DZA,bac+2,4e646978-0638-4e15-977e-4a788728215e,67a243ea6d8e29a001947949,effort-reward,Personne âgée,2,7,2,Femme grande taille,8,3,5
+femme,21,DZA,bac+2,4e646978-0638-4e15-977e-4a788728215e,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,3,7,4,Personne âgée,7,3,2
+femme,21,DZA,bac+2,4e646978-0638-4e15-977e-4a788728215e,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,4,3,5,Personne âgée,6,7,2
+femme,21,DZA,bac+2,4e646978-0638-4e15-977e-4a788728215e,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,7,3,2,Femme petite taille,3,7,4
+femme,21,DZA,bac+2,4e646978-0638-4e15-977e-4a788728215e,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,4,8,4,Robot,6,2,6
+femme,21,DZA,bac+2,4e646978-0638-4e15-977e-4a788728215e,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,3,3,5,Robot,7,7,6
+femme,21,DZA,bac+2,4e646978-0638-4e15-977e-4a788728215e,67a243ea6d8e29a001947948,effort-reward,Enfant,3,8,3,Homme grande taille,7,2,8
+femme,21,DZA,bac+2,4e646978-0638-4e15-977e-4a788728215e,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,4,5,3,Enfant,6,5,3
+femme,21,DZA,bac+2,4e646978-0638-4e15-977e-4a788728215e,67a243ea6d8e29a001947944,risk-reward,Femme grande taille,9,2,5,Femme petite taille,1,8,4
+femme,21,DZA,bac+2,4e646978-0638-4e15-977e-4a788728215e,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,3,2,3,Personne âgée,7,8,2
+femme,21,DZA,bac+2,4e646978-0638-4e15-977e-4a788728215e,67a243ea6d8e29a001947946,risk-reward,Homme grande taille,5,5,8,Femme grande taille,5,5,5
+femme,21,DZA,bac+2,4e646978-0638-4e15-977e-4a788728215e,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,4,3,8,Femme petite taille,6,7,4
+femme,21,DZA,bac+2,4e646978-0638-4e15-977e-4a788728215e,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,7,4,3,Enfant,3,6,3
+femme,21,DZA,bac+2,4e646978-0638-4e15-977e-4a788728215e,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,3,4,8,Femme petite taille,7,6,4
+femme,21,DZA,bac+2,4e646978-0638-4e15-977e-4a788728215e,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,7,5,5,Enfant,3,5,3
+homme,23,FRA,bac+2,3270b18a-a715-4a67-8024-43da851ed521,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,10,10,10,Robot,0,0,1
+femme,23,DZA,bac+4,01416e5c-1693-4f12-9351-466371957356,67a243ea6d8e29a001947945,risk-reward,Robot,5,5,5,Personne âgée,5,5,1
+femme,23,DZA,bac+4,01416e5c-1693-4f12-9351-466371957356,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,5,5,1,Personne âgée,5,5,1
+femme,23,DZA,bac+4,01416e5c-1693-4f12-9351-466371957356,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,5,5,1,Homme grande taille,5,5,1
+femme,23,DZA,bac+4,01416e5c-1693-4f12-9351-466371957356,67a243ea6d8e29a001947946,risk-reward,Enfant,5,5,1,Homme grande taille,5,5,1
+femme,23,DZA,bac+4,01416e5c-1693-4f12-9351-466371957356,67a243ea6d8e29a001947944,risk-reward,Personne âgée,5,5,1,Enfant,5,5,1
+femme,23,DZA,bac+4,01416e5c-1693-4f12-9351-466371957356,67a243ea6d8e29a001947948,effort-reward,Personne âgée,5,5,1,Femme petite taille,5,5,8
+femme,23,DZA,bac+4,01416e5c-1693-4f12-9351-466371957356,67a51efa18a0dfe14aac016b,risk-effort,Robot,5,5,5,Femme petite taille,5,5,8
+femme,23,DZA,bac+4,01416e5c-1693-4f12-9351-466371957356,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,5,5,1,Homme petite taille,5,5,1
+femme,22,ITA,bac+3,a9734859-005b-43c1-8b6e-399cdf39d7db,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,3,5,7,Homme grande taille,7,5,9
+femme,22,ITA,bac+3,a9734859-005b-43c1-8b6e-399cdf39d7db,67a243ea6d8e29a001947946,risk-reward,Robot,10,0,9,Femme petite taille,0,10,4
+femme,22,ITA,bac+3,a9734859-005b-43c1-8b6e-399cdf39d7db,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,8,6,9,Femme petite taille,2,4,4
+femme,22,ITA,bac+3,a9734859-005b-43c1-8b6e-399cdf39d7db,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,7,7,7,Femme petite taille,3,3,4
+femme,22,ITA,bac+3,a9734859-005b-43c1-8b6e-399cdf39d7db,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,8,7,7,Femme petite taille,2,3,4
+femme,22,ITA,bac+3,a9734859-005b-43c1-8b6e-399cdf39d7db,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,8,2,4,Homme petite taille,2,8,7
+femme,22,ITA,bac+3,a9734859-005b-43c1-8b6e-399cdf39d7db,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,0,10,7,Robot,10,0,9
+femme,22,ITA,bac+3,a9734859-005b-43c1-8b6e-399cdf39d7db,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,5,7,9,Femme grande taille,5,3,7
+femme,22,ITA,bac+3,a9734859-005b-43c1-8b6e-399cdf39d7db,67a51e546623f6ccab523c27,risk-effort,Personne âgée,0,4,2,Femme grande taille,10,6,7
+femme,22,ITA,bac+3,a9734859-005b-43c1-8b6e-399cdf39d7db,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,8,8,7,Femme petite taille,2,2,4
+femme,22,ITA,bac+3,a9734859-005b-43c1-8b6e-399cdf39d7db,67a243ea6d8e29a001947948,effort-reward,Femme petite taille,8,2,4,Homme grande taille,2,8,9
+femme,22,ITA,bac+3,a9734859-005b-43c1-8b6e-399cdf39d7db,67a243ea6d8e29a001947944,risk-reward,Personne âgée,4,7,2,Homme grande taille,6,3,9
+femme,22,ITA,bac+3,a9734859-005b-43c1-8b6e-399cdf39d7db,67a243ea6d8e29a001947947,effort-reward,Robot,10,0,9,Homme grande taille,0,10,9
+femme,22,ITA,bac+3,a9734859-005b-43c1-8b6e-399cdf39d7db,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,9,6,9,Personne âgée,1,4,2
+femme,22,ITA,bac+3,a9734859-005b-43c1-8b6e-399cdf39d7db,67a243ea6d8e29a001947949,effort-reward,Personne âgée,0,10,2,Robot,10,0,9
+femme,22,ITA,bac+3,a9734859-005b-43c1-8b6e-399cdf39d7db,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,0,0,2,Homme petite taille,10,10,7
+femme,22,ITA,bac+3,a9734859-005b-43c1-8b6e-399cdf39d7db,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,4,2,7,Homme grande taille,6,8,9
+femme,22,ITA,bac+3,a9734859-005b-43c1-8b6e-399cdf39d7db,67a243ea6d8e29a001947945,risk-reward,Femme petite taille,5,5,4,Homme petite taille,5,5,7
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a243ea6d8e29a001947945,risk-reward,Robot,5,5,3,Enfant,5,5,2
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a243ea6d8e29a001947945,risk-reward,Robot,6,8,3,Enfant,4,2,2
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a243ea6d8e29a001947945,risk-reward,Robot,1,1,3,Enfant,9,9,2
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,3,3,8,Enfant,7,7,2
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,5,5,8,Enfant,5,5,2
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,5,9,8,Enfant,5,1,2
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,5,5,8,Enfant,5,5,2
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,7,10,8,Enfant,3,0,2
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,8,5,8,Enfant,2,5,2
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,7,5,8,Enfant,3,5,2
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,5,5,8,Enfant,5,5,2
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,5,5,8,Enfant,5,5,2
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,0,7,8,Enfant,10,3,2
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,0,7,8,Enfant,10,3,2
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,8,5,8,Enfant,2,5,2
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,8,9,5,Femme grande taille,2,1,7
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,8,5,5,Femme grande taille,2,5,7
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,1,5,5,Femme grande taille,9,5,7
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,1,5,5,Femme grande taille,9,5,7
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,1,5,5,Femme grande taille,9,5,7
+femme,16,DZA,lycee,9f377a7d-b285-4f43-8d93-044f7e2a8186,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,2,5,5,Femme grande taille,8,5,7
+homme,20,DZA,bac+3,c6ea354b-332f-4240-82ef-769618db3b72,67a243ea6d8e29a001947948,effort-reward,Robot,7,4,10,Femme grande taille,3,6,6
+homme,20,DZA,bac+3,c6ea354b-332f-4240-82ef-769618db3b72,67a243ea6d8e29a001947946,risk-reward,Homme grande taille,7,5,8,Robot,3,5,10
+homme,20,DZA,bac+3,c6ea354b-332f-4240-82ef-769618db3b72,67a51efa18a0dfe14aac016b,risk-effort,Robot,4,7,10,Femme petite taille,6,3,4
+homme,20,DZA,bac+3,c6ea354b-332f-4240-82ef-769618db3b72,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,4,3,6,Enfant,6,7,8
+homme,20,DZA,bac+3,c6ea354b-332f-4240-82ef-769618db3b72,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,4,4,6,Enfant,6,6,8
+homme,20,DZA,bac+3,c6ea354b-332f-4240-82ef-769618db3b72,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,5,5,4,Enfant,5,5,8
+homme,20,DZA,bac+3,c6ea354b-332f-4240-82ef-769618db3b72,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,5,5,6,Enfant,5,5,8
+homme,20,DZA,bac+3,c6ea354b-332f-4240-82ef-769618db3b72,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,4,3,4,Femme grande taille,6,7,6
+homme,20,DZA,bac+3,c6ea354b-332f-4240-82ef-769618db3b72,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,2,9,8,Robot,8,1,10
+homme,20,DZA,bac+3,c6ea354b-332f-4240-82ef-769618db3b72,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,1,6,6,Homme grande taille,9,4,8
+homme,20,DZA,bac+3,c6ea354b-332f-4240-82ef-769618db3b72,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,8,7,8,Personne âgée,2,3,7
+homme,20,DZA,bac+3,c6ea354b-332f-4240-82ef-769618db3b72,67a243ea6d8e29a001947947,effort-reward,Robot,9,2,10,Homme grande taille,1,8,8
+homme,20,DZA,bac+3,c6ea354b-332f-4240-82ef-769618db3b72,67a243ea6d8e29a001947949,effort-reward,Personne âgée,2,5,7,Homme grande taille,8,5,8
+homme,20,DZA,bac+3,c6ea354b-332f-4240-82ef-769618db3b72,67a243ea6d8e29a001947949,effort-reward,Robot,7,5,10,Femme grande taille,3,5,6
+homme,20,DZA,bac+3,c6ea354b-332f-4240-82ef-769618db3b72,67a243ea6d8e29a001947947,effort-reward,Personne âgée,2,5,7,Homme grande taille,8,5,8
+homme,20,DZA,bac+3,c6ea354b-332f-4240-82ef-769618db3b72,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,2,2,8,Robot,8,8,10
+homme,20,DZA,bac+3,c6ea354b-332f-4240-82ef-769618db3b72,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,6,4,8,Femme petite taille,4,6,4
+homme,20,DZA,bac+3,c6ea354b-332f-4240-82ef-769618db3b72,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,3,4,6,Enfant,7,6,8
+femme,20,DZA,bac+3,3a0205d2-1ab1-4eac-b171-52d7ccf6a218,67a51e546623f6ccab523c27,risk-effort,Femme grande taille,5,5,1,Enfant,5,5,1
+femme,23,DZA,bac+4,dcf800c8-9884-4562-ad04-7129fec28e38,67a243ea6d8e29a001947945,risk-reward,Enfant,2,6,3,Homme petite taille,8,4,8
+femme,23,DZA,bac+4,dcf800c8-9884-4562-ad04-7129fec28e38,67a51e546623f6ccab523c27,risk-effort,Robot,3,7,5,Femme grande taille,7,3,9
+femme,23,DZA,bac+4,dcf800c8-9884-4562-ad04-7129fec28e38,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,8,2,7,Robot,2,8,5
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,1,1,3,Femme petite taille,9,9,5
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,5,5,8,Homme grande taille,5,5,10
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a51efa18a0dfe14aac016b,risk-effort,Robot,5,5,8,Femme grande taille,5,5,8
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,7,7,9,Enfant,3,3,4
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a51e546623f6ccab523c27,risk-effort,Personne âgée,2,1,3,Femme petite taille,8,9,5
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,8,5,8,Enfant,2,5,4
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,5,5,8,Femme petite taille,5,5,5
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a51eb49d8894e943d3ff93,risk-effort,Femme petite taille,3,3,5,Femme grande taille,7,7,8
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947944,risk-reward,Personne âgée,2,5,3,Enfant,8,5,4
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947947,effort-reward,Personne âgée,1,4,3,Robot,9,6,8
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,3,10,5,Robot,7,0,8
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a51e546623f6ccab523c27,risk-effort,Personne âgée,0,0,3,Robot,10,10,8
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947948,effort-reward,Personne âgée,2,6,3,Homme grande taille,8,4,10
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,8,5,10,Personne âgée,2,5,3
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947944,risk-reward,Robot,8,8,8,Personne âgée,2,2,3
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,5,5,8,Femme petite taille,5,5,5
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947945,risk-reward,Enfant,3,0,4,Homme grande taille,7,10,10
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Personne âgée,1,2,3,Robot,9,8,8
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,3,Robot,5,5,8
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Personne âgée,2,2,3,Robot,8,8,8
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,2,Robot,5,5,9
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,2,Robot,5,5,9
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,2,Robot,5,5,9
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,2,Robot,5,5,9
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,2,Robot,5,5,9
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,2,Robot,5,5,9
+femme,56,PER,employe,0ddc3fd4-4b70-4d2f-b53a-011af4247494,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,7,7,7,Personne âgée,3,3,3
+femme,56,PER,employe,0ddc3fd4-4b70-4d2f-b53a-011af4247494,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,5,5,7,Homme grande taille,5,5,8
+femme,56,PER,employe,0ddc3fd4-4b70-4d2f-b53a-011af4247494,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,5,5,7,Homme grande taille,5,5,8
+femme,56,PER,employe,0ddc3fd4-4b70-4d2f-b53a-011af4247494,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,0,2,3,Femme petite taille,10,8,7
+femme,56,PER,employe,0ddc3fd4-4b70-4d2f-b53a-011af4247494,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,7,7,7,Personne âgée,3,3,3
+femme,56,PER,employe,0ddc3fd4-4b70-4d2f-b53a-011af4247494,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,0,10,8,Robot,10,0,9
+femme,56,PER,employe,0ddc3fd4-4b70-4d2f-b53a-011af4247494,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,5,5,7,Homme grande taille,5,5,8
+femme,56,PER,employe,0ddc3fd4-4b70-4d2f-b53a-011af4247494,67a243ea6d8e29a001947944,risk-reward,Femme grande taille,5,5,7,Homme petite taille,5,5,7
+femme,56,PER,employe,0ddc3fd4-4b70-4d2f-b53a-011af4247494,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,5,5,7,Femme petite taille,5,5,7
+femme,56,PER,employe,0ddc3fd4-4b70-4d2f-b53a-011af4247494,67a243ea6d8e29a001947945,risk-reward,Personne âgée,3,5,3,Femme grande taille,7,5,7
+femme,56,PER,employe,0ddc3fd4-4b70-4d2f-b53a-011af4247494,67a51e546623f6ccab523c27,risk-effort,Femme grande taille,4,5,7,Homme grande taille,6,5,8
+femme,56,PER,employe,0ddc3fd4-4b70-4d2f-b53a-011af4247494,67a243ea6d8e29a001947948,effort-reward,Robot,10,0,9,Homme petite taille,0,10,7
+femme,56,PER,employe,0ddc3fd4-4b70-4d2f-b53a-011af4247494,67a51efa18a0dfe14aac016b,risk-effort,Robot,10,0,9,Femme grande taille,0,10,7
+femme,56,PER,employe,0ddc3fd4-4b70-4d2f-b53a-011af4247494,67a243ea6d8e29a001947945,risk-reward,Enfant,2,5,3,Personne âgée,8,5,3
+femme,56,PER,employe,0ddc3fd4-4b70-4d2f-b53a-011af4247494,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,0,2,3,Homme grande taille,10,8,8
+femme,56,PER,employe,0ddc3fd4-4b70-4d2f-b53a-011af4247494,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,2,2,3,Femme grande taille,8,8,7
+femme,56,PER,employe,0ddc3fd4-4b70-4d2f-b53a-011af4247494,67a51e546623f6ccab523c27,risk-effort,Femme grande taille,5,5,7,Femme petite taille,5,5,7
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,1,1,3,Femme petite taille,9,9,5
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,5,5,8,Homme grande taille,5,5,10
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a51efa18a0dfe14aac016b,risk-effort,Robot,5,5,8,Femme grande taille,5,5,8
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,7,7,9,Enfant,3,3,4
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a51e546623f6ccab523c27,risk-effort,Personne âgée,2,1,3,Femme petite taille,8,9,5
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,8,5,8,Enfant,2,5,4
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,5,5,8,Femme petite taille,5,5,5
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a51eb49d8894e943d3ff93,risk-effort,Femme petite taille,3,3,5,Femme grande taille,7,7,8
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947944,risk-reward,Personne âgée,2,5,3,Enfant,8,5,4
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947947,effort-reward,Personne âgée,1,4,3,Robot,9,6,8
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,3,10,5,Robot,7,0,8
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a51e546623f6ccab523c27,risk-effort,Personne âgée,0,0,3,Robot,10,10,8
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947948,effort-reward,Personne âgée,2,6,3,Homme grande taille,8,4,10
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,8,5,10,Personne âgée,2,5,3
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947944,risk-reward,Robot,8,8,8,Personne âgée,2,2,3
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,5,5,8,Femme petite taille,5,5,5
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947945,risk-reward,Enfant,3,0,4,Homme grande taille,7,10,10
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Personne âgée,1,2,3,Robot,9,8,8
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,3,Robot,5,5,8
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Personne âgée,2,2,3,Robot,8,8,8
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,2,Robot,5,5,9
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,2,Robot,5,5,9
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,2,Robot,5,5,9
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,2,Robot,5,5,9
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,2,Robot,5,5,9
+homme,25,PER,bac+3,605fd6d1-1b81-4bc0-b3a1-0906822f7568,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,2,Robot,5,5,9
+homme,25,PER,bac+3,348de87d-9d1c-48db-8027-f866e7253ab8,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,2,2,8,Robot,8,8,9
+homme,25,PER,bac+3,348de87d-9d1c-48db-8027-f866e7253ab8,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,2,3,7,Femme grande taille,8,7,8
+homme,25,PER,bac+3,348de87d-9d1c-48db-8027-f866e7253ab8,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,5,5,5,Homme petite taille,5,5,7
+homme,25,PER,bac+3,348de87d-9d1c-48db-8027-f866e7253ab8,67a51efa18a0dfe14aac016b,risk-effort,Enfant,2,3,4,Homme grande taille,8,7,9
+homme,25,PER,bac+3,348de87d-9d1c-48db-8027-f866e7253ab8,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,8,5,7,Personne âgée,2,5,3
+homme,25,PER,bac+3,348de87d-9d1c-48db-8027-f866e7253ab8,67a243ea6d8e29a001947945,risk-reward,Enfant,5,2,4,Femme grande taille,5,8,8
+homme,25,PER,bac+3,348de87d-9d1c-48db-8027-f866e7253ab8,67a243ea6d8e29a001947949,effort-reward,Personne âgée,1,5,3,Robot,9,5,9
+homme,25,PER,bac+3,348de87d-9d1c-48db-8027-f866e7253ab8,67a243ea6d8e29a001947947,effort-reward,Personne âgée,1,5,3,Robot,9,5,9
+homme,25,PER,bac+3,348de87d-9d1c-48db-8027-f866e7253ab8,67a51efa18a0dfe14aac016b,risk-effort,Robot,5,4,9,Femme grande taille,5,6,8
+homme,25,PER,bac+3,348de87d-9d1c-48db-8027-f866e7253ab8,67a243ea6d8e29a001947949,effort-reward,Robot,5,5,9,Femme grande taille,5,5,8
+homme,25,PER,bac+3,348de87d-9d1c-48db-8027-f866e7253ab8,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,5,5,5,Homme petite taille,5,5,7
+homme,25,PER,bac+3,348de87d-9d1c-48db-8027-f866e7253ab8,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,9,9,7,Personne âgée,1,1,3
+homme,25,PER,bac+3,348de87d-9d1c-48db-8027-f866e7253ab8,67a243ea6d8e29a001947944,risk-reward,Robot,9,5,9,Personne âgée,1,5,3
+homme,25,PER,bac+3,348de87d-9d1c-48db-8027-f866e7253ab8,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,3,5,5,Homme grande taille,7,5,9
+homme,25,PER,bac+3,348de87d-9d1c-48db-8027-f866e7253ab8,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,8,5,8,Personne âgée,2,5,3
+homme,25,PER,bac+3,348de87d-9d1c-48db-8027-f866e7253ab8,67a243ea6d8e29a001947946,risk-reward,Robot,5,2,9,Homme grande taille,5,8,9
+homme,25,PER,bac+3,348de87d-9d1c-48db-8027-f866e7253ab8,67a243ea6d8e29a001947948,effort-reward,Robot,7,7,9,Enfant,3,3,4
+homme,25,PER,bac+3,348de87d-9d1c-48db-8027-f866e7253ab8,67a243ea6d8e29a001947948,effort-reward,Enfant,3,6,4,Femme grande taille,7,4,8
+homme,60,DZA,employe,0c660e96-ef9f-4821-be38-17ab3da38a39,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,5,5,8,Robot,5,5,8
+homme,60,DZA,employe,0c660e96-ef9f-4821-be38-17ab3da38a39,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,5,5,6,Homme grande taille,5,5,8
+homme,60,DZA,employe,0c660e96-ef9f-4821-be38-17ab3da38a39,67a51eb49d8894e943d3ff93,risk-effort,Robot,5,5,8,Femme grande taille,5,5,6
+homme,60,DZA,employe,0c660e96-ef9f-4821-be38-17ab3da38a39,67a243ea6d8e29a001947946,risk-reward,Robot,5,5,8,Personne âgée,5,5,5
+homme,60,DZA,employe,0c660e96-ef9f-4821-be38-17ab3da38a39,67a51eb49d8894e943d3ff93,risk-effort,Robot,5,5,8,Homme petite taille,5,5,6
+homme,60,DZA,employe,0c660e96-ef9f-4821-be38-17ab3da38a39,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,5,5,5,Homme petite taille,5,5,6
+homme,60,DZA,employe,0c660e96-ef9f-4821-be38-17ab3da38a39,67a51e546623f6ccab523c27,risk-effort,Personne âgée,5,5,5,Enfant,5,5,5
+homme,60,DZA,employe,0c660e96-ef9f-4821-be38-17ab3da38a39,67a243ea6d8e29a001947947,effort-reward,Personne âgée,5,5,5,Homme grande taille,5,5,8
+homme,60,DZA,employe,0c660e96-ef9f-4821-be38-17ab3da38a39,67a243ea6d8e29a001947946,risk-reward,Personne âgée,5,5,5,Femme grande taille,5,5,6
+homme,60,DZA,employe,0c660e96-ef9f-4821-be38-17ab3da38a39,67a243ea6d8e29a001947944,risk-reward,Robot,5,5,8,Homme petite taille,5,5,6
+homme,60,DZA,employe,0c660e96-ef9f-4821-be38-17ab3da38a39,67a243ea6d8e29a001947948,effort-reward,Personne âgée,5,5,5,Femme grande taille,5,5,6
+homme,60,DZA,employe,0c660e96-ef9f-4821-be38-17ab3da38a39,67a243ea6d8e29a001947948,effort-reward,Homme grande taille,5,5,8,Femme petite taille,5,5,6
+homme,60,DZA,employe,0c660e96-ef9f-4821-be38-17ab3da38a39,67a243ea6d8e29a001947945,risk-reward,Personne âgée,5,5,5,Homme petite taille,5,5,6
+homme,60,DZA,employe,0c660e96-ef9f-4821-be38-17ab3da38a39,67a51efa18a0dfe14aac016b,risk-effort,Robot,5,5,8,Personne âgée,5,5,5
+homme,60,DZA,employe,0c660e96-ef9f-4821-be38-17ab3da38a39,67a243ea6d8e29a001947949,effort-reward,Personne âgée,5,5,5,Homme petite taille,5,5,6
+homme,60,DZA,employe,0c660e96-ef9f-4821-be38-17ab3da38a39,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,5,5,6,Robot,5,5,8
+homme,60,DZA,employe,0c660e96-ef9f-4821-be38-17ab3da38a39,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,5,5,6,Homme grande taille,5,5,8
+homme,60,DZA,employe,0c660e96-ef9f-4821-be38-17ab3da38a39,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,5,5,6,Homme petite taille,5,5,6
+homme,24,DZA,bac+5,9a56d65d-f5b7-4426-a458-a624c27e4f17,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,8,8,3,Personne âgée,2,2,1
+homme,24,DZA,bac+5,9a56d65d-f5b7-4426-a458-a624c27e4f17,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,4,1,3,Homme grande taille,6,9,8
+homme,24,DZA,bac+5,9a56d65d-f5b7-4426-a458-a624c27e4f17,67a51eb49d8894e943d3ff93,risk-effort,Robot,5,2,5,Homme petite taille,5,8,7
+homme,24,DZA,bac+5,9a56d65d-f5b7-4426-a458-a624c27e4f17,67a51efa18a0dfe14aac016b,risk-effort,Homme petite taille,5,5,7,Homme grande taille,5,5,8
+homme,24,DZA,bac+5,9a56d65d-f5b7-4426-a458-a624c27e4f17,67a243ea6d8e29a001947948,effort-reward,Enfant,5,5,2,Personne âgée,5,5,1
+homme,24,DZA,bac+5,9a56d65d-f5b7-4426-a458-a624c27e4f17,67a243ea6d8e29a001947947,effort-reward,Robot,9,0,5,Homme petite taille,1,10,7
+homme,24,DZA,bac+5,9a56d65d-f5b7-4426-a458-a624c27e4f17,67a51e546623f6ccab523c27,risk-effort,Robot,10,10,5,Enfant,0,0,2
+homme,24,DZA,bac+5,9a56d65d-f5b7-4426-a458-a624c27e4f17,67a243ea6d8e29a001947947,effort-reward,Personne âgée,2,5,1,Homme grande taille,8,5,8
+homme,24,DZA,bac+5,9a56d65d-f5b7-4426-a458-a624c27e4f17,67a243ea6d8e29a001947944,risk-reward,Robot,7,5,5,Femme grande taille,3,5,5
+homme,24,DZA,bac+5,9a56d65d-f5b7-4426-a458-a624c27e4f17,67a243ea6d8e29a001947949,effort-reward,Personne âgée,1,3,1,Homme petite taille,9,7,7
+homme,24,DZA,bac+5,9a56d65d-f5b7-4426-a458-a624c27e4f17,67a243ea6d8e29a001947946,risk-reward,Robot,10,1,5,Personne âgée,0,9,1
+homme,24,DZA,bac+5,9a56d65d-f5b7-4426-a458-a624c27e4f17,67a243ea6d8e29a001947945,risk-reward,Femme petite taille,7,5,3,Personne âgée,3,5,1
+homme,24,DZA,bac+5,9a56d65d-f5b7-4426-a458-a624c27e4f17,67a243ea6d8e29a001947946,risk-reward,Enfant,1,2,2,Homme grande taille,9,8,8
+homme,24,DZA,bac+5,9a56d65d-f5b7-4426-a458-a624c27e4f17,67a51e546623f6ccab523c27,risk-effort,Enfant,1,2,2,Femme grande taille,9,8,5
+homme,24,DZA,bac+5,9a56d65d-f5b7-4426-a458-a624c27e4f17,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,3,5,5,Homme grande taille,7,5,8
+homme,24,DZA,bac+5,9a56d65d-f5b7-4426-a458-a624c27e4f17,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,10,10,7,Personne âgée,0,0,1
+homme,24,DZA,bac+5,9a56d65d-f5b7-4426-a458-a624c27e4f17,67a243ea6d8e29a001947945,risk-reward,Enfant,7,5,2,Personne âgée,3,5,1
+homme,24,DZA,bac+5,9a56d65d-f5b7-4426-a458-a624c27e4f17,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,9,5,8,Femme grande taille,1,5,5
+homme,27,DZA,bac+2,a670748e-f32d-4403-a07a-333b55491ee4,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,4,5,4,Homme petite taille,6,5,5
+homme,27,DZA,bac+2,a670748e-f32d-4403-a07a-333b55491ee4,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,7,4,5,Enfant,3,6,2
+homme,27,DZA,bac+2,a670748e-f32d-4403-a07a-333b55491ee4,67a243ea6d8e29a001947946,risk-reward,Enfant,3,5,2,Homme grande taille,7,5,6
+homme,27,DZA,bac+2,a670748e-f32d-4403-a07a-333b55491ee4,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,7,7,5,Enfant,3,3,2
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a51eb49d8894e943d3ff93,risk-effort,Enfant,5,2,3,Robot,5,8,7
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,5,5,10,Personne âgée,5,5,5
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a243ea6d8e29a001947944,risk-reward,Femme grande taille,5,5,10,Homme petite taille,5,5,8
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a243ea6d8e29a001947944,risk-reward,Femme grande taille,5,5,10,Homme petite taille,5,5,8
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a243ea6d8e29a001947944,risk-reward,Femme grande taille,5,5,10,Homme petite taille,5,5,8
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a243ea6d8e29a001947947,effort-reward,Robot,4,0,7,Homme grande taille,6,10,10
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,3,5,10,Robot,7,5,7
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a243ea6d8e29a001947946,risk-reward,Robot,6,5,7,Femme grande taille,4,5,10
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,1,5,10,Robot,9,5,7
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a243ea6d8e29a001947949,effort-reward,Enfant,8,2,3,Personne âgée,2,8,5
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,4,8,8,Personne âgée,6,2,5
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,0,1,5,Femme grande taille,10,9,10
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,5,5,8,Robot,5,5,7
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,5,5,8,Enfant,5,5,3
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,5,5,8,Personne âgée,5,5,5
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,5,5,10,Femme grande taille,5,5,10
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a243ea6d8e29a001947945,risk-reward,Robot,5,5,7,Femme petite taille,5,5,8
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,5,5,8,Robot,5,5,7
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,5,5,8,Enfant,5,5,3
+femme,22,DZA,employe,eb984dfa-52fa-43a8-87b7-46e623436ee2,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,9,2,8,Personne âgée,1,8,5
+homme,25,FRA,bac+3,6663a675-20c5-40ab-8f4a-fb7f04692eee,67a243ea6d8e29a001947945,risk-reward,Femme petite taille,7,7,6,Personne âgée,3,3,3
+homme,25,FRA,bac+3,6663a675-20c5-40ab-8f4a-fb7f04692eee,67a51eb49d8894e943d3ff93,risk-effort,Robot,5,5,10,Femme petite taille,5,5,6
+homme,25,FRA,bac+3,6663a675-20c5-40ab-8f4a-fb7f04692eee,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,7,3,9,Homme grande taille,3,7,8
+homme,25,FRA,bac+3,6663a675-20c5-40ab-8f4a-fb7f04692eee,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,2,8,8,Femme petite taille,8,2,6
+homme,25,FRA,bac+3,6663a675-20c5-40ab-8f4a-fb7f04692eee,67a243ea6d8e29a001947949,effort-reward,Personne âgée,7,6,3,Homme petite taille,3,4,9
+homme,25,FRA,bac+3,6663a675-20c5-40ab-8f4a-fb7f04692eee,67a243ea6d8e29a001947947,effort-reward,Personne âgée,2,2,3,Femme grande taille,8,8,4
+homme,25,FRA,bac+3,6663a675-20c5-40ab-8f4a-fb7f04692eee,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,8,1,9,Homme grande taille,2,9,8
+homme,25,FRA,bac+3,6663a675-20c5-40ab-8f4a-fb7f04692eee,67a243ea6d8e29a001947948,effort-reward,Robot,7,2,10,Personne âgée,3,8,3
+homme,25,FRA,bac+3,6663a675-20c5-40ab-8f4a-fb7f04692eee,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,8,2,9,Personne âgée,2,8,3
+homme,25,FRA,bac+3,6663a675-20c5-40ab-8f4a-fb7f04692eee,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,2,9,4,Personne âgée,8,1,3
+homme,25,FRA,bac+3,6663a675-20c5-40ab-8f4a-fb7f04692eee,67a243ea6d8e29a001947946,risk-reward,Enfant,7,2,10,Homme grande taille,3,8,8
+homme,25,FRA,bac+3,6663a675-20c5-40ab-8f4a-fb7f04692eee,67a243ea6d8e29a001947948,effort-reward,Femme petite taille,5,5,6,Homme grande taille,5,5,8
+homme,25,FRA,bac+3,6663a675-20c5-40ab-8f4a-fb7f04692eee,67a243ea6d8e29a001947944,risk-reward,Enfant,8,6,10,Homme grande taille,2,4,8
+homme,25,FRA,bac+3,6663a675-20c5-40ab-8f4a-fb7f04692eee,67a51e546623f6ccab523c27,risk-effort,Personne âgée,3,6,3,Femme petite taille,7,4,6
+homme,25,FRA,bac+3,6663a675-20c5-40ab-8f4a-fb7f04692eee,67a243ea6d8e29a001947947,effort-reward,Enfant,7,5,10,Robot,3,5,10
+homme,25,FRA,bac+3,6663a675-20c5-40ab-8f4a-fb7f04692eee,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,4,8,4,Robot,6,2,10
+homme,25,FRA,bac+3,6663a675-20c5-40ab-8f4a-fb7f04692eee,67a51eb49d8894e943d3ff93,risk-effort,Femme petite taille,7,1,6,Enfant,3,9,10
+homme,25,FRA,bac+3,6663a675-20c5-40ab-8f4a-fb7f04692eee,67a243ea6d8e29a001947945,risk-reward,Enfant,5,5,10,Femme grande taille,5,5,4
+femme,20,DZA,bac+3,ec7b5488-e2ae-444e-b80c-99a74744024c,67a243ea6d8e29a001947944,risk-reward,Personne âgée,3,3,4,Homme grande taille,7,7,9
+femme,20,DZA,bac+3,ec7b5488-e2ae-444e-b80c-99a74744024c,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,5,5,9,Femme petite taille,5,5,7
+femme,20,DZA,bac+3,ec7b5488-e2ae-444e-b80c-99a74744024c,67a243ea6d8e29a001947949,effort-reward,Enfant,4,4,2,Personne âgée,6,6,4
+femme,20,DZA,bac+3,ec7b5488-e2ae-444e-b80c-99a74744024c,67a243ea6d8e29a001947949,effort-reward,Enfant,4,4,2,Personne âgée,6,6,4
+femme,20,DZA,bac+3,ec7b5488-e2ae-444e-b80c-99a74744024c,67a243ea6d8e29a001947948,effort-reward,Personne âgée,6,5,4,Femme grande taille,4,5,8
+femme,20,DZA,bac+3,ec7b5488-e2ae-444e-b80c-99a74744024c,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,4,5,8,Homme grande taille,6,5,9
+femme,20,DZA,bac+3,ec7b5488-e2ae-444e-b80c-99a74744024c,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,10,10,7,Enfant,0,0,2
+femme,20,DZA,bac+3,ec7b5488-e2ae-444e-b80c-99a74744024c,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,10,10,7,Robot,0,0,6
+femme,20,DZA,bac+3,ec7b5488-e2ae-444e-b80c-99a74744024c,67a243ea6d8e29a001947946,risk-reward,Personne âgée,6,5,4,Femme grande taille,4,5,8
+femme,20,DZA,bac+3,ec7b5488-e2ae-444e-b80c-99a74744024c,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,10,6,7,Personne âgée,0,4,4
+femme,20,DZA,bac+3,ec7b5488-e2ae-444e-b80c-99a74744024c,67a243ea6d8e29a001947945,risk-reward,Personne âgée,5,5,4,Enfant,5,5,2
+femme,20,DZA,bac+3,ec7b5488-e2ae-444e-b80c-99a74744024c,67a243ea6d8e29a001947945,risk-reward,Robot,6,6,6,Femme grande taille,4,4,8
+femme,20,DZA,bac+3,ec7b5488-e2ae-444e-b80c-99a74744024c,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,5,5,9,Homme petite taille,5,5,8
+femme,20,DZA,bac+3,ec7b5488-e2ae-444e-b80c-99a74744024c,67a51eb49d8894e943d3ff93,risk-effort,Femme petite taille,5,5,7,Homme grande taille,5,5,9
+femme,20,DZA,bac+3,ec7b5488-e2ae-444e-b80c-99a74744024c,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,5,5,7,Femme grande taille,5,5,8
+femme,20,DZA,bac+3,ec7b5488-e2ae-444e-b80c-99a74744024c,67a243ea6d8e29a001947946,risk-reward,Robot,0,0,6,Homme grande taille,10,10,9
+femme,20,DZA,bac+3,ec7b5488-e2ae-444e-b80c-99a74744024c,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,7,3,9,Femme petite taille,3,7,7
+femme,20,DZA,bac+3,ec7b5488-e2ae-444e-b80c-99a74744024c,67a51e546623f6ccab523c27,risk-effort,Femme grande taille,5,5,8,Femme petite taille,5,5,7
+homme,21,ARG,bac+3,5dcea4d4-1ec7-4c23-a0ba-fecd2397a153,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,8,5,7,Enfant,2,5,3
+homme,21,ARG,bac+3,5dcea4d4-1ec7-4c23-a0ba-fecd2397a153,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,5,5,7,Femme grande taille,5,5,7
+homme,21,ARG,bac+3,5dcea4d4-1ec7-4c23-a0ba-fecd2397a153,67a243ea6d8e29a001947947,effort-reward,Robot,5,0,9,Homme grande taille,5,10,8
+homme,21,ARG,bac+3,5dcea4d4-1ec7-4c23-a0ba-fecd2397a153,67a51efa18a0dfe14aac016b,risk-effort,Robot,5,8,9,Homme petite taille,5,2,7
+homme,21,ARG,bac+3,5dcea4d4-1ec7-4c23-a0ba-fecd2397a153,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,2,5,3,Homme grande taille,8,5,8
+homme,21,ARG,bac+3,5dcea4d4-1ec7-4c23-a0ba-fecd2397a153,67a243ea6d8e29a001947949,effort-reward,Robot,8,0,9,Personne âgée,2,10,3
+homme,21,ARG,bac+3,5dcea4d4-1ec7-4c23-a0ba-fecd2397a153,67a243ea6d8e29a001947944,risk-reward,Enfant,3,5,3,Femme grande taille,7,5,7
+homme,21,ARG,bac+3,5dcea4d4-1ec7-4c23-a0ba-fecd2397a153,67a243ea6d8e29a001947949,effort-reward,Enfant,2,5,3,Homme grande taille,8,5,8
+homme,21,ARG,bac+3,5dcea4d4-1ec7-4c23-a0ba-fecd2397a153,67a243ea6d8e29a001947947,effort-reward,Personne âgée,5,5,3,Enfant,5,5,3
+homme,21,ARG,bac+3,5dcea4d4-1ec7-4c23-a0ba-fecd2397a153,67a51e546623f6ccab523c27,risk-effort,Femme grande taille,7,7,7,Personne âgée,3,3,3
+homme,21,ARG,bac+3,5dcea4d4-1ec7-4c23-a0ba-fecd2397a153,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,9,5,8,Personne âgée,1,5,3
+homme,21,ARG,bac+3,5dcea4d4-1ec7-4c23-a0ba-fecd2397a153,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,8,5,7,Enfant,2,5,3
+homme,21,ARG,bac+3,5dcea4d4-1ec7-4c23-a0ba-fecd2397a153,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,3,10,5,Robot,7,0,9
+homme,21,ARG,bac+3,5dcea4d4-1ec7-4c23-a0ba-fecd2397a153,67a243ea6d8e29a001947946,risk-reward,Personne âgée,2,5,3,Femme grande taille,8,5,7
+homme,21,ARG,bac+3,5dcea4d4-1ec7-4c23-a0ba-fecd2397a153,67a51e546623f6ccab523c27,risk-effort,Enfant,3,0,3,Homme petite taille,7,10,7
+homme,21,ARG,bac+3,5dcea4d4-1ec7-4c23-a0ba-fecd2397a153,67a243ea6d8e29a001947945,risk-reward,Femme petite taille,4,5,5,Femme grande taille,6,5,7
+homme,21,ARG,bac+3,5dcea4d4-1ec7-4c23-a0ba-fecd2397a153,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,5,5,7,Robot,5,5,9
+homme,21,ARG,bac+3,5dcea4d4-1ec7-4c23-a0ba-fecd2397a153,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,3,3,7,Robot,7,7,9
+homme,23,DZA,bac+3,333a8f3c-93a0-4bf8-b5c0-681d9a4a8320,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,5,5,1,Personne âgée,5,5,1
+homme,23,DZA,bac+3,333a8f3c-93a0-4bf8-b5c0-681d9a4a8320,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,0,0,1,Robot,10,10,1
+femme,15,ITA,college,8162ddba-bf91-44a6-9360-e6fb67cbd710,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,6,3,4,Enfant,4,7,3
+femme,21,FRA,bac+3,7ea7e86f-de4f-434e-9b2c-5635d5481c55,67a51e546623f6ccab523c27,risk-effort,Enfant,6,4,3,Femme petite taille,4,6,4
+femme,21,FRA,bac+3,7ea7e86f-de4f-434e-9b2c-5635d5481c55,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,5,5,5,Homme petite taille,5,5,5
+femme,21,FRA,bac+3,7ea7e86f-de4f-434e-9b2c-5635d5481c55,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,5,5,5,Robot,5,5,6
+homme,20,DZA,bac+2,edf51d8d-7055-4034-b9af-547629d358c4,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,6,7,6,Enfant,4,3,3
+homme,20,DZA,bac+2,edf51d8d-7055-4034-b9af-547629d358c4,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,9,9,7,Personne âgée,1,1,4
+homme,20,DZA,bac+2,edf51d8d-7055-4034-b9af-547629d358c4,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,1,2,4,Homme grande taille,9,8,8
+homme,20,DZA,bac+2,edf51d8d-7055-4034-b9af-547629d358c4,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,5,5,8,Homme petite taille,5,5,7
+homme,20,DZA,bac+2,edf51d8d-7055-4034-b9af-547629d358c4,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,5,5,7,Homme grande taille,5,5,8
+homme,20,DZA,bac+2,edf51d8d-7055-4034-b9af-547629d358c4,67a51e546623f6ccab523c27,risk-effort,Personne âgée,5,5,4,Robot,5,5,9
+homme,20,DZA,bac+2,edf51d8d-7055-4034-b9af-547629d358c4,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,5,5,5,Femme grande taille,5,5,6
+homme,20,DZA,bac+2,edf51d8d-7055-4034-b9af-547629d358c4,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,5,5,7,Homme grande taille,5,5,8
+homme,20,DZA,bac+2,edf51d8d-7055-4034-b9af-547629d358c4,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,3,8,7,Enfant,7,2,3
+homme,20,DZA,bac+2,edf51d8d-7055-4034-b9af-547629d358c4,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,10,10,8,Enfant,0,0,3
+homme,20,DZA,bac+2,edf51d8d-7055-4034-b9af-547629d358c4,67a51efa18a0dfe14aac016b,risk-effort,Robot,10,0,9,Femme petite taille,0,10,5
+homme,20,DZA,bac+2,edf51d8d-7055-4034-b9af-547629d358c4,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,7,7,8,Femme petite taille,3,3,5
+homme,20,DZA,bac+2,edf51d8d-7055-4034-b9af-547629d358c4,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,0,10,7,Robot,10,0,9
+homme,20,DZA,bac+2,edf51d8d-7055-4034-b9af-547629d358c4,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,5,5,5,Femme grande taille,5,5,6
+homme,20,DZA,bac+2,edf51d8d-7055-4034-b9af-547629d358c4,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,5,5,6,Personne âgée,5,5,4
+homme,20,DZA,bac+2,edf51d8d-7055-4034-b9af-547629d358c4,67a51efa18a0dfe14aac016b,risk-effort,Homme petite taille,7,7,7,Femme petite taille,3,3,5
+homme,20,DZA,bac+2,edf51d8d-7055-4034-b9af-547629d358c4,67a243ea6d8e29a001947944,risk-reward,Robot,10,0,9,Enfant,0,10,3
+homme,20,DZA,bac+2,edf51d8d-7055-4034-b9af-547629d358c4,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,7,7,6,Personne âgée,3,3,4
+homme,18,FRA,bac+1,1a8093d5-7425-4b23-8fbc-5a34fa498875,67a243ea6d8e29a001947946,risk-reward,Enfant,4,5,3,Personne âgée,6,5,4
+homme,18,FRA,bac+1,1a8093d5-7425-4b23-8fbc-5a34fa498875,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,6,6,7,Femme petite taille,4,4,6
+homme,18,FRA,bac+1,1a8093d5-7425-4b23-8fbc-5a34fa498875,67a51e546623f6ccab523c27,risk-effort,Robot,4,7,9,Homme petite taille,6,3,6
+homme,18,FRA,bac+1,1a8093d5-7425-4b23-8fbc-5a34fa498875,67a51eb49d8894e943d3ff93,risk-effort,Robot,8,3,9,Femme petite taille,2,7,6
+homme,18,FRA,bac+1,1a8093d5-7425-4b23-8fbc-5a34fa498875,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,4,4,8,Robot,6,6,9
+homme,18,FRA,bac+1,1a8093d5-7425-4b23-8fbc-5a34fa498875,67a243ea6d8e29a001947948,effort-reward,Personne âgée,3,4,4,Femme grande taille,7,6,7
+homme,18,FRA,bac+1,1a8093d5-7425-4b23-8fbc-5a34fa498875,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,3,8,8,Femme grande taille,7,2,7
+homme,18,FRA,bac+1,1a8093d5-7425-4b23-8fbc-5a34fa498875,67a243ea6d8e29a001947946,risk-reward,Personne âgée,3,4,4,Homme petite taille,7,6,6
+homme,18,FRA,bac+1,1a8093d5-7425-4b23-8fbc-5a34fa498875,67a51e546623f6ccab523c27,risk-effort,Personne âgée,6,2,4,Homme grande taille,4,8,8
+homme,18,FRA,bac+1,1a8093d5-7425-4b23-8fbc-5a34fa498875,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,10,0,4,Robot,0,10,9
+homme,18,FRA,bac+1,1a8093d5-7425-4b23-8fbc-5a34fa498875,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,6,6,8,Homme petite taille,4,4,6
+homme,18,FRA,bac+1,1a8093d5-7425-4b23-8fbc-5a34fa498875,67a243ea6d8e29a001947944,risk-reward,Personne âgée,4,4,4,Femme petite taille,6,6,6
+homme,18,FRA,bac+1,1a8093d5-7425-4b23-8fbc-5a34fa498875,67a243ea6d8e29a001947948,effort-reward,Robot,8,7,9,Homme petite taille,2,3,6
+homme,18,FRA,bac+1,1a8093d5-7425-4b23-8fbc-5a34fa498875,67a51efa18a0dfe14aac016b,risk-effort,Homme petite taille,2,9,6,Personne âgée,8,1,4
+homme,18,FRA,bac+1,1a8093d5-7425-4b23-8fbc-5a34fa498875,67a243ea6d8e29a001947947,effort-reward,Robot,9,8,9,Enfant,1,2,3
+homme,18,FRA,bac+1,1a8093d5-7425-4b23-8fbc-5a34fa498875,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,8,7,8,Femme petite taille,2,3,6
+homme,18,FRA,bac+1,1a8093d5-7425-4b23-8fbc-5a34fa498875,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,6,6,8,Enfant,4,4,3
+homme,18,FRA,bac+1,1a8093d5-7425-4b23-8fbc-5a34fa498875,67a243ea6d8e29a001947949,effort-reward,Robot,5,5,9,Homme grande taille,5,5,8
+femme,22,LBN,bac+3,64230135-2ae9-4892-a6d4-e016c158eca3,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,5,9,7,Robot,5,1,9
+homme,33,ARG,employe,c8fbdab2-afb7-40a3-893b-55271c0ec7fe,67a243ea6d8e29a001947947,effort-reward,Personne âgée,8,8,3,Enfant,2,2,5
+homme,33,ARG,employe,c8fbdab2-afb7-40a3-893b-55271c0ec7fe,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,8,7,7,Enfant,2,3,5
+femme,19,FRA,bac+1,ee9d6e32-da26-407e-970d-dfdc6cbebae1,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,4,5,9,Robot,6,5,10
+femme,19,FRA,bac+1,ee9d6e32-da26-407e-970d-dfdc6cbebae1,67a243ea6d8e29a001947948,effort-reward,Robot,8,4,10,Personne âgée,2,6,3
+femme,19,FRA,bac+1,ee9d6e32-da26-407e-970d-dfdc6cbebae1,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,7,6,8,Enfant,3,4,4
+femme,19,FRA,bac+1,ee9d6e32-da26-407e-970d-dfdc6cbebae1,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,6,6,9,Homme petite taille,4,4,8
+femme,19,FRA,bac+1,ee9d6e32-da26-407e-970d-dfdc6cbebae1,67a243ea6d8e29a001947944,risk-reward,Robot,7,5,10,Enfant,3,5,4
+femme,19,FRA,bac+1,ee9d6e32-da26-407e-970d-dfdc6cbebae1,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,4,5,7,Homme grande taille,6,5,9
+femme,19,FRA,bac+1,ee9d6e32-da26-407e-970d-dfdc6cbebae1,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,4,5,8,Homme grande taille,6,5,9
+femme,19,FRA,bac+1,ee9d6e32-da26-407e-970d-dfdc6cbebae1,67a51efa18a0dfe14aac016b,risk-effort,Robot,6,7,10,Personne âgée,4,3,3
+femme,19,FRA,bac+1,ee9d6e32-da26-407e-970d-dfdc6cbebae1,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,6,5,8,Femme petite taille,4,5,7
+femme,19,FRA,bac+1,ee9d6e32-da26-407e-970d-dfdc6cbebae1,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,6,6,9,Homme petite taille,4,4,8
+femme,19,FRA,bac+1,ee9d6e32-da26-407e-970d-dfdc6cbebae1,67a51e546623f6ccab523c27,risk-effort,Robot,8,8,10,Enfant,2,2,4
+femme,19,FRA,bac+1,ee9d6e32-da26-407e-970d-dfdc6cbebae1,67a243ea6d8e29a001947949,effort-reward,Personne âgée,3,5,3,Femme petite taille,7,5,7
+femme,19,FRA,bac+1,ee9d6e32-da26-407e-970d-dfdc6cbebae1,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,4,4,7,Femme grande taille,6,6,8
+femme,19,FRA,bac+1,ee9d6e32-da26-407e-970d-dfdc6cbebae1,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,5,5,8,Femme grande taille,5,5,8
+femme,19,FRA,bac+1,ee9d6e32-da26-407e-970d-dfdc6cbebae1,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,5,6,9,Femme grande taille,5,4,8
+femme,19,FRA,bac+1,ee9d6e32-da26-407e-970d-dfdc6cbebae1,67a243ea6d8e29a001947949,effort-reward,Robot,5,5,10,Homme grande taille,5,5,9
+femme,19,FRA,bac+1,ee9d6e32-da26-407e-970d-dfdc6cbebae1,67a243ea6d8e29a001947945,risk-reward,Personne âgée,4,5,3,Enfant,6,5,4
+femme,19,FRA,bac+1,ee9d6e32-da26-407e-970d-dfdc6cbebae1,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,8,6,7,Personne âgée,2,4,3
+homme,24,DZA,bac+5,456cc33b-98b5-456a-a6f3-9dda924d2c79,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,8,8,7,Femme petite taille,2,2,5
+homme,24,DZA,bac+5,456cc33b-98b5-456a-a6f3-9dda924d2c79,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,8,8,7,Personne âgée,2,2,3
+homme,24,DZA,bac+5,456cc33b-98b5-456a-a6f3-9dda924d2c79,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,10,10,7,Personne âgée,0,0,3
+femme,22,BRA,bac+4,1d3b7a4f-a894-46f1-8ca0-553df124b20a,67a243ea6d8e29a001947948,effort-reward,Personne âgée,7,5,4,Enfant,3,5,3
+femme,22,BRA,bac+4,1d3b7a4f-a894-46f1-8ca0-553df124b20a,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,6,5,8,Femme petite taille,4,5,6
+femme,22,BRA,bac+4,1d3b7a4f-a894-46f1-8ca0-553df124b20a,67a51efa18a0dfe14aac016b,risk-effort,Robot,5,4,8,Femme petite taille,5,6,6
+femme,22,BRA,bac+4,1d3b7a4f-a894-46f1-8ca0-553df124b20a,67a243ea6d8e29a001947944,risk-reward,Femme grande taille,2,5,8,Robot,8,5,8
+femme,22,BRA,bac+4,1d3b7a4f-a894-46f1-8ca0-553df124b20a,67a51e546623f6ccab523c27,risk-effort,Robot,4,7,8,Homme grande taille,6,3,9
+femme,22,BRA,bac+4,1d3b7a4f-a894-46f1-8ca0-553df124b20a,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,3,5,4,Homme grande taille,7,5,9
+femme,22,BRA,bac+4,1d3b7a4f-a894-46f1-8ca0-553df124b20a,67a243ea6d8e29a001947949,effort-reward,Personne âgée,3,5,4,Robot,7,5,8
+femme,22,BRA,bac+4,1d3b7a4f-a894-46f1-8ca0-553df124b20a,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,4,5,8,Homme grande taille,6,5,9
+femme,22,BRA,bac+4,1d3b7a4f-a894-46f1-8ca0-553df124b20a,67a243ea6d8e29a001947947,effort-reward,Enfant,2,5,3,Robot,8,5,8
+femme,22,BRA,bac+4,1d3b7a4f-a894-46f1-8ca0-553df124b20a,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,8,8,9,Femme grande taille,2,2,8
+femme,22,BRA,bac+4,1d3b7a4f-a894-46f1-8ca0-553df124b20a,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,7,5,8,Personne âgée,3,5,4
+femme,22,BRA,bac+4,1d3b7a4f-a894-46f1-8ca0-553df124b20a,67a51e546623f6ccab523c27,risk-effort,Robot,5,6,8,Homme petite taille,5,4,8
+femme,22,BRA,bac+4,1d3b7a4f-a894-46f1-8ca0-553df124b20a,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,5,3,4,Femme petite taille,5,7,6
+femme,22,BRA,bac+4,1d3b7a4f-a894-46f1-8ca0-553df124b20a,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,8,5,6,Enfant,2,5,3
+femme,22,BRA,bac+4,1d3b7a4f-a894-46f1-8ca0-553df124b20a,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,2,5,8,Robot,8,5,8
+femme,22,BRA,bac+4,1d3b7a4f-a894-46f1-8ca0-553df124b20a,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,6,5,8,Femme petite taille,4,5,6
+femme,22,BRA,bac+4,1d3b7a4f-a894-46f1-8ca0-553df124b20a,67a243ea6d8e29a001947945,risk-reward,Personne âgée,1,5,4,Robot,9,5,8
+femme,22,BRA,bac+4,1d3b7a4f-a894-46f1-8ca0-553df124b20a,67a243ea6d8e29a001947949,effort-reward,Robot,8,5,8,Enfant,2,5,3
+homme,25,FRA,bac+3,ef5e6917-e7bd-457d-a9a9-6e7c9efb3b96,67a243ea6d8e29a001947948,effort-reward,Femme petite taille,2,4,5,Homme grande taille,8,6,9
+homme,25,FRA,bac+3,ef5e6917-e7bd-457d-a9a9-6e7c9efb3b96,67a243ea6d8e29a001947948,effort-reward,Personne âgée,5,5,2,Robot,5,5,3
+homme,25,FRA,bac+3,ef5e6917-e7bd-457d-a9a9-6e7c9efb3b96,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,5,5,7,Femme petite taille,5,5,5
+homme,25,FRA,bac+3,ef5e6917-e7bd-457d-a9a9-6e7c9efb3b96,67a243ea6d8e29a001947947,effort-reward,Robot,3,0,3,Homme petite taille,7,10,7
+homme,25,FRA,bac+3,ef5e6917-e7bd-457d-a9a9-6e7c9efb3b96,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,5,5,7,Homme petite taille,5,5,7
+homme,25,FRA,bac+3,ef5e6917-e7bd-457d-a9a9-6e7c9efb3b96,67a51e546623f6ccab523c27,risk-effort,Personne âgée,3,0,2,Homme petite taille,7,10,7
+homme,25,FRA,bac+3,ef5e6917-e7bd-457d-a9a9-6e7c9efb3b96,67a51eb49d8894e943d3ff93,risk-effort,Robot,0,10,3,Femme petite taille,10,0,5
+homme,25,FRA,bac+3,ef5e6917-e7bd-457d-a9a9-6e7c9efb3b96,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,10,0,7,Robot,0,10,3
+homme,25,FRA,bac+3,ef5e6917-e7bd-457d-a9a9-6e7c9efb3b96,67a243ea6d8e29a001947944,risk-reward,Robot,10,0,3,Femme grande taille,0,10,7
+homme,25,FRA,bac+3,ef5e6917-e7bd-457d-a9a9-6e7c9efb3b96,67a243ea6d8e29a001947949,effort-reward,Personne âgée,5,5,2,Robot,5,5,3
+homme,25,FRA,bac+3,ef5e6917-e7bd-457d-a9a9-6e7c9efb3b96,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,6,5,7,Femme grande taille,4,5,7
+homme,25,FRA,bac+3,ef5e6917-e7bd-457d-a9a9-6e7c9efb3b96,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,10,10,7,Enfant,0,0,1
+homme,25,FRA,bac+3,ef5e6917-e7bd-457d-a9a9-6e7c9efb3b96,67a51eb49d8894e943d3ff93,risk-effort,Robot,0,10,3,Homme petite taille,10,0,7
+homme,25,FRA,bac+3,ef5e6917-e7bd-457d-a9a9-6e7c9efb3b96,67a243ea6d8e29a001947946,risk-reward,Enfant,7,1,1,Femme petite taille,3,9,5
+homme,25,FRA,bac+3,ef5e6917-e7bd-457d-a9a9-6e7c9efb3b96,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,5,5,5,Homme petite taille,5,5,7
+homme,25,FRA,bac+3,ef5e6917-e7bd-457d-a9a9-6e7c9efb3b96,67a243ea6d8e29a001947944,risk-reward,Femme grande taille,6,6,7,Femme petite taille,4,4,5
+homme,25,FRA,bac+3,ef5e6917-e7bd-457d-a9a9-6e7c9efb3b96,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,4,4,5,Homme petite taille,6,6,7
+homme,25,FRA,bac+3,ef5e6917-e7bd-457d-a9a9-6e7c9efb3b96,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,5,5,5,Homme grande taille,5,5,9
+homme,21,DZA,bac+3,ce01aea0-6ee8-4d92-8224-9ef44f8537ae,67a243ea6d8e29a001947946,risk-reward,Robot,0,0,10,Femme grande taille,10,10,6
+homme,21,DZA,bac+3,ce01aea0-6ee8-4d92-8224-9ef44f8537ae,67a51eb49d8894e943d3ff93,risk-effort,Robot,10,0,10,Homme grande taille,0,10,8
+homme,21,DZA,bac+3,ce01aea0-6ee8-4d92-8224-9ef44f8537ae,67a243ea6d8e29a001947947,effort-reward,Enfant,3,2,2,Femme petite taille,7,8,4
+homme,21,DZA,bac+3,ce01aea0-6ee8-4d92-8224-9ef44f8537ae,67a51e546623f6ccab523c27,risk-effort,Robot,0,10,10,Homme petite taille,10,0,6
+homme,21,DZA,bac+3,ce01aea0-6ee8-4d92-8224-9ef44f8537ae,67a51efa18a0dfe14aac016b,risk-effort,Homme petite taille,5,5,6,Femme petite taille,5,5,4
+homme,21,DZA,bac+3,ce01aea0-6ee8-4d92-8224-9ef44f8537ae,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,8,5,6,Femme grande taille,2,5,6
+homme,21,DZA,bac+3,ce01aea0-6ee8-4d92-8224-9ef44f8537ae,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,5,5,8,Enfant,5,5,2
+homme,21,DZA,bac+3,ce01aea0-6ee8-4d92-8224-9ef44f8537ae,67a243ea6d8e29a001947949,effort-reward,Enfant,4,5,2,Personne âgée,6,5,3
+homme,21,DZA,bac+3,ce01aea0-6ee8-4d92-8224-9ef44f8537ae,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,7,6,6,Personne âgée,3,4,3
+homme,21,DZA,bac+3,ce01aea0-6ee8-4d92-8224-9ef44f8537ae,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,7,7,8,Personne âgée,3,3,3
+homme,21,DZA,bac+3,ce01aea0-6ee8-4d92-8224-9ef44f8537ae,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,0,10,6,Robot,10,0,10
+homme,21,DZA,bac+3,ce01aea0-6ee8-4d92-8224-9ef44f8537ae,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,6,5,6,Femme petite taille,4,5,4
+homme,21,DZA,bac+3,ce01aea0-6ee8-4d92-8224-9ef44f8537ae,67a51e546623f6ccab523c27,risk-effort,Robot,0,10,10,Femme grande taille,10,0,6
+homme,21,DZA,bac+3,ce01aea0-6ee8-4d92-8224-9ef44f8537ae,67a243ea6d8e29a001947944,risk-reward,Personne âgée,6,5,3,Enfant,4,5,2
+homme,21,DZA,bac+3,ce01aea0-6ee8-4d92-8224-9ef44f8537ae,67a243ea6d8e29a001947944,risk-reward,Personne âgée,3,5,3,Homme petite taille,7,5,6
+homme,21,DZA,bac+3,ce01aea0-6ee8-4d92-8224-9ef44f8537ae,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,4,5,6,Homme grande taille,6,5,8
+homme,21,DZA,bac+3,ce01aea0-6ee8-4d92-8224-9ef44f8537ae,67a51eb49d8894e943d3ff93,risk-effort,Femme petite taille,4,6,4,Femme grande taille,6,4,6
+homme,21,DZA,bac+3,ce01aea0-6ee8-4d92-8224-9ef44f8537ae,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,0,10,6,Robot,10,0,10
+femme,22,FRA,bac+5,850ad2db-d6d9-4c5e-9d9f-91d534264d81,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,1,3,1,Homme petite taille,9,7,1
+femme,22,FRA,bac+5,850ad2db-d6d9-4c5e-9d9f-91d534264d81,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,5,10,1,Personne âgée,5,0,1
+femme,22,FRA,bac+5,850ad2db-d6d9-4c5e-9d9f-91d534264d81,67a243ea6d8e29a001947949,effort-reward,Robot,10,5,1,Homme petite taille,0,5,1
+femme,22,FRA,bac+5,850ad2db-d6d9-4c5e-9d9f-91d534264d81,67a51eb49d8894e943d3ff93,risk-effort,Enfant,0,5,1,Homme grande taille,10,5,1
+femme,22,FRA,bac+5,850ad2db-d6d9-4c5e-9d9f-91d534264d81,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,5,5,1,Femme petite taille,5,5,5
+femme,22,FRA,bac+5,850ad2db-d6d9-4c5e-9d9f-91d534264d81,67a243ea6d8e29a001947948,effort-reward,Personne âgée,0,0,1,Homme petite taille,10,10,1
+femme,22,FRA,bac+5,850ad2db-d6d9-4c5e-9d9f-91d534264d81,67a51e546623f6ccab523c27,risk-effort,Personne âgée,0,0,1,Robot,10,10,1
+femme,22,FRA,bac+5,850ad2db-d6d9-4c5e-9d9f-91d534264d81,67a243ea6d8e29a001947945,risk-reward,Enfant,0,2,1,Femme petite taille,10,8,5
+femme,22,FRA,bac+5,850ad2db-d6d9-4c5e-9d9f-91d534264d81,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,10,10,1,Femme petite taille,0,0,5
+femme,22,FRA,bac+5,850ad2db-d6d9-4c5e-9d9f-91d534264d81,67a51efa18a0dfe14aac016b,risk-effort,Enfant,0,5,1,Robot,10,5,1
+femme,22,FRA,bac+5,850ad2db-d6d9-4c5e-9d9f-91d534264d81,67a243ea6d8e29a001947944,risk-reward,Femme grande taille,10,5,1,Personne âgée,0,5,1
+femme,22,FRA,bac+5,850ad2db-d6d9-4c5e-9d9f-91d534264d81,67a243ea6d8e29a001947948,effort-reward,Femme petite taille,5,5,5,Femme grande taille,5,5,1
+femme,22,FRA,bac+5,850ad2db-d6d9-4c5e-9d9f-91d534264d81,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,5,5,1,Femme petite taille,5,5,5
+femme,22,FRA,bac+5,850ad2db-d6d9-4c5e-9d9f-91d534264d81,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,7,7,5,Personne âgée,3,3,1
+femme,22,FRA,bac+5,850ad2db-d6d9-4c5e-9d9f-91d534264d81,67a243ea6d8e29a001947945,risk-reward,Homme petite taille,5,5,1,Femme petite taille,5,5,5
+femme,22,FRA,bac+5,850ad2db-d6d9-4c5e-9d9f-91d534264d81,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,5,5,5,Homme petite taille,5,5,1
+femme,22,FRA,bac+5,850ad2db-d6d9-4c5e-9d9f-91d534264d81,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,5,5,1,Homme grande taille,5,5,1
+femme,22,FRA,bac+5,850ad2db-d6d9-4c5e-9d9f-91d534264d81,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,5,5,1,Femme petite taille,5,5,5
+homme,19,FRA,bac+2,e85a10cc-7ab2-4433-9309-d9696c2781d3,67a243ea6d8e29a001947946,risk-reward,Enfant,2,3,3,Robot,8,7,10
+homme,19,FRA,bac+2,e85a10cc-7ab2-4433-9309-d9696c2781d3,67a243ea6d8e29a001947945,risk-reward,Personne âgée,3,4,2,Femme grande taille,7,6,7
+homme,19,FRA,bac+2,e85a10cc-7ab2-4433-9309-d9696c2781d3,67a243ea6d8e29a001947949,effort-reward,Enfant,4,3,3,Femme grande taille,6,7,7
+homme,19,FRA,bac+2,e85a10cc-7ab2-4433-9309-d9696c2781d3,67a243ea6d8e29a001947947,effort-reward,Robot,8,7,10,Femme grande taille,2,3,7
+homme,19,FRA,bac+2,e85a10cc-7ab2-4433-9309-d9696c2781d3,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,4,5,7,Homme petite taille,6,5,6
+homme,19,FRA,bac+2,e85a10cc-7ab2-4433-9309-d9696c2781d3,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,2,8,8,Homme petite taille,8,2,6
+homme,19,FRA,bac+2,e85a10cc-7ab2-4433-9309-d9696c2781d3,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,2,8,8,Femme grande taille,8,2,7
+homme,19,FRA,bac+2,e85a10cc-7ab2-4433-9309-d9696c2781d3,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,2,5,5,Robot,8,5,10
+homme,19,FRA,bac+2,e85a10cc-7ab2-4433-9309-d9696c2781d3,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,6,5,6,Homme grande taille,4,5,8
+homme,19,FRA,bac+2,e85a10cc-7ab2-4433-9309-d9696c2781d3,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,8,2,8,Femme petite taille,2,8,5
+homme,19,FRA,bac+2,e85a10cc-7ab2-4433-9309-d9696c2781d3,67a243ea6d8e29a001947947,effort-reward,Personne âgée,0,2,2,Robot,10,8,10
+homme,19,FRA,bac+2,e85a10cc-7ab2-4433-9309-d9696c2781d3,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,1,7,7,Robot,9,3,10
+homme,19,FRA,bac+2,e85a10cc-7ab2-4433-9309-d9696c2781d3,67a243ea6d8e29a001947948,effort-reward,Enfant,0,2,3,Homme grande taille,10,8,8
+homme,19,FRA,bac+2,e85a10cc-7ab2-4433-9309-d9696c2781d3,67a51efa18a0dfe14aac016b,risk-effort,Enfant,9,4,3,Personne âgée,1,6,2
+homme,19,FRA,bac+2,e85a10cc-7ab2-4433-9309-d9696c2781d3,67a51e546623f6ccab523c27,risk-effort,Femme grande taille,1,9,7,Enfant,9,1,3
+homme,19,FRA,bac+2,e85a10cc-7ab2-4433-9309-d9696c2781d3,67a243ea6d8e29a001947946,risk-reward,Robot,7,6,10,Femme petite taille,3,4,5
+homme,19,FRA,bac+2,e85a10cc-7ab2-4433-9309-d9696c2781d3,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,9,7,8,Personne âgée,1,3,2
+homme,19,FRA,bac+2,e85a10cc-7ab2-4433-9309-d9696c2781d3,67a243ea6d8e29a001947945,risk-reward,Robot,7,6,10,Homme grande taille,3,4,8
+femme,22,ITA,bac+3,19128c38-501d-40c9-b3ec-4ac352d763f8,67a243ea6d8e29a001947947,effort-reward,Robot,10,0,10,Femme grande taille,0,10,5
+femme,22,ITA,bac+3,19128c38-501d-40c9-b3ec-4ac352d763f8,67a51efa18a0dfe14aac016b,risk-effort,Homme petite taille,10,10,7,Enfant,0,0,2
+femme,22,ITA,bac+3,19128c38-501d-40c9-b3ec-4ac352d763f8,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,1,10,9,Femme petite taille,9,0,4
+femme,22,ITA,bac+3,19128c38-501d-40c9-b3ec-4ac352d763f8,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,5,5,5,Femme petite taille,5,5,4
+femme,22,ITA,bac+3,19128c38-501d-40c9-b3ec-4ac352d763f8,67a243ea6d8e29a001947948,effort-reward,Femme petite taille,10,5,4,Enfant,0,5,2
+femme,22,ITA,bac+3,19128c38-501d-40c9-b3ec-4ac352d763f8,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,5,5,5,Homme petite taille,5,5,7
+femme,22,ITA,bac+3,19128c38-501d-40c9-b3ec-4ac352d763f8,67a51e546623f6ccab523c27,risk-effort,Enfant,0,0,2,Femme petite taille,10,10,4
+femme,22,ITA,bac+3,19128c38-501d-40c9-b3ec-4ac352d763f8,67a243ea6d8e29a001947944,risk-reward,Enfant,1,2,2,Femme petite taille,9,8,4
+femme,22,ITA,bac+3,19128c38-501d-40c9-b3ec-4ac352d763f8,67a243ea6d8e29a001947948,effort-reward,Personne âgée,0,3,1,Homme petite taille,10,7,7
+femme,22,ITA,bac+3,19128c38-501d-40c9-b3ec-4ac352d763f8,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,6,5,7,Femme grande taille,4,5,5
+femme,22,ITA,bac+3,19128c38-501d-40c9-b3ec-4ac352d763f8,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,6,6,9,Femme grande taille,4,4,5
+femme,22,ITA,bac+3,19128c38-501d-40c9-b3ec-4ac352d763f8,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,3,3,5,Homme grande taille,7,7,9
+femme,22,ITA,bac+3,19128c38-501d-40c9-b3ec-4ac352d763f8,67a243ea6d8e29a001947949,effort-reward,Robot,10,0,10,Homme grande taille,0,10,9
+femme,22,ITA,bac+3,19128c38-501d-40c9-b3ec-4ac352d763f8,67a243ea6d8e29a001947944,risk-reward,Robot,10,0,10,Femme grande taille,0,10,5
+femme,22,ITA,bac+3,19128c38-501d-40c9-b3ec-4ac352d763f8,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,0,0,1,Robot,10,10,10
+femme,22,ITA,bac+3,19128c38-501d-40c9-b3ec-4ac352d763f8,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,9,9,1,Enfant,1,1,2
+femme,22,ITA,bac+3,19128c38-501d-40c9-b3ec-4ac352d763f8,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,5,5,7,Femme grande taille,5,5,5
+femme,22,ITA,bac+3,19128c38-501d-40c9-b3ec-4ac352d763f8,67a51eb49d8894e943d3ff93,risk-effort,Femme petite taille,8,8,4,Personne âgée,2,2,1
+femme,21,FRA,bac+3,3830cf9c-e391-4479-8775-e2137586812d,67a243ea6d8e29a001947946,risk-reward,Robot,5,4,6,Personne âgée,5,6,6
+femme,21,FRA,bac+3,3830cf9c-e391-4479-8775-e2137586812d,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,3,4,6,Homme grande taille,7,6,2
+homme,20,FRA,bac+2,8c2cc152-9712-4a1b-b350-fb153065790d,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,10,10,5,Enfant,0,0,1
+homme,20,FRA,bac+2,8c2cc152-9712-4a1b-b350-fb153065790d,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,0,10,5,Enfant,10,0,1
+homme,20,FRA,bac+2,8c2cc152-9712-4a1b-b350-fb153065790d,67a51eb49d8894e943d3ff93,risk-effort,Enfant,0,0,1,Homme petite taille,10,10,7
+homme,20,FRA,bac+2,8c2cc152-9712-4a1b-b350-fb153065790d,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,0,0,5,Robot,10,10,10
+homme,20,FRA,bac+2,8c2cc152-9712-4a1b-b350-fb153065790d,67a51e546623f6ccab523c27,risk-effort,Enfant,0,0,1,Homme grande taille,10,10,7
+homme,20,FRA,bac+2,8c2cc152-9712-4a1b-b350-fb153065790d,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,10,5,7,Femme grande taille,0,5,5
+femme,21,FRA,bac+3,6cdb7dfe-c66a-4265-8aec-87b7a64d6e3c,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,6,4,8,Femme petite taille,4,6,8
+femme,21,FRA,bac+3,6cdb7dfe-c66a-4265-8aec-87b7a64d6e3c,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,7,7,8,Enfant,3,3,4
+femme,21,FRA,bac+3,6cdb7dfe-c66a-4265-8aec-87b7a64d6e3c,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,7,3,2,Femme petite taille,3,7,8
+femme,21,FRA,bac+3,6cdb7dfe-c66a-4265-8aec-87b7a64d6e3c,67a243ea6d8e29a001947949,effort-reward,Enfant,7,7,4,Personne âgée,3,3,2
+femme,21,FRA,bac+3,6cdb7dfe-c66a-4265-8aec-87b7a64d6e3c,67a243ea6d8e29a001947949,effort-reward,Personne âgée,2,5,2,Robot,8,5,8
+femme,21,FRA,bac+3,6cdb7dfe-c66a-4265-8aec-87b7a64d6e3c,67a243ea6d8e29a001947948,effort-reward,Personne âgée,2,5,2,Femme grande taille,8,5,9
+femme,21,FRA,bac+3,6cdb7dfe-c66a-4265-8aec-87b7a64d6e3c,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,4,6,7,Homme grande taille,6,4,8
+femme,21,FRA,bac+3,6cdb7dfe-c66a-4265-8aec-87b7a64d6e3c,67a243ea6d8e29a001947945,risk-reward,Enfant,2,4,4,Femme grande taille,8,6,9
+femme,21,FRA,bac+3,6cdb7dfe-c66a-4265-8aec-87b7a64d6e3c,67a243ea6d8e29a001947945,risk-reward,Robot,7,5,8,Femme grande taille,3,5,9
+femme,21,FRA,bac+3,6cdb7dfe-c66a-4265-8aec-87b7a64d6e3c,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,5,5,8,Homme grande taille,5,5,8
+femme,21,FRA,bac+3,6cdb7dfe-c66a-4265-8aec-87b7a64d6e3c,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,4,5,7,Homme grande taille,6,5,8
+femme,21,FRA,bac+3,6cdb7dfe-c66a-4265-8aec-87b7a64d6e3c,67a51e546623f6ccab523c27,risk-effort,Personne âgée,6,4,2,Enfant,4,6,4
+femme,21,FRA,bac+3,6cdb7dfe-c66a-4265-8aec-87b7a64d6e3c,67a243ea6d8e29a001947946,risk-reward,Robot,7,4,8,Enfant,3,6,4
+femme,21,FRA,bac+3,6cdb7dfe-c66a-4265-8aec-87b7a64d6e3c,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,8,2,9,Personne âgée,2,8,2
+femme,21,FRA,bac+3,6cdb7dfe-c66a-4265-8aec-87b7a64d6e3c,67a243ea6d8e29a001947944,risk-reward,Personne âgée,2,7,2,Robot,8,3,8
+femme,21,FRA,bac+3,6cdb7dfe-c66a-4265-8aec-87b7a64d6e3c,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,8,6,8,Personne âgée,2,4,2
+femme,21,FRA,bac+3,6cdb7dfe-c66a-4265-8aec-87b7a64d6e3c,67a243ea6d8e29a001947946,risk-reward,Homme grande taille,7,6,8,Enfant,3,4,4
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,10,0,6,Robot,0,10,8
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,0,10,6,Femme grande taille,10,0,7
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,10,2,4,Enfant,0,8,3
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a243ea6d8e29a001947944,risk-reward,Robot,3,3,8,Homme grande taille,7,7,9
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,5,5,6,Femme grande taille,5,5,7
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a51eb49d8894e943d3ff93,risk-effort,Femme petite taille,2,8,6,Robot,8,2,8
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a243ea6d8e29a001947945,risk-reward,Personne âgée,10,0,4,Enfant,0,10,3
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a51e546623f6ccab523c27,risk-effort,Femme grande taille,5,5,7,Homme grande taille,5,5,9
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,5,5,7,Robot,5,5,8
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a243ea6d8e29a001947946,risk-reward,Homme grande taille,8,2,9,Enfant,2,8,3
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,3,1,6,Robot,7,9,8
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,5,5,9,Homme grande taille,5,5,9
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,5,5,7,Homme grande taille,5,5,9
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,7,2,9,Femme petite taille,3,8,6
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,7,2,9,Femme petite taille,3,8,6
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,7,3,9,Personne âgée,3,7,4
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a243ea6d8e29a001947944,risk-reward,Femme grande taille,5,5,7,Enfant,5,5,3
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a243ea6d8e29a001947944,risk-reward,Femme grande taille,5,5,7,Enfant,5,5,3
+femme,20,FRA,bac+3,73f60ef9-388d-431b-80bd-d5165fd8122f,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,5,5,6,Femme grande taille,5,5,7
+homme,23,PER,bac+5,762bdc62-dde0-49c3-8407-ea5a2af6f922,67a51efa18a0dfe14aac016b,risk-effort,Robot,7,3,8,Homme grande taille,3,7,7
+homme,23,PER,bac+5,762bdc62-dde0-49c3-8407-ea5a2af6f922,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,5,6,7,Femme grande taille,5,4,7
+homme,23,PER,bac+5,762bdc62-dde0-49c3-8407-ea5a2af6f922,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,3,10,6,Robot,7,0,8
+homme,23,PER,bac+5,762bdc62-dde0-49c3-8407-ea5a2af6f922,67a51e546623f6ccab523c27,risk-effort,Femme grande taille,5,5,7,Homme petite taille,5,5,6
+homme,23,PER,bac+5,762bdc62-dde0-49c3-8407-ea5a2af6f922,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,5,5,6,Robot,5,5,8
+homme,23,PER,bac+5,762bdc62-dde0-49c3-8407-ea5a2af6f922,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,5,5,7,Homme grande taille,5,5,7
+femme,20,FRA,bac+3,727addb2-d7fd-4821-afd0-36bd6c614975,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,6,6,7,Femme petite taille,4,4,6
+femme,20,FRA,bac+3,727addb2-d7fd-4821-afd0-36bd6c614975,67a51e546623f6ccab523c27,risk-effort,Robot,9,4,9,Homme petite taille,1,6,7
+femme,20,FRA,bac+3,727addb2-d7fd-4821-afd0-36bd6c614975,67a243ea6d8e29a001947946,risk-reward,Personne âgée,4,5,4,Femme petite taille,6,5,6
+femme,20,FRA,bac+3,727addb2-d7fd-4821-afd0-36bd6c614975,67a51e546623f6ccab523c27,risk-effort,Enfant,0,0,3,Homme grande taille,10,10,8
+femme,20,FRA,bac+3,727addb2-d7fd-4821-afd0-36bd6c614975,67a243ea6d8e29a001947945,risk-reward,Femme petite taille,3,5,6,Homme grande taille,7,5,8
+femme,20,FRA,bac+3,727addb2-d7fd-4821-afd0-36bd6c614975,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,0,10,7,Personne âgée,10,0,4
+femme,20,FRA,bac+3,727addb2-d7fd-4821-afd0-36bd6c614975,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,5,5,6,Homme petite taille,5,5,7
+femme,20,FRA,bac+3,727addb2-d7fd-4821-afd0-36bd6c614975,67a243ea6d8e29a001947948,effort-reward,Robot,10,0,9,Enfant,0,10,3
+femme,20,FRA,bac+3,727addb2-d7fd-4821-afd0-36bd6c614975,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,8,2,4,Femme grande taille,2,8,7
+femme,20,FRA,bac+3,727addb2-d7fd-4821-afd0-36bd6c614975,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,5,5,8,Enfant,5,5,3
+femme,20,FRA,bac+3,727addb2-d7fd-4821-afd0-36bd6c614975,67a243ea6d8e29a001947948,effort-reward,Enfant,0,4,3,Homme petite taille,10,6,7
+femme,20,FRA,bac+3,727addb2-d7fd-4821-afd0-36bd6c614975,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,0,10,7,Robot,10,0,9
+femme,20,FRA,bac+3,727addb2-d7fd-4821-afd0-36bd6c614975,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,5,5,6,Homme grande taille,5,5,8
+femme,20,FRA,bac+3,727addb2-d7fd-4821-afd0-36bd6c614975,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,6,5,8,Personne âgée,4,5,4
+femme,20,FRA,bac+3,727addb2-d7fd-4821-afd0-36bd6c614975,67a51efa18a0dfe14aac016b,risk-effort,Enfant,0,0,3,Robot,10,10,9
+femme,20,FRA,bac+3,727addb2-d7fd-4821-afd0-36bd6c614975,67a243ea6d8e29a001947947,effort-reward,Personne âgée,3,3,4,Homme grande taille,7,7,8
+femme,20,FRA,bac+3,727addb2-d7fd-4821-afd0-36bd6c614975,67a243ea6d8e29a001947946,risk-reward,Homme grande taille,1,10,8,Robot,9,0,9
+femme,20,FRA,bac+3,727addb2-d7fd-4821-afd0-36bd6c614975,67a243ea6d8e29a001947944,risk-reward,Enfant,4,5,3,Homme grande taille,6,5,8
+femme,35,FRA,lycee,d4d68077-1f94-4b5b-ad3c-9d827036f9b6,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,4,4,8,Robot,6,6,10
+femme,35,FRA,lycee,d4d68077-1f94-4b5b-ad3c-9d827036f9b6,67a243ea6d8e29a001947949,effort-reward,Personne âgée,2,5,2,Homme grande taille,8,5,8
+femme,35,FRA,lycee,d4d68077-1f94-4b5b-ad3c-9d827036f9b6,67a243ea6d8e29a001947948,effort-reward,Homme grande taille,5,5,8,Homme petite taille,5,5,8
+femme,35,FRA,lycee,d4d68077-1f94-4b5b-ad3c-9d827036f9b6,67a243ea6d8e29a001947944,risk-reward,Personne âgée,2,5,2,Homme petite taille,8,5,8
+femme,35,FRA,lycee,d4d68077-1f94-4b5b-ad3c-9d827036f9b6,67a243ea6d8e29a001947948,effort-reward,Homme grande taille,9,5,8,Personne âgée,1,5,2
+femme,35,FRA,lycee,d4d68077-1f94-4b5b-ad3c-9d827036f9b6,67a243ea6d8e29a001947949,effort-reward,Enfant,3,5,3,Femme grande taille,7,5,6
+femme,35,FRA,lycee,d4d68077-1f94-4b5b-ad3c-9d827036f9b6,67a243ea6d8e29a001947946,risk-reward,Robot,5,5,10,Femme petite taille,5,5,6
+femme,35,FRA,lycee,d4d68077-1f94-4b5b-ad3c-9d827036f9b6,67a243ea6d8e29a001947946,risk-reward,Enfant,2,5,3,Femme petite taille,8,5,6
+femme,35,FRA,lycee,d4d68077-1f94-4b5b-ad3c-9d827036f9b6,67a243ea6d8e29a001947947,effort-reward,Enfant,0,5,3,Homme petite taille,10,5,8
+femme,35,FRA,lycee,d4d68077-1f94-4b5b-ad3c-9d827036f9b6,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,8,5,6,Personne âgée,2,5,2
+femme,35,FRA,lycee,d4d68077-1f94-4b5b-ad3c-9d827036f9b6,67a243ea6d8e29a001947945,risk-reward,Femme petite taille,5,5,6,Homme grande taille,5,5,8
+femme,35,FRA,lycee,d4d68077-1f94-4b5b-ad3c-9d827036f9b6,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,5,5,8,Femme grande taille,5,5,6
+femme,35,FRA,lycee,d4d68077-1f94-4b5b-ad3c-9d827036f9b6,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,5,5,6,Femme grande taille,5,5,6
+femme,35,FRA,lycee,d4d68077-1f94-4b5b-ad3c-9d827036f9b6,67a51eb49d8894e943d3ff93,risk-effort,Enfant,0,0,3,Femme grande taille,10,10,6
+femme,35,FRA,lycee,d4d68077-1f94-4b5b-ad3c-9d827036f9b6,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,5,5,8,Homme grande taille,5,5,8
+femme,35,FRA,lycee,d4d68077-1f94-4b5b-ad3c-9d827036f9b6,67a51e546623f6ccab523c27,risk-effort,Enfant,0,0,3,Femme grande taille,10,10,6
+femme,35,FRA,lycee,d4d68077-1f94-4b5b-ad3c-9d827036f9b6,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,0,5,8,Robot,10,5,10
+femme,35,FRA,lycee,d4d68077-1f94-4b5b-ad3c-9d827036f9b6,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,2,2,2,Homme petite taille,8,8,8
+homme,22,GBR,bac+2,9defcbc5-7cc6-4ae6-9eac-30fe3f06d058,67a243ea6d8e29a001947948,effort-reward,Homme grande taille,7,6,3,Femme petite taille,3,4,3
+homme,22,GBR,bac+2,9defcbc5-7cc6-4ae6-9eac-30fe3f06d058,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,10,10,3,Enfant,0,0,2
+homme,22,GBR,bac+2,9defcbc5-7cc6-4ae6-9eac-30fe3f06d058,67a51e546623f6ccab523c27,risk-effort,Enfant,5,5,2,Homme petite taille,5,5,4
+homme,22,GBR,bac+2,9defcbc5-7cc6-4ae6-9eac-30fe3f06d058,67a243ea6d8e29a001947949,effort-reward,Personne âgée,0,10,3,Robot,10,0,1
+homme,22,GBR,bac+2,9defcbc5-7cc6-4ae6-9eac-30fe3f06d058,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,0,0,4,Robot,10,10,1
+homme,22,GBR,bac+2,9defcbc5-7cc6-4ae6-9eac-30fe3f06d058,67a243ea6d8e29a001947944,risk-reward,Femme petite taille,5,5,3,Homme grande taille,5,5,3
+homme,22,GBR,bac+2,9defcbc5-7cc6-4ae6-9eac-30fe3f06d058,67a243ea6d8e29a001947948,effort-reward,Homme grande taille,3,3,3,Homme petite taille,7,7,4
+homme,22,GBR,bac+2,9defcbc5-7cc6-4ae6-9eac-30fe3f06d058,67a51efa18a0dfe14aac016b,risk-effort,Robot,10,10,1,Homme petite taille,0,0,4
+homme,22,GBR,bac+2,9defcbc5-7cc6-4ae6-9eac-30fe3f06d058,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,3,5,3,Homme petite taille,7,5,4
+homme,22,GBR,bac+2,9defcbc5-7cc6-4ae6-9eac-30fe3f06d058,67a243ea6d8e29a001947946,risk-reward,Femme petite taille,10,10,3,Enfant,0,0,2
+homme,22,GBR,bac+2,9defcbc5-7cc6-4ae6-9eac-30fe3f06d058,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,5,5,3,Femme petite taille,5,5,3
+homme,22,GBR,bac+2,9defcbc5-7cc6-4ae6-9eac-30fe3f06d058,67a243ea6d8e29a001947945,risk-reward,Personne âgée,0,5,3,Homme petite taille,10,5,4
+homme,22,GBR,bac+2,9defcbc5-7cc6-4ae6-9eac-30fe3f06d058,67a51eb49d8894e943d3ff93,risk-effort,Femme grande taille,0,0,3,Robot,10,10,1
+homme,22,GBR,bac+2,9defcbc5-7cc6-4ae6-9eac-30fe3f06d058,67a243ea6d8e29a001947944,risk-reward,Enfant,0,0,2,Femme grande taille,10,10,3
+homme,22,GBR,bac+2,9defcbc5-7cc6-4ae6-9eac-30fe3f06d058,67a51e546623f6ccab523c27,risk-effort,Enfant,5,0,2,Homme petite taille,5,10,4
+homme,22,GBR,bac+2,9defcbc5-7cc6-4ae6-9eac-30fe3f06d058,67a243ea6d8e29a001947946,risk-reward,Enfant,3,0,2,Femme grande taille,7,10,3
+homme,22,GBR,bac+2,9defcbc5-7cc6-4ae6-9eac-30fe3f06d058,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,5,5,3,Homme petite taille,5,5,4
+homme,22,GBR,bac+2,9defcbc5-7cc6-4ae6-9eac-30fe3f06d058,67a243ea6d8e29a001947945,risk-reward,Robot,5,5,1,Femme grande taille,5,5,3
+homme,21,JPN,bac+1,76043402-49a3-4c86-a3d7-ac04ca4f8ceb,67a243ea6d8e29a001947948,effort-reward,Robot,5,5,10,Femme grande taille,5,5,1
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a51e546623f6ccab523c27,risk-effort,Femme grande taille,7,2,5,Robot,3,8,9
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a51efa18a0dfe14aac016b,risk-effort,Robot,4,5,9,Homme grande taille,6,5,8
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a243ea6d8e29a001947946,risk-reward,Robot,0,0,9,Femme petite taille,10,10,4
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a243ea6d8e29a001947944,risk-reward,Femme grande taille,10,10,5,Robot,0,0,9
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a243ea6d8e29a001947945,risk-reward,Robot,8,8,9,Femme grande taille,2,2,5
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a243ea6d8e29a001947948,effort-reward,Femme petite taille,2,2,4,Robot,8,8,9
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,5,5,8,Enfant,5,5,4
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a51eb49d8894e943d3ff93,risk-effort,Robot,5,5,9,Femme petite taille,5,5,4
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,5,5,4,Personne âgée,5,5,2
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,5,5,4,Personne âgée,5,5,2
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,5,5,4,Personne âgée,5,5,2
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,5,5,6,Homme grande taille,5,5,8
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a243ea6d8e29a001947947,effort-reward,Femme petite taille,5,5,4,Femme grande taille,5,5,5
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a243ea6d8e29a001947948,effort-reward,Personne âgée,5,5,2,Femme grande taille,5,5,5
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a243ea6d8e29a001947944,risk-reward,Robot,5,5,9,Personne âgée,5,5,2
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,5,5,6,Femme petite taille,5,5,4
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a243ea6d8e29a001947947,effort-reward,Personne âgée,5,5,2,Homme grande taille,5,5,8
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a51e546623f6ccab523c27,risk-effort,Enfant,5,5,4,Homme grande taille,5,5,8
+homme,20,FRA,bac+4,d0cc3a04-dadd-47b2-b32c-cbcd18a8edaf,67a243ea6d8e29a001947945,risk-reward,Enfant,5,5,4,Personne âgée,5,5,2
+homme,19,FRA,bac+1,430232b3-ad10-4a1c-ba28-fffa2b5e9d76,67a243ea6d8e29a001947946,risk-reward,Enfant,7,7,1,Robot,3,3,7
+homme,19,FRA,bac+1,430232b3-ad10-4a1c-ba28-fffa2b5e9d76,67a243ea6d8e29a001947945,risk-reward,Enfant,0,1,1,Homme grande taille,10,9,10
+homme,19,FRA,bac+1,430232b3-ad10-4a1c-ba28-fffa2b5e9d76,67a51eb49d8894e943d3ff93,risk-effort,Personne âgée,1,1,2,Robot,9,9,7
+homme,19,FRA,bac+1,430232b3-ad10-4a1c-ba28-fffa2b5e9d76,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,5,5,4,Femme grande taille,5,5,6
+homme,19,FRA,bac+1,430232b3-ad10-4a1c-ba28-fffa2b5e9d76,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,9,9,9,Personne âgée,1,1,2
+homme,19,FRA,bac+1,430232b3-ad10-4a1c-ba28-fffa2b5e9d76,67a243ea6d8e29a001947945,risk-reward,Personne âgée,1,1,2,Femme grande taille,9,9,6
+homme,19,FRA,bac+1,430232b3-ad10-4a1c-ba28-fffa2b5e9d76,67a243ea6d8e29a001947948,effort-reward,Homme petite taille,2,2,9,Robot,8,8,7
+homme,19,FRA,bac+1,430232b3-ad10-4a1c-ba28-fffa2b5e9d76,67a51e546623f6ccab523c27,risk-effort,Personne âgée,1,1,2,Homme petite taille,9,9,9
+homme,19,FRA,bac+1,430232b3-ad10-4a1c-ba28-fffa2b5e9d76,67a243ea6d8e29a001947946,risk-reward,Homme petite taille,10,10,9,Robot,0,0,7
+homme,19,FRA,bac+1,430232b3-ad10-4a1c-ba28-fffa2b5e9d76,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,10,0,6,Homme grande taille,0,10,10
+homme,19,FRA,bac+1,430232b3-ad10-4a1c-ba28-fffa2b5e9d76,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,10,0,9,Homme grande taille,0,10,10
+homme,19,FRA,bac+1,430232b3-ad10-4a1c-ba28-fffa2b5e9d76,67a243ea6d8e29a001947949,effort-reward,Homme grande taille,4,4,10,Femme grande taille,6,6,6
+homme,19,FRA,bac+1,430232b3-ad10-4a1c-ba28-fffa2b5e9d76,67a243ea6d8e29a001947944,risk-reward,Personne âgée,1,1,2,Femme grande taille,9,9,6
+homme,19,FRA,bac+1,430232b3-ad10-4a1c-ba28-fffa2b5e9d76,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,0,10,6,Robot,10,0,7
+homme,19,FRA,bac+1,430232b3-ad10-4a1c-ba28-fffa2b5e9d76,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,0,7,10,Robot,10,3,7
+homme,19,FRA,bac+1,430232b3-ad10-4a1c-ba28-fffa2b5e9d76,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,5,5,10,Homme petite taille,5,5,9
+homme,19,FRA,bac+1,430232b3-ad10-4a1c-ba28-fffa2b5e9d76,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,4,4,4,Homme petite taille,6,6,9
+homme,19,FRA,bac+1,430232b3-ad10-4a1c-ba28-fffa2b5e9d76,67a243ea6d8e29a001947944,risk-reward,Robot,7,0,7,Femme grande taille,3,10,6
+homme,18,FRA,lycee,3c96b360-47a5-444e-9f18-38b73c50cf2c,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,7,3,3,Homme petite taille,3,7,4
+homme,18,FRA,lycee,3c96b360-47a5-444e-9f18-38b73c50cf2c,67a243ea6d8e29a001947945,risk-reward,Enfant,7,3,3,Femme petite taille,3,7,3
+homme,18,FRA,lycee,3c96b360-47a5-444e-9f18-38b73c50cf2c,67a243ea6d8e29a001947944,risk-reward,Personne âgée,9,0,5,Robot,1,10,3
+homme,18,FRA,lycee,3c96b360-47a5-444e-9f18-38b73c50cf2c,67a243ea6d8e29a001947947,effort-reward,Homme grande taille,5,10,7,Enfant,5,0,3
+homme,18,FRA,lycee,3c96b360-47a5-444e-9f18-38b73c50cf2c,67a51efa18a0dfe14aac016b,risk-effort,Homme petite taille,8,3,4,Robot,2,7,3
+homme,18,FRA,lycee,3c96b360-47a5-444e-9f18-38b73c50cf2c,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,7,3,7,Homme petite taille,3,7,4
+homme,18,FRA,lycee,3c96b360-47a5-444e-9f18-38b73c50cf2c,67a243ea6d8e29a001947946,risk-reward,Homme grande taille,3,7,7,Femme petite taille,7,3,3
+homme,18,FRA,lycee,3c96b360-47a5-444e-9f18-38b73c50cf2c,67a243ea6d8e29a001947944,risk-reward,Enfant,0,10,3,Homme petite taille,10,0,4
+homme,18,FRA,lycee,3c96b360-47a5-444e-9f18-38b73c50cf2c,67a243ea6d8e29a001947945,risk-reward,Enfant,7,3,3,Femme petite taille,3,7,3
+homme,18,FRA,lycee,3c96b360-47a5-444e-9f18-38b73c50cf2c,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,9,1,5,Femme grande taille,1,9,6
+homme,18,FRA,lycee,3c96b360-47a5-444e-9f18-38b73c50cf2c,67a243ea6d8e29a001947949,effort-reward,Personne âgée,1,9,5,Femme petite taille,9,1,3
+homme,18,FRA,lycee,3c96b360-47a5-444e-9f18-38b73c50cf2c,67a51eb49d8894e943d3ff93,risk-effort,Femme petite taille,7,2,3,Homme petite taille,3,8,4
+homme,18,FRA,lycee,3c96b360-47a5-444e-9f18-38b73c50cf2c,67a51e546623f6ccab523c27,risk-effort,Enfant,2,0,3,Femme grande taille,8,10,6
+homme,18,FRA,lycee,3c96b360-47a5-444e-9f18-38b73c50cf2c,67a243ea6d8e29a001947948,effort-reward,Robot,8,2,3,Femme petite taille,2,8,3
+homme,18,FRA,lycee,3c96b360-47a5-444e-9f18-38b73c50cf2c,67a243ea6d8e29a001947949,effort-reward,Personne âgée,1,9,5,Femme grande taille,9,1,6
+homme,18,FRA,lycee,3c96b360-47a5-444e-9f18-38b73c50cf2c,67a243ea6d8e29a001947947,effort-reward,Enfant,1,5,3,Homme petite taille,9,5,4
+homme,18,FRA,lycee,3c96b360-47a5-444e-9f18-38b73c50cf2c,67a243ea6d8e29a001947948,effort-reward,Enfant,6,6,3,Personne âgée,4,4,5
+homme,18,FRA,lycee,3c96b360-47a5-444e-9f18-38b73c50cf2c,67a243ea6d8e29a001947946,risk-reward,Personne âgée,3,3,5,Homme grande taille,7,7,7
+femme,20,FRA,bac+3,4fd24837-90e9-412c-be54-5cac6e423dd3,67a243ea6d8e29a001947946,risk-reward,Robot,4,0,7,Femme grande taille,6,10,9
+femme,20,FRA,bac+3,4fd24837-90e9-412c-be54-5cac6e423dd3,67a243ea6d8e29a001947947,effort-reward,Enfant,1,1,3,Personne âgée,9,9,6
+femme,20,FRA,bac+3,4fd24837-90e9-412c-be54-5cac6e423dd3,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,6,4,8,Personne âgée,4,6,6
+femme,20,FRA,bac+3,4fd24837-90e9-412c-be54-5cac6e423dd3,67a243ea6d8e29a001947947,effort-reward,Robot,3,0,7,Femme grande taille,7,10,9
+femme,20,FRA,bac+3,4fd24837-90e9-412c-be54-5cac6e423dd3,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,7,5,9,Personne âgée,3,5,6
+femme,20,FRA,bac+3,4fd24837-90e9-412c-be54-5cac6e423dd3,67a243ea6d8e29a001947949,effort-reward,Femme grande taille,5,5,9,Homme petite taille,5,5,8
+femme,20,FRA,bac+3,4fd24837-90e9-412c-be54-5cac6e423dd3,67a243ea6d8e29a001947946,risk-reward,Personne âgée,3,5,6,Robot,7,5,7
+femme,20,FRA,bac+3,4fd24837-90e9-412c-be54-5cac6e423dd3,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,6,5,8,Femme grande taille,4,5,9
+femme,20,FRA,bac+3,4fd24837-90e9-412c-be54-5cac6e423dd3,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,2,8,8,Robot,8,2,7
+femme,20,FRA,bac+3,4fd24837-90e9-412c-be54-5cac6e423dd3,67a51efa18a0dfe14aac016b,risk-effort,Homme petite taille,10,0,8,Homme grande taille,0,10,10
+femme,20,FRA,bac+3,4fd24837-90e9-412c-be54-5cac6e423dd3,67a51eb49d8894e943d3ff93,risk-effort,Enfant,2,7,3,Personne âgée,8,3,6
+femme,20,FRA,bac+3,4fd24837-90e9-412c-be54-5cac6e423dd3,67a243ea6d8e29a001947945,risk-reward,Robot,10,4,7,Enfant,0,6,3
+femme,20,FRA,bac+3,4fd24837-90e9-412c-be54-5cac6e423dd3,67a243ea6d8e29a001947944,risk-reward,Enfant,2,5,3,Personne âgée,8,5,6
+femme,20,FRA,bac+3,4fd24837-90e9-412c-be54-5cac6e423dd3,67a51eb49d8894e943d3ff93,risk-effort,Enfant,0,2,3,Homme grande taille,10,8,10
+femme,20,FRA,bac+3,4fd24837-90e9-412c-be54-5cac6e423dd3,67a243ea6d8e29a001947948,effort-reward,Femme petite taille,8,5,7,Enfant,2,5,3
+femme,20,FRA,bac+3,4fd24837-90e9-412c-be54-5cac6e423dd3,67a243ea6d8e29a001947949,effort-reward,Homme petite taille,5,5,8,Robot,5,5,7
+femme,20,FRA,bac+3,4fd24837-90e9-412c-be54-5cac6e423dd3,67a243ea6d8e29a001947945,risk-reward,Femme grande taille,5,5,9,Homme grande taille,5,5,10
+femme,20,FRA,bac+3,4fd24837-90e9-412c-be54-5cac6e423dd3,67a51efa18a0dfe14aac016b,risk-effort,Robot,5,5,7,Femme petite taille,5,5,7
+femme,21,FRA,bac+4,23130459-a94f-409b-9906-f71be5b41b43,67a243ea6d8e29a001947945,risk-reward,Enfant,3,0,3,Femme petite taille,7,10,7
+femme,21,FRA,bac+4,23130459-a94f-409b-9906-f71be5b41b43,67a243ea6d8e29a001947947,effort-reward,Personne âgée,8,1,10,Femme petite taille,2,9,7
+femme,21,FRA,bac+4,23130459-a94f-409b-9906-f71be5b41b43,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,10,10,10,Enfant,0,0,3
+femme,21,FRA,bac+4,23130459-a94f-409b-9906-f71be5b41b43,67a51efa18a0dfe14aac016b,risk-effort,Homme petite taille,5,5,10,Femme grande taille,5,5,9
+femme,21,FRA,bac+4,23130459-a94f-409b-9906-f71be5b41b43,67a51eb49d8894e943d3ff93,risk-effort,Robot,10,0,10,Enfant,0,10,3
+femme,21,FRA,bac+4,23130459-a94f-409b-9906-f71be5b41b43,67a243ea6d8e29a001947944,risk-reward,Personne âgée,0,10,10,Robot,10,0,10
+femme,21,FRA,bac+4,23130459-a94f-409b-9906-f71be5b41b43,67a51eb49d8894e943d3ff93,risk-effort,Homme grande taille,0,0,10,Robot,10,10,10
+femme,21,FRA,bac+4,23130459-a94f-409b-9906-f71be5b41b43,67a243ea6d8e29a001947948,effort-reward,Personne âgée,1,2,10,Homme petite taille,9,8,10
+femme,21,FRA,bac+4,23130459-a94f-409b-9906-f71be5b41b43,67a243ea6d8e29a001947946,risk-reward,Robot,10,0,10,Personne âgée,0,10,10
+femme,21,FRA,bac+4,23130459-a94f-409b-9906-f71be5b41b43,67a243ea6d8e29a001947945,risk-reward,Robot,10,0,10,Homme petite taille,0,10,10
+femme,21,FRA,bac+4,23130459-a94f-409b-9906-f71be5b41b43,67a243ea6d8e29a001947947,effort-reward,Femme grande taille,10,10,9,Enfant,0,0,3
+femme,21,FRA,bac+4,23130459-a94f-409b-9906-f71be5b41b43,67a51efa18a0dfe14aac016b,risk-effort,Homme grande taille,0,10,10,Personne âgée,10,0,10
+femme,21,FRA,bac+4,23130459-a94f-409b-9906-f71be5b41b43,67a243ea6d8e29a001947949,effort-reward,Personne âgée,1,2,10,Femme grande taille,9,8,9
+femme,21,FRA,bac+4,23130459-a94f-409b-9906-f71be5b41b43,67a51e546623f6ccab523c27,risk-effort,Robot,10,10,10,Homme grande taille,0,0,10
+femme,21,FRA,bac+4,23130459-a94f-409b-9906-f71be5b41b43,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,5,5,9,Homme grande taille,5,5,10
+femme,21,FRA,bac+4,23130459-a94f-409b-9906-f71be5b41b43,67a243ea6d8e29a001947944,risk-reward,Homme grande taille,5,5,10,Femme petite taille,5,5,7
+femme,21,FRA,bac+4,23130459-a94f-409b-9906-f71be5b41b43,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,5,5,7,Homme grande taille,5,5,10
+femme,21,FRA,bac+4,23130459-a94f-409b-9906-f71be5b41b43,67a243ea6d8e29a001947946,risk-reward,Enfant,5,5,3,Femme grande taille,5,5,9
+homme,45,IND,bac+5,1b3b38ab-a26a-4272-aea9-009c096d8341,67a51efa18a0dfe14aac016b,risk-effort,Enfant,7,4,1,Robot,3,6,10
+homme,45,IND,bac+5,1b3b38ab-a26a-4272-aea9-009c096d8341,67a243ea6d8e29a001947948,effort-reward,Femme petite taille,7,3,3,Homme petite taille,3,7,4
+homme,45,IND,bac+5,1b3b38ab-a26a-4272-aea9-009c096d8341,67a243ea6d8e29a001947945,risk-reward,Enfant,9,4,1,Personne âgée,1,6,3
+homme,45,IND,bac+5,1b3b38ab-a26a-4272-aea9-009c096d8341,67a51eb49d8894e943d3ff93,risk-effort,Enfant,6,3,1,Femme petite taille,4,7,3
+homme,45,IND,bac+5,1b3b38ab-a26a-4272-aea9-009c096d8341,67a51efa18a0dfe14aac016b,risk-effort,Femme petite taille,8,3,3,Homme petite taille,2,7,4
+femme,27,DZA,bac+5,f44345d4-f025-43d8-b49b-951f5d53e022,67a243ea6d8e29a001947947,effort-reward,Enfant,5,5,1,Homme grande taille,5,5,1
+femme,27,DZA,bac+5,f44345d4-f025-43d8-b49b-951f5d53e022,67a51efa18a0dfe14aac016b,risk-effort,Personne âgée,10,0,1,Homme grande taille,0,10,1
+femme,27,DZA,bac+5,f44345d4-f025-43d8-b49b-951f5d53e022,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,5,5,1,Enfant,5,5,1
+femme,27,DZA,bac+5,f44345d4-f025-43d8-b49b-951f5d53e022,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,5,5,1,Robot,5,5,1
+femme,27,DZA,bac+5,f44345d4-f025-43d8-b49b-951f5d53e022,67a243ea6d8e29a001947946,risk-reward,Personne âgée,0,3,1,Homme petite taille,10,7,1
+homme,20,DZA,bac+3,5260dc52-0a86-477a-8574-d86b95873c4b,67a243ea6d8e29a001947948,effort-reward,Personne âgée,7,7,7,Femme grande taille,3,3,6
+homme,55,FRA,bac+5,4e6785e1-d95e-4ffb-8352-19389f9acab1,67a243ea6d8e29a001947949,effort-reward,Personne âgée,3,3,2,Femme grande taille,7,7,4
+homme,55,FRA,bac+5,4e6785e1-d95e-4ffb-8352-19389f9acab1,67a243ea6d8e29a001947947,effort-reward,Homme petite taille,5,5,6,Enfant,5,5,2
+homme,55,FRA,bac+5,4e6785e1-d95e-4ffb-8352-19389f9acab1,67a243ea6d8e29a001947944,risk-reward,Homme petite taille,5,5,6,Robot,5,5,4
+homme,55,FRA,bac+5,4e6785e1-d95e-4ffb-8352-19389f9acab1,67a243ea6d8e29a001947945,risk-reward,Enfant,5,5,2,Femme petite taille,5,5,4
+homme,55,FRA,bac+5,4e6785e1-d95e-4ffb-8352-19389f9acab1,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,5,5,4,Personne âgée,5,5,2
+homme,55,FRA,bac+5,4e6785e1-d95e-4ffb-8352-19389f9acab1,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,5,5,4,Personne âgée,5,5,2
+homme,55,FRA,bac+5,4e6785e1-d95e-4ffb-8352-19389f9acab1,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,5,5,6,Robot,5,5,4
+homme,55,FRA,bac+5,4e6785e1-d95e-4ffb-8352-19389f9acab1,67a51e546623f6ccab523c27,risk-effort,Homme grande taille,5,5,6,Robot,5,5,4
+homme,55,FRA,bac+5,4e6785e1-d95e-4ffb-8352-19389f9acab1,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,5,5,6,Homme grande taille,5,5,6
+homme,55,FRA,bac+5,4e6785e1-d95e-4ffb-8352-19389f9acab1,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,5,5,6,Homme petite taille,5,5,6
+homme,55,FRA,bac+5,4e6785e1-d95e-4ffb-8352-19389f9acab1,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,5,5,6,Homme petite taille,5,5,6
+homme,55,FRA,bac+5,4e6785e1-d95e-4ffb-8352-19389f9acab1,67a243ea6d8e29a001947945,risk-reward,Homme grande taille,5,5,6,Homme petite taille,5,5,6
+homme,55,FRA,bac+5,4e6785e1-d95e-4ffb-8352-19389f9acab1,67a51e546623f6ccab523c27,risk-effort,Homme petite taille,5,5,6,Enfant,5,5,2
+homme,55,FRA,bac+5,4e6785e1-d95e-4ffb-8352-19389f9acab1,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,5,5,6,Femme petite taille,5,5,4
+homme,55,FRA,bac+5,4e6785e1-d95e-4ffb-8352-19389f9acab1,67a51eb49d8894e943d3ff93,risk-effort,Homme petite taille,5,5,6,Femme petite taille,5,5,4
+homme,55,FRA,bac+5,4e6785e1-d95e-4ffb-8352-19389f9acab1,67a243ea6d8e29a001947948,effort-reward,Femme petite taille,5,5,4,Femme grande taille,5,5,4
+homme,55,FRA,bac+5,4e6785e1-d95e-4ffb-8352-19389f9acab1,67a243ea6d8e29a001947944,risk-reward,Robot,5,5,4,Femme petite taille,5,5,4
+homme,55,FRA,bac+5,4e6785e1-d95e-4ffb-8352-19389f9acab1,67a51efa18a0dfe14aac016b,risk-effort,Homme petite taille,5,5,6,Homme grande taille,5,5,6
+femme,23,PER,bac+4,858bd9be-b53b-49e1-9865-57b2c186604d,67a243ea6d8e29a001947948,effort-reward,Enfant,0,10,2,Femme grande taille,10,0,6
+femme,23,PER,bac+4,858bd9be-b53b-49e1-9865-57b2c186604d,67a51efa18a0dfe14aac016b,risk-effort,Enfant,10,0,2,Femme petite taille,0,10,4
+femme,23,PER,bac+4,858bd9be-b53b-49e1-9865-57b2c186604d,67a243ea6d8e29a001947945,risk-reward,Robot,10,0,3,Femme grande taille,0,10,6
+femme,23,PER,bac+4,858bd9be-b53b-49e1-9865-57b2c186604d,67a243ea6d8e29a001947944,risk-reward,Robot,5,5,3,Femme grande taille,5,5,6
+femme,23,PER,bac+4,858bd9be-b53b-49e1-9865-57b2c186604d,67a51eb49d8894e943d3ff93,risk-effort,Enfant,10,0,2,Robot,0,10,3
+femme,23,PER,bac+4,858bd9be-b53b-49e1-9865-57b2c186604d,67a51e546623f6ccab523c27,risk-effort,Enfant,0,0,2,Homme petite taille,10,10,4
+femme,23,PER,bac+4,858bd9be-b53b-49e1-9865-57b2c186604d,67a51efa18a0dfe14aac016b,risk-effort,Femme grande taille,0,10,6,Homme grande taille,10,0,7
+femme,23,PER,bac+4,858bd9be-b53b-49e1-9865-57b2c186604d,67a243ea6d8e29a001947949,effort-reward,Femme petite taille,5,5,4,Femme grande taille,5,5,6
+femme,23,PER,bac+4,858bd9be-b53b-49e1-9865-57b2c186604d,67a243ea6d8e29a001947947,effort-reward,Enfant,0,0,2,Femme grande taille,10,10,6
+femme,23,PER,bac+4,858bd9be-b53b-49e1-9865-57b2c186604d,67a51e546623f6ccab523c27,risk-effort,Femme petite taille,5,5,4,Femme grande taille,5,5,6
+femme,23,PER,bac+4,858bd9be-b53b-49e1-9865-57b2c186604d,67a243ea6d8e29a001947944,risk-reward,Enfant,0,0,2,Homme petite taille,10,10,4
+femme,23,PER,bac+4,858bd9be-b53b-49e1-9865-57b2c186604d,67a243ea6d8e29a001947945,risk-reward,Enfant,0,0,2,Homme grande taille,10,10,7
+femme,23,PER,bac+4,858bd9be-b53b-49e1-9865-57b2c186604d,67a243ea6d8e29a001947946,risk-reward,Femme grande taille,5,5,6,Personne âgée,5,5,2
+femme,23,PER,bac+4,858bd9be-b53b-49e1-9865-57b2c186604d,67a243ea6d8e29a001947947,effort-reward,Robot,10,0,3,Enfant,0,10,2
+femme,23,PER,bac+4,858bd9be-b53b-49e1-9865-57b2c186604d,67a51eb49d8894e943d3ff93,risk-effort,Robot,0,0,3,Femme petite taille,10,10,4
+femme,23,PER,bac+4,858bd9be-b53b-49e1-9865-57b2c186604d,67a243ea6d8e29a001947949,effort-reward,Robot,10,0,3,Homme grande taille,0,10,7
+femme,23,PER,bac+4,858bd9be-b53b-49e1-9865-57b2c186604d,67a243ea6d8e29a001947946,risk-reward,Enfant,0,0,2,Femme grande taille,10,10,6
+femme,23,PER,bac+4,858bd9be-b53b-49e1-9865-57b2c186604d,67a243ea6d8e29a001947948,effort-reward,Femme grande taille,5,5,6,Homme petite taille,5,5,4
